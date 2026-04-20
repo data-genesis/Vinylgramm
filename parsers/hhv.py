@@ -7,11 +7,9 @@ import re
 import time
 from typing import Dict, List
 from datetime import datetime
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from pathlib import Path
+from playwright.sync_api import Page
 from .base_parser import BaseParser
 
 class HHVParser(BaseParser):
@@ -24,24 +22,29 @@ class HHVParser(BaseParser):
         self.headless = headless
     
     # Оставляем метод handle_cookies, но делаем его пустым
-    def handle_cookies(self, driver):
+    def handle_cookies(self, page: Page):
         """Пустая реализация обработки cookies (требуется для совместимости с BaseParser)"""
+        self.logger.info("Skipping cookies handling")
         print("🍪 Пропускаем обработку cookies")
         # Ничего не делаем, но метод существует для совместимости
     
     def get_product_urls(self, category_url: str, max_products: int = 100) -> List[str]:
         """Получение URL товаров из категории HHV.de с постепенной прокруткой"""
+        self.logger.info(f"Collecting product URLs from: {category_url}")
         print(f"\n🔍 Collecting product URLs from: {category_url}")
-        driver = self.setup_driver(headless=self.headless)
-        if not driver:
-            print("❌ Failed to setup driver")
+        
+        page = self.setup_browser(headless=self.headless)
+        if not page:
+            self.logger.error("Failed to setup browser")
+            print("❌ Failed to setup browser")
             return []
         
         product_urls = []
         try:
-            driver.get(category_url)
-            self.handle_cookies(driver)
+            page.goto(category_url)
+            self.handle_cookies(page)
             
+            self.logger.info("Waiting for initial page load...")
             print("⏳ Waiting for initial page load...")
             time.sleep(3)
             

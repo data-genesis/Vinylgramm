@@ -1,21 +1,14 @@
 """
-Базовый класс для всех парсеров сайтов
+Базовый класс для всех парсеров
 """
 import os
 import re
 import time
 import logging
-import subprocess
 from datetime import datetime
 from abc import ABC, abstractmethod
 from typing import Dict, List, Optional, Tuple
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
+from playwright.sync_api import sync_playwright, Page, Browser, BrowserContext, Response
 from bs4 import BeautifulSoup
 import requests
 from PIL import Image
@@ -23,6 +16,17 @@ from io import BytesIO
 import base64
 import sys
 import traceback
+from pathlib import Path
+
+from exceptions import (
+    ParserError, 
+    BrowserInitError, 
+    PageLoadError, 
+    ParsingError, 
+    ImageDownloadError,
+    CaptchaDetectedError
+)
+from utils.logging_config import setup_logger, get_critical_logger
 
 
 class BaseParser(ABC):
@@ -30,134 +34,139 @@ class BaseParser(ABC):
     
     def __init__(self, site_name: str):
         self.site_name = site_name
-        self.driver = None
+        self.browser: Optional[Browser] = None
+        self.context: Optional[BrowserContext] = None
+        self.page: Optional[Page] = None
+        self.playwright = None
+        self.logger = None
+        self.critical_logger = None
         self.setup_logging()
     
     def setup_logging(self):
         """Настройка логирования для парсера"""
-        log_dir = os.path.join("logs", "parser")
-        try:
-            os.makedirs(log_dir, exist_ok=True)
-        except Exception:
-            pass
-        log_filename = os.path.join(log_dir, f"{self.site_name}_parser_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
-        logging.basicConfig(
-            filename=log_filename,
+        log_dir = Path("logs") / "parser"
+        log_dir.mkdir(parents=True, exist_ok=True)
+        
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        log_filename = log_dir / f"{self.site_name.lower()}_parser_log_{timestamp}.txt"
+        critical_log_filename = log_dir.parent / f"critical_{self.site_name.lower()}_{timestamp}.log"
+        
+        # Основной логгер
+        self.logger = setup_logger(
+            name=f"{self.site_name}.parser",
+            log_file=str(log_filename),
             level=logging.INFO,
-            format='%(asctime)s %(levelname)s %(message)s',
-            encoding='utf-8'
+            console_output=True,
+            critical_log_file=str(critical_log_filename)
         )
-        logging.info(f"=== {self.site_name} parser session started ===")
+        
+        # Логгер критических ошибок
+        self.critical_logger = get_critical_logger(f"{self.site_name}.critical")
+        
+        self.logger.info(f"=== {self.site_name} parser session started ===")
+        self.logger.info(f"Log file: {log_filename}")
     
-    def setup_driver(self, headless=True) -> Optional[webdriver.Chrome]:
-        """Инициализация Chrome WebDriver с общими настройками для macOS"""
-        print(f"Setting up browser driver for {self.site_name}...")
+    def setup_browser(self, headless: bool = True) -> Optional[Page]:
+        """
+        Инициализация браузера Playwright с настройками для macOS/Linux
         
-        def build_options(headless_mode):
-            opts = Options()
-            
-            if headless_mode:
-                opts.add_argument("--headless")
-                print("  🔇 Headless mode: ON")
-            else:
-                print("  🔊 Headless mode: OFF")
-            
-            # Общие опции
-            opts.add_argument("--disable-gpu")
-            opts.add_argument("--window-size=1920,1200")
-            opts.add_argument("--no-sandbox")
-            opts.add_argument("--disable-dev-shm-usage")
-            opts.add_argument("--disable-web-security")
-            opts.add_argument("--disable-features=VizDisplayCompositor")
-            opts.add_argument("--disable-extensions")
-            opts.add_argument("--disable-plugins")
-            
-            # macOS-specific для предотвращения SIGKILL (-9)
-            opts.add_argument("--disable-background-timer-throttling")
-            opts.add_argument("--disable-backgrounding-occluded-windows")
-            opts.add_argument("--disable-renderer-backgrounding")
-            opts.add_argument("--disable-field-trial-config")
-            opts.add_argument("--enable-automation")
-            opts.add_argument("--disable-infobars")
-            
-            opts.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36")
-            opts.add_argument('log-level=3')
-            opts.add_experimental_option('excludeSwitches', ['enable-logging'])
-            
-            return opts
+        Args:
+            headless: Запуск в безголовом режиме
         
-        options = build_options(headless)
+        Returns:
+            Page объект или None при ошибке
+        """
+        self.logger.info(f"Setting up browser for {self.site_name} (headless={headless})...")
+        print(f"🌐 Setting up browser for {self.site_name}...")
         
+        max_retries = 3
+        
+        for attempt in range(max_retries):
+            try:
+                # Инициализация Playwright
+                self.playwright = sync_playwright().start()
+                
+                # Запуск браузера
+                browser_args = [
+                    "--disable-gpu",
+                    "--no-sandbox",
+                    "--disable-dev-shm-usage",
+                    "--disable-web-security",
+                    "--disable-features=VizDisplayCompositor",
+                    "--disable-extensions",
+                    "--disable-plugins",
+                    "--disable-background-timer-throttling",
+                    "--disable-backgrounding-occluded-windows",
+                    "--disable-renderer-backgrounding",
+                ]
+                
+                if headless:
+                    browser_args.append("--headless")
+                    self.logger.info("Headless mode: ON")
+                    print("  🔇 Headless mode: ON")
+                else:
+                    self.logger.info("Headless mode: OFF")
+                    print("  🔊 Headless mode: OFF")
+                
+                self.browser = self.playwright.chromium.launch(
+                    headless=headless,
+                    args=browser_args
+                )
+                
+                # Настройка контекста
+                self.context = self.browser.new_context(
+                    viewport={"width": 1920, "height": 1200},
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                    locale="en-US",
+                    timezone_id="UTC"
+                )
+                
+                self.page = self.context.new_page()
+                self.page.set_default_timeout(30000)  # 30 секунд
+                self.page.set_default_navigation_timeout(30000)
+                
+                self.logger.info(f"Browser started successfully on attempt {attempt + 1}")
+                print(f"✅ Browser started OK for {self.site_name}!")
+                return self.page
+                
+            except Exception as e:
+                error_msg = f"Attempt {attempt + 1}/{max_retries} failed: {str(e)[:200]}"
+                self.logger.error(error_msg)
+                print(f"❌ {error_msg}...")
+                
+                if attempt == max_retries - 1:
+                    self.critical_logger.critical(
+                        f"Failed to initialize browser after {max_retries} attempts: {e}",
+                        exc_info=True
+                    )
+                    print(f"❌ Failed all browser launch attempts")
+                    return None
+                
+                # Попытка перезапуска с видимым режимом при критических ошибках
+                if 'SIGKILL' in str(e) or '-9' in str(e):
+                    self.logger.warning("SIGKILL detected, retrying with visible mode...")
+                    print("🔄 SIGKILL detected! Retrying VISIBLE browser...")
+                    headless = False
+                
+                time.sleep(2 ** attempt)  # Экспоненциальная задержка
+        
+        return None
+    
+    def close_browser(self):
+        """Закрытие браузера и очистка ресурсов"""
         try:
-            # Поиск chromedriver
-            driver_path = None
-            candidates = [
-                os.path.join("chromedriver", "chromedriver"),
-                "/usr/local/bin/chromedriver",
-                os.getenv("CHROMEDRIVER"),
-            ]
-            
-            for cand in candidates:
-                if cand and os.path.exists(cand):
-                    driver_path = os.path.abspath(cand)
-                    try:
-                        result = subprocess.run([driver_path, '--version'], capture_output=True, text=True, timeout=5)
-                        if result.returncode == 0:
-                            version = result.stdout.strip()
-                            print(f"✅ Local driver found: {driver_path}")
-                            print(f"   Version: {version}")
-                            break
-                    except:
-                        pass
-            
-            # Service setup
-            if driver_path:
-                print("🔄 Testing local driver...")
-                try:
-                    service = ChromeService(executable_path=driver_path)
-                    service.start()
-                    service.stop()
-                    print("✅ Local driver tested OK")
-                except Exception as test_e:
-                    print(f"⚠️ Local test failed ({test_e}), using manager")
-                    driver_path = None
-            
-            if not driver_path:
-                print("🔄 Downloading compatible ChromeDriver via webdriver-manager...")
-                service = ChromeService(ChromeDriverManager().install())
-            else:
-                service = ChromeService(executable_path=driver_path)
-            
-            # Попытки запуска
-            for attempt in range(2):
-                try:
-                    print(f"\n🚀 Launch attempt {attempt+1}/2 (headless={headless})")
-                    driver = webdriver.Chrome(service=service, options=options)
-                    driver.set_page_load_timeout(30)
-                    driver.implicitly_wait(10)
-                    print(f"✅ Driver started OK for {self.site_name}!")
-                    return driver
-                except Exception as drive_e:
-                    print(f"❌ Attempt {attempt+1} failed: {str(drive_e)[:200]}...")
-                    
-                    if attempt == 0 and ('-9' in str(drive_e) or 'SIGKILL' in str(drive_e)):
-                        print("🔄 SIGKILL (-9) detected! Retrying VISIBLE browser...")
-                        headless = False
-                        options = build_options(False)  # Перестроить без headless
-                        continue
-                    break
-            
-            print(f"❌ Failed all driver launch attempts")
-            return None
-            
+            if self.context:
+                self.context.close()
+            if self.browser:
+                self.browser.close()
+            if self.playwright:
+                self.playwright.stop()
+            self.logger.info("Browser closed successfully")
         except Exception as e:
-            print(f"❌ Setup error: {e}")
-            traceback.print_exc()
-            return None
-
+            self.logger.error(f"Error closing browser: {e}")
     
     @abstractmethod
-    def handle_cookies(self, driver):
+    def handle_cookies(self, page: Page):
         pass
     
     @abstractmethod
@@ -165,51 +174,47 @@ class BaseParser(ABC):
         pass
     
     @abstractmethod
-    def parse_product_page(self, driver, url: str) -> Dict:
+    def parse_product_page(self, page: Page, url: str) -> Dict:
         pass
     
     @abstractmethod
     def get_image_urls(self, soup: BeautifulSoup) -> List[str]:
         pass
     
-    def download_image_with_selenium(self, driver, image_url: str, folder_path: str, image_name: str, max_retries: int = 3) -> bool:
-        """Универсальная функция загрузки изображений через Selenium"""
+    def download_image(self, image_url: str, folder_path: str, image_name: str, max_retries: int = 3) -> bool:
+        """
+        Загрузка изображений через Playwright и requests
+        
+        Args:
+            image_url: URL изображения
+            folder_path: Путь к папке для сохранения
+            image_name: Имя файла (без расширения)
+            max_retries: Максимальное количество попыток
+        
+        Returns:
+            True если успешно, False иначе
+        """
         for attempt in range(max_retries):
             try:
-                logging.info(f"Image download attempt {attempt + 1}/{max_retries}: {image_url}")
+                self.logger.info(f"Image download attempt {attempt + 1}/{max_retries}: {image_url}")
                 
-                driver.set_script_timeout(60)
+                # Пробуем загрузить через requests (быстрее)
+                response = requests.get(image_url, timeout=30, stream=True)
+                response.raise_for_status()
                 
-                js_script = """
-                var url = arguments[0];
-                var callback = arguments[1];
-                var xhr = new XMLHttpRequest();
-                xhr.timeout = 30000;
-                xhr.onload = function() {
-                    var reader = new FileReader();
-                    reader.onloadend = function() {
-                        callback(reader.result);
-                    }
-                    reader.readAsDataURL(xhr.response);
-                };
-                xhr.onerror = function() { callback(null); };
-                xhr.ontimeout = function() { callback(null); };
-                xhr.open('GET', url);
-                xhr.responseType = 'blob';
-                xhr.send();
-                """
+                # Проверка на CAPTCHA или блокировку
+                if 'captcha' in response.url.lower() or response.status_code == 403:
+                    self.critical_logger.critical(
+                        f"CAPTCHA or block detected while downloading image: {image_url}"
+                    )
+                    raise CaptchaDetectedError(f"CAPTCHA detected for image: {image_url}")
                 
-                base64_data = driver.execute_async_script(js_script, image_url)
+                img_bytes = response.content
                 
-                if base64_data is None:
-                    print(f"❌ Image XHR failed: {image_url}")
-                    continue
+                # Создаём папку если не существует
+                Path(folder_path).mkdir(parents=True, exist_ok=True)
+                img_path = Path(folder_path) / f"{image_name}.jpeg"
                 
-                header, encoded = base64_data.split(",", 1)
-                img_bytes = base64.b64decode(encoded)
-                
-                os.makedirs(folder_path, exist_ok=True)
-                img_path = os.path.join(folder_path, f"{image_name}.jpeg")
                 with open(img_path, 'wb') as f:
                     f.write(img_bytes)
                 
@@ -218,16 +223,22 @@ class BaseParser(ABC):
                     image = Image.open(img_path)
                     image = image.convert('RGB')
                     image.save(img_path, format='JPEG', quality=92, optimize=True)
-                except:
-                    pass
+                except Exception as opt_e:
+                    self.logger.warning(f"Image optimization failed: {opt_e}")
                 
-                print(f"✅ Saved: {img_name}.jpeg")
+                self.logger.info(f"Saved: {img_path}")
+                print(f"✅ Saved: {image_name}.jpeg")
                 return True
+                
+            except CaptchaDetectedError:
+                raise
             except Exception as e:
+                self.logger.error(f"Image error (attempt {attempt + 1}): {e}")
                 print(f"❌ Image error ({attempt+1}): {e}")
                 if attempt < max_retries - 1:
                     time.sleep(1)
         
+        self.logger.error(f"Failed to download image after {max_retries} attempts: {image_url}")
         return False
     
     def create_safe_filename(self, artist: str, title: str) -> str:
