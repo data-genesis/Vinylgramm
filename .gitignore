@@ -1,19 +1,43 @@
-# Виртуальные окружения
-.venv/
-.env/
-ENV/
-env/
-
-# Python кэш
+```
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.ENV.local
+.env
+.env.local
+.env.*
+.python-version
 
-# Файлы IDE
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+coverage/
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# Логи
-*.log
+*.tmp
+```
