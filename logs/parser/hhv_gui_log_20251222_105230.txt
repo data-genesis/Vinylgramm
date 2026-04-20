@@ -1,0 +1,40 @@
+❌ CSV файл не найден.
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+🔍 ПРОВЕРКА SOLD OUT ИЗ CSV
+============================================================
+
+📋 Найдено товаров в CSV: 345
+
+[1/345] ⚠️ Нет ссылки: Doja Cat - Vie HHV Exclusive Receiving Gifts Red Vinyl Edition
+[2/345] ⚠️ Нет ссылки: Tyler The Creator - CHROMAKOPIA White Vinyl Edition
+[3/345] ⚠️ Нет ссылки: Mobb Deep - Infinite HHV Exclusive Red Splatter Vinyl Edition
+[4/345] ⚠️ Нет ссылки: Tame Impala - Deadbeat Indie Exclusive Coke Bottle Clear Vinyl Edition
+[5/345] ⚠️ Нет ссылки: D'Angelo - Voodoo
+[6/345] ⚠️ Нет ссылки: Armand Hammer & The Alchemist - Haram Black Vinyl Edition
+[7/345] ⚠️ Нет ссылки: Armand Hammer & The Alchemist - Mercy HHV Exclusive Carnival Colored Vinyl Edition
+[8/345] ⚠️ Нет ссылки: V.A. - OST Pirates Of The Caribbean: Curse Of The Black Pearl Black Ice
+[9/345] ⚠️ Нет ссылки: V.A. - South Park: The 25th Anniversary Concert
+[10/345] ⚠️ Нет ссылки: Yoko Takahashi - The Cruel Angel's Thesis Evangelion 30th Anniversary Edition
+[11/345] ⚠️ Нет ссылки: Nevermore Academy Orchestra - OST Wednesday: Season 2
+[12/345] ⚠️ Нет ссылки: V.A. - OST K-Pop Demon Hunters Black Vinyl
+[13/345] ⚠️ Нет ссылки: V.A. - OST Twilight Saga: Eclipse Black Ice Vinyl Edition
+[14/345] ⚠️ Нет ссылки: V.A. - No Man's Sky: Journeys Exclusive Edition Deluxe Double Vinyl
+[15/345] ⚠️ Нет ссылки: V.A. - OST Peacemaker: Season 2 Exclusive Color Variant
+[16/345] ⚠️ Нет ссылки: V.A. - Hazbin Hotel: Season Two (Original Soundtrack) (Indie Exclusive) (Voxtek Splatter Vinyl)
+[17/345] ⚠️ Нет ссылки: V.A. - Hazbin Hotel: Season Two (Original Soundtrack) (VoxTex Blue Vinyl)
+[18/345] ⚠️ Нет ссылки: V.A. - Twisted Metal Symphony (Original Soundtrack)
+[19/345] ⚠️ Нет ссылки: V.A. - OST KPop Demon Hunters Purple Vinyl
+[20/345] ⚠️ Нет ссылки: V.A. - OST Peacemaker: Season 1 Eagly P 7" Colored Vinyl
+[21/345] Проверяю: Age Of Love - The Age Of Love Blue Transparent Vin...
+🍪 НАШЛИСЬ КУКИ. ПРИНИМАЕМ
+✅ КУКИСЫ ПРИНЯТЫ.
+  ✅ В наличии
+[22/345] Проверяю: Aphex Twin - Classics...
+⚠️ Could not find or click cookie button. Continuing...
+  ✅ В наличии
+[23/345] Проверяю: Aphex Twin - Xylem Tube EP...

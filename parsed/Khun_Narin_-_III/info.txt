@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/khun-narin-iii-1383529
+Site: HHV
+artist: Khun Narin
+title: III
+label: Innovative Leisure
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 15.05.2026
+price: 31,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383529/1-khun-narin-iii.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00375/375295/1-khun-narin-khun-narin-s-electric-phin-band.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00466/466188/2-khun-narin-ii.webp
+downloaded_images:
+  Khun_Narin_-_III_01.jpeg
+  Khun_Narin_-_III_02.jpeg
+  Khun_Narin_-_III_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

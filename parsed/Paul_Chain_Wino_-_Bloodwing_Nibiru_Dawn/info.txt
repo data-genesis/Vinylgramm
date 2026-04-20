@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/paul-chain-wino-bloodwing-nibiru-dawn-1368640
+Site: HHV
+artist: Paul Chain/ Wino
+title: Bloodwing / Nibiru Dawn
+label: Totem Cat
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative , Classic Rock
+release_date: Уже в продаже
+price: 26,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368640/1-paul-chain-wino-bloodwing-nibiru-dawn.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368640/2-paul-chain-wino-bloodwing-nibiru-dawn.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00281/281254/1-scott-kelly-steve-von-till-and-wino-songs-of-townes-van-zandt.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01102/1102596/1-paul-chain-ash-35th-anniversary-red-marbled-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01098/1098038/1-paul-chain-ash-35-anniversary-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01075/1075191/2-paul-chain-park-of-reason.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00899/899881/1-wino-forever-gone.webp
+downloaded_images:
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_01.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_02.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_03.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_04.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_05.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_06.jpeg
+  Paul_Chain_Wino_-_Bloodwing_Nibiru_Dawn_07.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Bloodwing
+2. Nibiru Dawn

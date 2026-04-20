@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/the-bird-experience-the-bird-experience-1383581
+Site: HHV
+artist: The Bird Experience
+title: The Bird Experience
+label: Suburban
+format: Vinyl LP
+genre: Organic Grooves, Funk | Soul
+release_date: 22.05.2026
+price: 30,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383581/1-the-bird-experience-the-bird-experience.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00764/764103/1-bad-nerves-bad-nerves.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01355/1355745/1-peter-pan-speedrock-speedrock-chartbusters-vol-1.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00998/998752/1-gluecifer-soaring-with-eagles-at-night-blue-marbled-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00998/998750/3-gluecifer-basement-apes-white-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00919/919900/1-v-a-welcome-to-rock-city-a-suburban-compilation.webp
+downloaded_images:
+  The_Bird_Experience_-_The_Bird_Experience_01.jpeg
+  The_Bird_Experience_-_The_Bird_Experience_02.jpeg
+  The_Bird_Experience_-_The_Bird_Experience_03.jpeg
+  The_Bird_Experience_-_The_Bird_Experience_04.jpeg
+  The_Bird_Experience_-_The_Bird_Experience_05.jpeg
+  The_Bird_Experience_-_The_Bird_Experience_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

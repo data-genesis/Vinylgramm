@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/steely-dan-mobile-homes-seattle-1974-1373632
+Site: HHV
+artist: Steely Dan
+title: Mobile Homes: Seattle 1974
+label: Mind Control
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 16,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373632/1-steely-dan-mobile-homes-seattle-1974.webp
+downloaded_images:
+  Steely_Dan_-_Mobile_Homes_Seattle_1974.jpeg
+
+description:
+Recorded at Seattle's Paramount on 1st July 1974, American rockers Steely Dan were in fine form. By the end of 1974, the band "retired" from live performance, and continued as a studio only band consisting of Donald Fagan and and Walter Becker. This live set follows the release of the band's 1974 album Pretzel Logic, and features an impassioned version of the band's most successful single 'Rikki Don't Lose That Number' and the title track.
+tracklist:
+1. Bodhisattva
+2. The Boston Rag
+3. Do It Again
+4. Brooklyn (Owes The Charmer Under Me)
+5. King Of The World
+6. Rikki Don't Lose That Number
+7. Pretzel Logic
+8. My Old School
+9. Dirty Work

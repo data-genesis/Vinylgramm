@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/the-byrds-fifth-dimension-1383608
+Site: HHV
+artist: The Byrds
+title: Fifth Dimension
+label: Music On Vinyl
+format: Vinyl LP
+genre: Pop, 2020s
+release_date: 15.05.2026
+price: 29,99 €
+image_urls:
+downloaded_images:
+
+description:
+Нет описания
+tracklist:
+1. 5d (Fifth Dimension)
+2. Wild Mountain Thyme
+3. Mr. Spaceman
+4. I See You
+5. What's Happening?!?!
+6. I Come And Stand At Every Door
+7. Eight Miles High
+8. Hey Joe (Where You Gonna Go)
+9. Captain Soul
+10. John Riley
+11. 2-4-2 Fox Trot (The Lear Jet Song)

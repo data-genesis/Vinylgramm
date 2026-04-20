@@ -1,0 +1,19 @@
+Source URL: https://www.hhv.de/en/records/item/nathan-nisbet-golden-method-yellow-vinyl-edition-1383332
+Site: HHV
+artist: Nathan Nisbet
+title: Golden Method Yellow Vinyl Edition
+label: Picnic
+format: Vinyl 7"
+genre: Rock & Indie, Punk | Hardcore
+release_date: 17.04.2026
+price: 13,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383332/1-nathan-nisbet-golden-method-yellow-vinyl-edition.webp
+downloaded_images:
+  Nathan_Nisbet_-_Golden_Method_Yellow_Vinyl_Edition.jpeg
+
+description:
+Skirting the line between post-punk and electronic music is the world in which this new project from Nathan nisbet resides. The Perth producer is looking back to his favourite bands from the 80s like The Cure and The The while applying his usual techniques for electronic dance music. The end result is analog and gritty yet heartfelt.
+tracklist:
+1. 01GoldenMethod-NathanNisbet_
+2. 02StrangeWay-NathanNisbet_

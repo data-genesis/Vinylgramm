@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/rita-ora-you-and-i-1373629
+Site: HHV
+artist: Rita Ora
+title: You & I
+label: BMG
+format: Vinyl LP
+genre: Pop, 2020s
+release_date: Уже в продаже
+price: 16,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01373/1373629/1-rita-ora-you-and-i.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01373/1373629/2-rita-ora-you-and-i.webp
+downloaded_images:
+  Rita_Ora_-_You_&_I_01.jpeg
+  Rita_Ora_-_You_&_I_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Don't Think Twice
+2. You Only Love Me
+3. Praising You
+4. Unfeel It
+5. Waiting For You
+6. You & I
+7. That Girl
+8. Shape Of Me
+9. Look At Me Now
+10. Girl In The Mirror
+11. Notting Hill
+12. I Don’t Wanna Be Your Friend

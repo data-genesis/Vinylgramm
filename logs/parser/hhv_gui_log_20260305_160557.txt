@@ -1,0 +1,78 @@
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 2 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+Processing [1/2]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-into-the-realm-black-vinyl-edition-1290581?pquid=a-df9eda1f1eedcb83a3d652fa668a8305
+📊 Found 15 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: Into The Realm Black Vinyl Edition
+  ✅ Price: 30,99 €
+  📅 No preorder - available now
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/2-castle-rat-into-the-realm-black-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/3-castle-rat-into-the-realm-black-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/1-castle-rat-into-the-realm-black-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: Into The Realm Black Vinyl Edition
+   Price: 30,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Into The Realm Black Vinyl Edition
+
+============================================================
+Processing [2/2]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition-1311963?pquid=a-df9eda1f1eedcb83a3d652fa668a8305
+📊 Found 15 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary Sea Greensky Blue Marble Swirl Vinyl Edition
+  ✅ Price: 33,99 €
+  📅 No preorder - available now
+  📄 Description: 280 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/2-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/3-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/4-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary Sea Greensky Blue Marble Swirl Vinyl Edition
+   Price: 33,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Bestiary Sea Greensky Blue Marble Swirl Vinyl Edition
+
+🔚 Browser closed
+
+============================================================
+✅ Parsing complete: 2/2 successful
+
+============================================================
+✅ ПАРСИНГ ГОТОВ
+============================================================
+

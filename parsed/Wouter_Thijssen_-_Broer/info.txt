@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/wouter-thijssen-broer-1379309
+Site: HHV
+artist: Wouter Thijssen
+title: Broer
+label: Thorn In My Side
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 23,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01379/1379309/1-wouter-thijssen-broer.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01379/1379309/2-wouter-thijssen-broer.webp
+downloaded_images:
+  Wouter_Thijssen_-_Broer_01.jpeg
+  Wouter_Thijssen_-_Broer_02.jpeg
+
+description:
+Razor-sharp Dutch-language alternative rock with an Anglo-Saxon twist.On 'Broer' (Brother), Thijssen picks up the pieces of his youth. The grief hasbeen digested. The house on the fateful railway line has been sold. Thememories have all been sorted. The music reveals that it's over. For those wholisten closely, Wouter Thijssen offers solace with a hammer blow. The riffs areangry, the percussion stubborn, and the guitars storm over everything. But themelodies for Wille remain excruciating, always punctuated by that onehopeless wish: "If only I could be back with you." De StandaardEchoes of the alternative rock of the '80s and '90s and a distinctive voicecharacterized Wouter Thijssen's debut album, released at the end of 2019. Forhis follow-up album, Broer, Thijssen surrounded himself with regular bandmembers Michel Becx (drums, CMON CMON, The 40 Watt Band) and SeanWillekens (bass, The Love, Wixcakes).This second album boasts sharp songs and powerful guitar work. The newwork, populated by anarchists, punks, and other young delinquents, deals witha turbulent past and will be released in the spring of 2026 on the new labelThorn in my side recordings. The single "Wille" has already received severalairplays on radio Willy (Meurissey).
+tracklist:
+1. Kaleidoscoop
+2. Vroeger Toen We Mooier Waren
+3. Wille
+4. Wondermooie Rotzooi
+5. Broer
+6. Het Meisje Dat Een Jongen Was
+7. Jonge Delinquenten
+8. Zwart Goud
+9. Kus
+10. Spookrijders

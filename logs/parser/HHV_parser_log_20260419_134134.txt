@@ -1,0 +1,8 @@
+2026-04-19 13:41:34,497 INFO === HHV parser session started ===
+2026-04-19 13:41:51,545 INFO ====== WebDriver manager ======
+2026-04-19 13:41:51,657 INFO Get LATEST chromedriver version for google-chrome
+2026-04-19 13:41:52,157 INFO About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+2026-04-19 13:41:52,494 INFO Driver downloading response is 200
+2026-04-19 13:41:54,439 INFO Get LATEST chromedriver version for google-chrome
+2026-04-19 13:41:54,728 INFO Get LATEST chromedriver version for google-chrome
+2026-04-19 13:41:54,981 INFO Driver has been saved in cache [/Users/admin/.wdm/drivers/chromedriver/mac64/114.0.5735.90]

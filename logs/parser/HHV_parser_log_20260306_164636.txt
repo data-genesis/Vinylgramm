@@ -1,0 +1,22 @@
+2026-03-06 16:46:36,462 INFO === HHV parser session started ===
+2026-03-06 16:46:36,472 INFO ====== WebDriver manager ======
+2026-03-06 16:46:40,630 INFO Get LATEST chromedriver version for google-chrome
+2026-03-06 16:46:41,218 INFO Get LATEST chromedriver version for google-chrome
+2026-03-06 16:46:41,642 INFO There is no [mac64] chromedriver "146.0.7680.66" for browser google-chrome "146.0.7680" in cache
+2026-03-06 16:46:41,671 INFO Get LATEST chromedriver version for google-chrome
+2026-03-06 16:46:42,840 INFO WebDriver version 146.0.7680.66 selected
+2026-03-06 16:46:42,843 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.66/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 16:46:42,843 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.66/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-06 16:46:43,292 INFO Driver downloading response is 200
+2026-03-06 16:46:45,170 INFO Get LATEST chromedriver version for google-chrome
+2026-03-06 16:46:45,602 INFO Driver has been saved in cache [/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.66]
+2026-03-06 16:46:51,289 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01358/1358639/1-castle-rat-the-bestiary-limited-zoetrope-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Limited_Zoetrope_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Limited_Zoetrope_Vinyl_Edition.jpeg
+2026-03-06 16:46:55,488 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/2-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_01.jpeg
+2026-03-06 16:46:56,028 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/3-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_02.jpeg
+2026-03-06 16:46:56,493 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/4-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_03.jpeg
+2026-03-06 16:47:00,720 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371721/1-castle-rat-the-bestiary-picture-disc-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Picture_Disc_Edition | filename=Castle_Rat_-_The_Bestiary_Picture_Disc_Edition.jpeg
+2026-03-06 16:47:04,412 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371789/1-castle-rat-the-bestiary-indie-exclusive-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Indie_Exclusive_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Indie_Exclusive_Vinyl_Edition.jpeg
+2026-03-06 16:47:08,233 INFO Attempting image download (attempt 1/3) | url=https://a0.cdn.hhv.de/items/images/generated/970x970/01358/1358428/1-castle-rat-the-bestiary-white-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_White_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_White_Vinyl_Edition.jpeg
+2026-03-06 16:47:12,300 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371745/1-castle-rat-bestiary-colored-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_Bestiary_Colored_Vinyl_Edition | filename=Castle_Rat_-_Bestiary_Colored_Vinyl_Edition.jpeg
+2026-03-06 16:47:15,711 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01371/1371787/1-castle-rat-the-bestiary.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary | filename=Castle_Rat_-_The_Bestiary.jpeg
+2026-03-06 16:47:20,097 INFO Attempting image download (attempt 1/3) | url=https://a2.cdn.hhv.de/items/images/generated/970x970/01276/1276846/1-castle-rat-the-bestiary.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary | filename=Castle_Rat_-_The_Bestiary.jpeg

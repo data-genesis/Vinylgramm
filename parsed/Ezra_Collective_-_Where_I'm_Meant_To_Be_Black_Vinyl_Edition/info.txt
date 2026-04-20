@@ -1,0 +1,33 @@
+Source URL: https://www.hhv.de/en/records/item/ezra-collective-where-i-m-meant-to-be-black-vinyl-edition-1379923
+Site: HHV
+artist: Ezra Collective
+title: Where I'm Meant To Be Black Vinyl Edition
+label: Partisan
+format: Vinyl 2LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: Уже в продаже
+price: 32,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379923/2-ezra-collective-where-i-m-meant-to-be-black-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379923/3-ezra-collective-where-i-m-meant-to-be-black-vinyl-edition.webp
+downloaded_images:
+  Ezra_Collective_-_Where_I'm_Meant_To_Be_Black_Vinyl_Edition_01.jpeg
+  Ezra_Collective_-_Where_I'm_Meant_To_Be_Black_Vinyl_Edition_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Life Goes On
+2. Victory Dance
+3. No Confusion
+4. Welcome To My World
+5. Togetherness
+6. Ego Killah
+7. Smile
+8. Live Strong
+9. Siesta
+10. Words By Steve
+11. Belonging
+12. Never The Same Again
+13. Words By Tj
+14. Love In Outer Space

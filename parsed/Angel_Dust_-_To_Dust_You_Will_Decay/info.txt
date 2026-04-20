@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/angel-dust-to-dust-you-will-decay-1362503
+Site: HHV
+artist: Angel Dust
+title: To Dust You Will Decay
+label: High Roller
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 27.03.2026
+price: 30,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01362/1362503/1-angel-dust-to-dust-you-will-decay.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01130/1130059/1-angel-dust-to-dust-you-will-decay-picture-disc-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01130/1130058/2-angel-dust-into-the-dark-past-picture-disc-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01212/1212663/2-angel-dust-into-the-dark-past-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01212/1212664/2-angel-dust-into-the-dark-past-beer-colored-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00981/981309/2-exumer-possessed-by-fire-picture-disc-edition.webp
+downloaded_images:
+  Angel_Dust_-_To_Dust_You_Will_Decay_01.jpeg
+  Angel_Dust_-_To_Dust_You_Will_Decay_02.jpeg
+  Angel_Dust_-_To_Dust_You_Will_Decay_03.jpeg
+  Angel_Dust_-_To_Dust_You_Will_Decay_04.jpeg
+  Angel_Dust_-_To_Dust_You_Will_Decay_05.jpeg
+  Angel_Dust_-_To_Dust_You_Will_Decay_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

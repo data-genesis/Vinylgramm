@@ -1,0 +1,33 @@
+Source URL: https://www.hhv.de/en/records/item/tracy-chapman-kind-of-lonely-live-at-montreux-jazz-festival-1988-1373538
+Site: HHV
+artist: Tracy Chapman
+title: Kind Of Lonely: Live At Montreux Jazz Festival 1988
+label: Dear Boss
+format: Vinyl LP
+genre: Rock & Indie, Folk
+release_date: Уже в продаже
+price: 22,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01373/1373538/1-tracy-chapman-kind-of-lonely-live-at-montreux-jazz-festival-1988.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01373/1373538/2-tracy-chapman-kind-of-lonely-live-at-montreux-jazz-festival-1988.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01373/1373538/3-tracy-chapman-kind-of-lonely-live-at-montreux-jazz-festival-1988.webp
+downloaded_images:
+  Tracy_Chapman_-_Kind_Of_Lonely_Live_At_Montreux_Jazz_Festival_1988_01.jpeg
+  Tracy_Chapman_-_Kind_Of_Lonely_Live_At_Montreux_Jazz_Festival_1988_02.jpeg
+  Tracy_Chapman_-_Kind_Of_Lonely_Live_At_Montreux_Jazz_Festival_1988_03.jpeg
+
+description:
+Recorded live at the Montreux Jazz Festival (Switzerland) July 1988.
+tracklist:
+1. Why?
+2. For My Lover
+3. Across The Lines
+4. Behind The Wall
+5. Fast Car
+6. She's Got Her Ticket
+7. Baby Can I Hold You
+8. This Time
+9. For You
+10. Sweet One
+11. Talking 'bout A Revolution
+12. Born To Fight

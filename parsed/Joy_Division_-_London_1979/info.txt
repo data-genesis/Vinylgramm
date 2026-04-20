@@ -1,0 +1,30 @@
+Source URL: https://www.hhv.de/en/records/item/joy-division-london-1979-1360682
+Site: HHV
+artist: Joy Division
+title: London 1979
+label: Ugly Soda
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 24,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01360/1360682/1-joy-division-london-1979.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01360/1360682/2-joy-division-london-1979.webp
+downloaded_images:
+  Joy_Division_-_London_1979_01.jpeg
+  Joy_Division_-_London_1979_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Wilderness
+2. Shadowplay
+3. The Leaders Of Men
+4. Insight
+5. Colony
+6. Transmission
+7. Disorder
+8. She's Lost Control
+9. Atrocity Exhibition
+10. Glass
+11. Exercise One

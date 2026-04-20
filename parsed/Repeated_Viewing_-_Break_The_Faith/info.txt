@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/repeated-viewing-break-the-faith-1376082
+Site: HHV
+artist: Repeated Viewing
+title: Break The Faith
+label: Library Of The Occult
+format: Vinyl LP
+genre: Electronic & Dance, Downbeat | Electronica | Leftfield
+release_date: 27.03.2026
+price: 27,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01376/1376082/1-repeated-viewing-break-the-faith.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01376/1376082/2-repeated-viewing-break-the-faith.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01376/1376082/3-repeated-viewing-break-the-faith.webp
+downloaded_images:
+  Repeated_Viewing_-_Break_The_Faith_01.jpeg
+  Repeated_Viewing_-_Break_The_Faith_02.jpeg
+  Repeated_Viewing_-_Break_The_Faith_03.jpeg
+
+description:
+Repeated Viewing, the prolific project of Scottish composer Alan Sinclair, is set to release his most visceral work to date. Titled Break the Faith, the new album will be released on February 21st, 2026, through Library of the Occult.Since 2009, Repeated Viewing has been a cornerstone of the "imaginary soundtrack" and horror-synth scene, weaving analog tales inspired by Giallo masterminds like Fabio Frizzi and the dread-soaked atmospheres of John Carpenter. However, Break the Faith marks a definitive departure from the shadows of the past. Sinclair has traded the slow-burn tension of the celluloid slasher for the high-octane energy of a dystopian club environment.Break the Faith leans aggressively into industrial and dark electro territories. It is a calculated evolution, stripping away the nostalgic comfort of vintage synth-scores to reveal a harder, more mechanical core."Repeated Viewing creates a grungy, unsettling atmosphere but funnels it into a streamlined, kinetic industrial dancefloor behemoth. This is music for the rave in the ruins, a vital and visceral shift. Don’t just listen—submit."
+tracklist:
+Нет треклиста

@@ -1,0 +1,21 @@
+Source URL: https://www.hhv.de/en/records/item/mm-km-velours-1383462
+Site: HHV
+artist: Mm / Km
+title: Velours
+label: Kimochi
+format: Vinyl 12"
+genre: Electronic & Dance
+release_date: 10.04.2026
+price: 24,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01383/1383462/1-mm-km-velours.webp
+downloaded_images:
+  Mm_Km_-_Velours.jpeg
+
+description:
+MM/KM is German producers Kassem Mosse and Mix Mup who make experimental house and techno fusions that are frayed and rough, lo-fi but high class. It has been quite some time since we heard from the pair so this release on Chicago's Kimochi Sound is a real treat. 'Ford Sierra In Dub' is a flickering late-night dub with loosely outlined rhythms and melancholic sine waves tumbling through the mix. 'Gedanken' is a lone, rugged synth that sounds lost and curious, then 'Velours is perfectly weighted, well swung dub minimalism for heady backrooms. 'Delphinpanik' pairs jazzy cymbals and scattered synth daubs to make for a sparse ambient sound. Typically unique from this duo.
+tracklist:
+1. Ford Sierra In Dub
+2. Gedanken
+3. Velours
+4. Delphinpanik

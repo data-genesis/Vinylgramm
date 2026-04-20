@@ -1,0 +1,27 @@
+Source URL: https://www.hhv.de/en/records/item/the-new-pornographers-the-former-site-of-orange-and-red-marble-vinyl-edition-1360590
+Site: HHV
+artist: The New Pornographers
+title: The Former Site Of Orange & Red Marble Vinyl Edition
+label: Merge
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 27.03.2026
+price: 27,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01360/1360590/1-the-new-pornographers-the-former-site-of-orange-and-red-marble-vinyl-edition.webp
+downloaded_images:
+  The_New_Pornographers_-_The_Former_Site_Of_Orange_&_Red_Marble_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+1. GREAT PRINCESS STORY
+2. PURE STICKER SHOCK
+3. BALLAD OF THE LAST PAYPHONE
+4. SPOOKY ACTION
+5. WISH YOU COULD SEE ME I'M KILLING IT
+6. VOTIVE
+7. THE WINE REMEMBERS THE WATER
+8. CALLIGRAPHY
+9. BONUS MAI TAIS
+10. THE FORMER SITE OF

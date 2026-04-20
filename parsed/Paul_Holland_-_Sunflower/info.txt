@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/paul-holland-sunflower-1383589
+Site: HHV
+artist: Paul Holland
+title: Sunflower
+label: Popup-
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 22.05.2026
+price: 30,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383589/1-paul-holland-sunflower.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01383/1383590/1-gidon-carmel-joka.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01339/1339121/1-crow-baby-get-yourself-together.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01177/1177750/1-blaudzun-latter-days.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01171/1171936/1-blaudzun-latter-days.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01119/1119031/1-jenobi-irregularity.webp
+downloaded_images:
+  Paul_Holland_-_Sunflower_01.jpeg
+  Paul_Holland_-_Sunflower_02.jpeg
+  Paul_Holland_-_Sunflower_03.jpeg
+  Paul_Holland_-_Sunflower_04.jpeg
+  Paul_Holland_-_Sunflower_05.jpeg
+  Paul_Holland_-_Sunflower_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

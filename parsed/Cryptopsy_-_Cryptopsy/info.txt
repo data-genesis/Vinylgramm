@@ -1,0 +1,25 @@
+Source URL: https://www.hhv.de/en/records/item/cryptopsy-cryptopsy-1383591
+Site: HHV
+artist: Cryptopsy
+title: Cryptopsy
+label: Season Of Mist
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 08.05.2026
+price: 38,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383591/1-cryptopsy-cryptopsy.webp
+downloaded_images:
+  Cryptopsy_-_Cryptopsy.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Two-Pound Torch
+2. Shag Harbour's Visitors
+3. Red-Skinned Scapegoat
+4. Damned Draft Dodgers
+5. Amputated Enigma
+6. The Golden Square Mile
+7. Ominous
+8. Cleansing The Hosts

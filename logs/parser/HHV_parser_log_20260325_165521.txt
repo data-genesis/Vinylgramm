@@ -1,0 +1,5 @@
+2026-03-25 16:55:21,648 INFO === HHV parser session started ===
+2026-03-25 16:55:21,672 INFO ====== WebDriver manager ======
+2026-03-25 16:55:21,916 INFO Get LATEST chromedriver version for google-chrome
+2026-03-25 16:55:22,170 INFO Get LATEST chromedriver version for google-chrome
+2026-03-25 16:55:22,379 INFO Driver [/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.165/chromedriver-mac-arm64/chromedriver] found in cache

@@ -1,0 +1,16 @@
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+📊 Максимум: 100
+🖥️ Режим: Headless
+============================================================
+
+
+🔍 Collecting product URLs from: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON
+🔄 Testing local driver...
+⚠️ Local test failed (Message: Service /Users/admin/Code/HHV/chromedriver/chromedriver unexpectedly exited. Status code was: -9
+), using manager
+🔄 Downloading compatible ChromeDriver via webdriver-manager...

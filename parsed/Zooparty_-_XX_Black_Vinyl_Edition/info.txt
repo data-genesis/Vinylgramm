@@ -1,0 +1,30 @@
+Source URL: https://www.hhv.de/en/records/item/zooparty-xx-black-vinyl-edition-1363558
+Site: HHV
+artist: Zooparty
+title: XX Black Vinyl Edition
+label: Sunny Bastards
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: Уже в продаже
+price: 23,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01363/1363558/1-zooparty-xx-black-vinyl-edition.webp
+downloaded_images:
+  Zooparty_-_XX_Black_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+1. TOTAL TANTRUM
+2. AN EYE FOR AN EYE
+3. UNDER MY SKIN
+4. I MISS ME
+5. POWER PLAY
+6. BULLS EYE
+7. KIR
+8. STOP IT NOW
+9. NEVER SAY DIE
+10. FRONTLINE
+11. DEVILS TWIN
+12. UP TO YOU
+13. BUSY MAKING DIFFERENCE

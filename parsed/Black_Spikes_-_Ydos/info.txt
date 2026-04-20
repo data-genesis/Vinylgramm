@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/black-spikes-ydos-1383588
+Site: HHV
+artist: Black Spikes
+title: Ydos
+label: Napalm
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 28.08.2026
+price: 29,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383588/1-black-spikes-ydos.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00918/918383/1-my-sleeping-karma-atma.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00683/683115/1-jinjer-king-of-everything.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00290/290642/1-my-sleeping-karma-soma.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01360/1360971/1-alter-bridge-alter-bridge-solid-gold-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01360/1360433/1-exodus-goliath.webp
+downloaded_images:
+  Black_Spikes_-_Ydos_01.jpeg
+  Black_Spikes_-_Ydos_02.jpeg
+  Black_Spikes_-_Ydos_03.jpeg
+  Black_Spikes_-_Ydos_04.jpeg
+  Black_Spikes_-_Ydos_05.jpeg
+  Black_Spikes_-_Ydos_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

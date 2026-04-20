@@ -1,0 +1,33 @@
+Source URL: https://www.hhv.de/en/records/item/grupo-jejeje-grupo-jejeje-1368766
+Site: HHV
+artist: Grupo Jejeje
+title: Grupo Jejeje
+label: Discos Rolas
+format: Vinyl LP
+genre: Organic Grooves, Latin | Brazil
+release_date: Уже в продаже
+price: 31,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01368/1368766/2-grupo-jejeje-grupo-jejeje.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01368/1368766/3-grupo-jejeje-grupo-jejeje.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01368/1368766/4-grupo-jejeje-grupo-jejeje.webp
+downloaded_images:
+  Grupo_Jejeje_-_Grupo_Jejeje_01.jpeg
+  Grupo_Jejeje_-_Grupo_Jejeje_02.jpeg
+  Grupo_Jejeje_-_Grupo_Jejeje_03.jpeg
+
+description:
+Deep in Cyber Aztlán, Grupo Jejeje emerged in 2014 out of a shared fascination with the darker sonic undercurrents within cumbia. Mexican-American producer Turbo Sonidero, alongside Persian-British producer Arrabalero are Grupo Jejeje aka Los Místicos de la Kumbia digging deep into the cumbia universe in search of esoteric sounds from short-lived labels, synth-driven melodies from Puebla, and loop- and sample-based kumbias editadas from San Luis Potosi.Grupo Jejeje’s music filters these sounds through their own unique immigrant experiences. While Turbo Sonidero grew up as a Mexican-American in San José’s Latino East Side in the shadow of technophilic Silicon Valley, Arrabalero came of age in London surrounded by classical and popular Persian music. In Cyber Aztlán, a reimagination of the mythical Aztec ancestral land, Grupo Jejeje soundtracks cosmic encounters between Egyptian, Mesopotamian, and Meso-American cultures. After years of sharing song sketches and collaborating online, Turbo Sonidero and Arrabalero met in person in Oaxaca and Tepotzlán to work on and finalize their music together in 2018.In July 2018, Grupo Jejeje and Discos Rolas traveled to Mexico City and met with legendary artist Jamie Ruelas. Beginning in the early 1980s, Ruelas revolutionized flyer art and logos for the Mexico’s largest and most important sound systems—Polymarchs, La Changa among others. His hand-drawn imagery of space travel, sexy cyborgs, and massive sound systems defines the visual aesthetic of Mexico’s sound system culture. It is an honor to collaborate with Jaime Ruelas on the album artwork of our first release. 2019 release.
+tracklist:
+1. Nefertiti
+2. Cumbia Con Jazz
+3. Verdugos De Abastos
+4. Virgen Del Carmen
+5. Citlalli
+6. El Llanto Del Faraon
+7. Sitlalan
+8. San Felipe Del Agua
+9. Lluvia Y Humo
+10. Iluminalos Santa Cecilia
+11. Mundo Malandro
+12. Escarabajos

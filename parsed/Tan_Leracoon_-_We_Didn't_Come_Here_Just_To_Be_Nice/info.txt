@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/tan-leracoon-we-didn-t-come-here-just-to-be-nice-1383586
+Site: HHV
+artist: Tan Leracoon
+title: We Didn't Come Here Just To Be Nice
+label: La Pochette Surprise
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 29.05.2026
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01301/1301911/1-bachratten-rockmusik.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00989/989866/2-dunya-zaman.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00964/964451/1-billy-zach-a-momentary-bliss.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00921/921081/1-melting-palms-noise-between-the-shades-colored-vinyl-edition-2.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00882/882744/6-swutscher-swutscher-signed-creme-white-daheim-vinyl-edition.webp
+downloaded_images:
+  Tan_Leracoon_-_We_Didn't_Come_Here_Just_To_Be_Nice_01.jpeg
+  Tan_Leracoon_-_We_Didn't_Come_Here_Just_To_Be_Nice_02.jpeg
+  Tan_Leracoon_-_We_Didn't_Come_Here_Just_To_Be_Nice_03.jpeg
+  Tan_Leracoon_-_We_Didn't_Come_Here_Just_To_Be_Nice_04.jpeg
+  Tan_Leracoon_-_We_Didn't_Come_Here_Just_To_Be_Nice_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

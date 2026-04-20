@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/when-heaven-met-earth-when-heaven-met-earth-1344205
+Site: HHV
+artist: When Heaven Met Earth
+title: When Heaven Met Earth
+label: Polymoon
+format: Vinyl LP
+genre: Rock & Indie, Folk
+release_date: 27.03.2026
+price: 26,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01344/1344205/1-when-heaven-met-earth-when-heaven-met-earth.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01353/1353863/1-heavenphetamine-the-sun-on-a-winter-day-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01308/1308855/2-agassi-arcade-melodies.webp
+downloaded_images:
+  When_Heaven_Met_Earth_-_When_Heaven_Met_Earth_01.jpeg
+  When_Heaven_Met_Earth_-_When_Heaven_Met_Earth_02.jpeg
+  When_Heaven_Met_Earth_-_When_Heaven_Met_Earth_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

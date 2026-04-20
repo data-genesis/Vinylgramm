@@ -1,0 +1,156 @@
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 4 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+Processing [1/4]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition-1351976?pquid=a-b5d4e2b4ffa2235a9fac9c861c9e39bc
+📊 Found 13 rows
+  ✅ Artist: A$AP Rocky
+  ✅ Title: Don't Be Dumb Black & White Vinyl Edition
+  ✅ Price: 49,99 €
+  📅 Preorder date: shipping from 2026-01-23
+  ✅ Release date: 23.01.2026
+  📄 Description: 754 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/10-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/5-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/6-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/7-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/8-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+
+📊 Total images found: 5
+🖼 5 image(s)
+🎵 Tracklist: 15 tracks
+
+📦 Result:
+   Artist: A$AP Rocky
+   Title: Don't Be Dumb Black & White Vinyl Edition
+   Price: 49,99 €
+📥 Downloading 5 image(s)...
+  ✅ [1/5] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition_01.jpeg
+  ✅ [2/5] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition_02.jpeg
+  ✅ [3/5] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition_03.jpeg
+  ✅ [4/5] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition_04.jpeg
+  ✅ [5/5] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition_05.jpeg
+✅ info.txt saved: parsed/A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Don't Be Dumb Black & White Vinyl Edition
+
+============================================================
+Processing [2/4]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/harry-styles-kiss-all-the-time-disco-occasionally-indie-exclusive-blue-vinyl-edition-1358239?pquid=a-b5d4e2b4ffa2235a9fac9c861c9e39bc
+📊 Found 13 rows
+  ✅ Artist: Harry Styles
+  ✅ Title: Kiss All The Time. Disco Occasionally. Indie Exclusive Blue Vinyl Edition
+  ✅ Price: 41,99 €
+  📅 Preorder date: shipping from 2026-03-06
+  ✅ Release date: 06.03.2026
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01358/1358239/1-harry-styles-kiss-all-the-time-disco-occasionally-indie-exclusive-blue-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/235x235/01358/1358239/1-harry-styles-kiss-all-the-time-disco-occasionally-indie-exclusive-blue-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/235x235/00708/708089/1-harry-styles-fine-line.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/235x235/00919/919823/2-harry-styles-harry-s-house-black-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/235x235/00531/531100/3-harry-styles-harry-styles.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/235x235/01358/1358173/1-harry-styles-kiss-all-the-time-disco-occasionally-black-vinyl-edition.webp
+
+📊 Total images found: 6
+🖼 6 image(s)
+
+📦 Result:
+   Artist: Harry Styles
+   Title: Kiss All The Time. Disco Occasionally. Indie Exclusive Blue Vinyl Edition
+   Price: 41,99 €
+📥 Downloading 6 image(s)...
+  ✅ [1/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_01.jpeg
+  ✅ [2/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_02.jpeg
+  ✅ [3/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_03.jpeg
+  ✅ [4/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_04.jpeg
+  ✅ [5/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_05.jpeg
+  ✅ [6/6] Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition_06.jpeg
+✅ info.txt saved: parsed/Harry_Styles_-_Kiss_All_The_Time._Disco_Occasionally._Indie_Exclusive_Blue_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Kiss All The Time. Disco Occasionally. Indie Exclusive Blue Vinyl Edition
+
+============================================================
+Processing [3/4]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/bad-bunny-debi-tirar-mas-fotos-white-vinyl-edition-1333744?pquid=a-7d343e47b82fde40f6efb4c35f7398e5
+📊 Found 14 rows
+  ✅ Artist: Bad Bunny
+  ✅ Title: Debi Tirar Mas Fotos White Vinyl Edition
+  ✅ Price: 37,99 €
+  📅 Preorder date: shipping from 2026-02-06
+  ✅ Release date: 06.02.2026
+  📄 Description: 383 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01333/1333744/2-bad-bunny-debi-tirar-mas-fotos-white-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01333/1333744/1-bad-bunny-debi-tirar-mas-fotos-white-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 17 tracks
+
+📦 Result:
+   Artist: Bad Bunny
+   Title: Debi Tirar Mas Fotos White Vinyl Edition
+   Price: 37,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Bad_Bunny_-_Debi_Tirar_Mas_Fotos_White_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Bad_Bunny_-_Debi_Tirar_Mas_Fotos_White_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Bad_Bunny_-_Debi_Tirar_Mas_Fotos_White_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Debi Tirar Mas Fotos White Vinyl Edition
+
+============================================================
+Processing [4/4]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/anderson-paak-malibu-10-year-anniversary-zoetrope-vinyl-edition-w-obi-1358817?pquid=a-7d343e47b82fde40f6efb4c35f7398e5
+📊 Found 14 rows
+  ✅ Artist: Anderson .Paak
+  ✅ Title: Malibu 10 Year Anniversary Zoetrope Vinyl Edition W/ Obi
+  ✅ Price: 48,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 2254 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01358/1358817/1-anderson-paak-malibu-10-year-anniversary-zoetrope-vinyl-edition-w-obi.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01358/1358817/2-anderson-paak-malibu-10-year-anniversary-zoetrope-vinyl-edition-w-obi.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 16 tracks
+
+📦 Result:
+   Artist: Anderson .Paak
+   Title: Malibu 10 Year Anniversary Zoetrope Vinyl Edition W/ Obi
+   Price: 48,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Anderson_.Paak_-_Malibu_10_Year_Anniversary_Zoetrope_Vinyl_Edition_W_Obi_01.jpeg
+  ✅ [2/2] Anderson_.Paak_-_Malibu_10_Year_Anniversary_Zoetrope_Vinyl_Edition_W_Obi_02.jpeg
+✅ info.txt saved: parsed/Anderson_.Paak_-_Malibu_10_Year_Anniversary_Zoetrope_Vinyl_Edition_W_Obi/info.txt
+🎉 Successfully parsed: Malibu 10 Year Anniversary Zoetrope Vinyl Edition W/ Obi
+
+🔚 Browser closed
+
+============================================================
+✅ Parsing complete: 4/4 successful
+
+============================================================
+✅ ПАРСИНГ ГОТОВ
+============================================================
+
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 4 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.

@@ -1,0 +1,21 @@
+Source URL: https://www.hhv.de/en/records/item/mystery-1992-the-lost-tapes-1379297
+Site: HHV
+artist: Mystery
+title: 1992-The Lost Tapes
+label: Oskar
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 24,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01379/1379297/1-mystery-1992-the-lost-tapes.webp
+downloaded_images:
+  Mystery_-_1992-The_Lost_Tapes.jpeg
+
+description:
+1992-The Lost Tapes by Mystery, released 22 May 2023, includes the following tracks: "Never Close Your Eyes" and more. This version of 1992-The Lost Tapes comes as a 1xLP. The vinyl is pressed as a transparent disc.
+tracklist:
+1. Heart Of Stone
+2. In My Dreams
+3. Never Close Your Eyes
+4. Cinderella

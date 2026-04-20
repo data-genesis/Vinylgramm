@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/tremul-electroshock-1383450
+Site: HHV
+artist: Tremül
+title: Electroshock
+label: The Lift Records
+format: Vinyl 12"
+genre: Electronic & Dance, Electro
+release_date: 07.04.2026
+price: 14,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01383/1383450/1-tremul-electroshock.webp
+downloaded_images:
+  Tremül_-_Electroshock.jpeg
+
+description:
+The Lift Records kicks off its debut with Electroshock, a bold EP blending breaks, techno, and house with distinct intensity and character. Highlighted by José’s psychedelic remix, the release drops via Melting Pot Records worldwide.
+tracklist:
+1. Electroshock
+2. Purple Stuff
+3. Morde Code Orchestra
+4. Fx4djz
+5. Electroshock (José Remix)

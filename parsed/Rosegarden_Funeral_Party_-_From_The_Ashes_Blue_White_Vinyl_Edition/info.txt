@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/rosegarden-funeral-party-from-the-ashes-blue-white-vinyl-edition-1383296
+Site: HHV
+artist: Rosegarden Funeral Party
+title: From The Ashes Blue / White Vinyl Edition
+label: Young & Cold
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 02.04.2026
+price: 28,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383296/1-rosegarden-funeral-party-from-the-ashes-blue-white-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01383/1383295/1-rosegarden-funeral-party-from-the-ashes-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01383/1383297/1-rosegarden-funeral-party-take-cover-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01383/1383298/1-rosegarden-funeral-party-at-the-stake.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01383/1383292/1-rosegarden-funeral-party-chopping-block-clear-with-white-streaks-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01383/1383293/1-rosegarden-funeral-party-martyr-black-with-red-streaks-vinyl-edition.webp
+downloaded_images:
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_01.jpeg
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_02.jpeg
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_03.jpeg
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_04.jpeg
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_05.jpeg
+  Rosegarden_Funeral_Party_-_From_The_Ashes_Blue_White_Vinyl_Edition_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

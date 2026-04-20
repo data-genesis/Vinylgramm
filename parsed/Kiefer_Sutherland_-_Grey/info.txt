@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/kiefer-sutherland-grey-1383136
+Site: HHV
+artist: Kiefer Sutherland
+title: Grey
+label: Maple Creek
+format: Vinyl LP
+genre: Pop, 2020s
+release_date: 29.05.2026
+price: 34,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383136/1-kiefer-sutherland-grey.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00773/773297/2-aaron-frazer-introducing-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00663/663182/1-gorillaz-the-fall.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00723/723183/1-kaytranada-bubba.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00818/818338/1-mustafa-when-smoke-rises-dark-green-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00966/966251/1-wesley-joseph-glow-clear-vinyl-edition.webp
+downloaded_images:
+  Kiefer_Sutherland_-_Grey_01.jpeg
+  Kiefer_Sutherland_-_Grey_02.jpeg
+  Kiefer_Sutherland_-_Grey_03.jpeg
+  Kiefer_Sutherland_-_Grey_04.jpeg
+  Kiefer_Sutherland_-_Grey_05.jpeg
+  Kiefer_Sutherland_-_Grey_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

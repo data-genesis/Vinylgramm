@@ -1,0 +1,19 @@
+Source URL: https://www.hhv.de/en/records/item/central-towel-1383453
+Site: HHV
+artist: Central
+title: Towel
+label: Flower
+format: Vinyl 7"
+genre: Pop, 2020s
+release_date: 10.06.2026
+price: 21,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383453/1-central-towel.webp
+downloaded_images:
+  Central_-_Towel.jpeg
+
+description:
+Following the instant sell-out of their previous single released last July—a stunning cover of "Brazilian Rhyme" featuring elegant horn arrangements—Central returns with a new single after about a year. This time, they finally release "Towel," originally included in their album "Flor De Roble" and highly requested for a single cut, as a 7-inch vinyl. Originally featured on Crazy Ken Band’s 2007 album "soul Denpa," this mellow and soulful classic has been transformed into a dazzling salsa tune by Central. With a groovy bassline, sharp percussion and piano, and striking horn arrangements, Taiji vividly sings a bittersweet summer scene. In addition, a newly added corocanta section—absent from the original version—further elevates the track into an exceptional Latin number. On Side B, they select "This Is What You Are," originally included in Mario Biondi’s 2006 album "Handful of Soul" released on the prestigious Schema label, and a smash hit as a single. This track is also reimagined as an uplifting salsa cover. The jacket artwork, newly illustrated by manga artist Bambi Kitazawa, vividly enhances the summery feel of this title. A killer salsa single for the season, arriving as a strictly limited first pressing—don’t miss it!
+tracklist:
+1. Side-A : Towel
+2. Side-B : This Is What You Are

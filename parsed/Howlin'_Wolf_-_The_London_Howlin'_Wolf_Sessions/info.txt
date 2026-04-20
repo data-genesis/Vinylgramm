@@ -1,0 +1,32 @@
+Source URL: https://www.hhv.de/en/records/item/howlin-wolf-the-london-howlin-wolf-sessions-1373624
+Site: HHV
+artist: Howlin' Wolf
+title: The London Howlin' Wolf Sessions
+label: Chess
+format: Vinyl LP
+genre: Organic Grooves, Blues
+release_date: Уже в продаже
+price: 27,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373624/1-howlin-wolf-the-london-howlin-wolf-sessions.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373624/2-howlin-wolf-the-london-howlin-wolf-sessions.webp
+downloaded_images:
+  Howlin'_Wolf_-_The_London_Howlin'_Wolf_Sessions_01.jpeg
+  Howlin'_Wolf_-_The_London_Howlin'_Wolf_Sessions_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Rockin' Daddy
+2. I Ain't Superstitious
+3. Sittin' On Top Of The World
+4. Worried About My Baby
+5. What A Woman!
+6. Poor Boy
+7. Built For Comfort
+8. Who's Been Talking?
+9. The Red Rooster (Rehearsal)
+10. The Red Rooster
+11. Do The Do
+12. Highway 49
+13. Wang-Dang-Doodle

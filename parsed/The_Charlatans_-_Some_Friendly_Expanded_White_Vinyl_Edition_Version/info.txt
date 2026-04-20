@@ -1,0 +1,43 @@
+Source URL: https://www.hhv.de/en/records/item/the-charlatans-some-friendly-expanded-white-vinyl-edition-version-1366160
+Site: HHV
+artist: The Charlatans
+title: Some Friendly Expanded White Vinyl Edition Version
+label: Beggars Banquet
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 27.03.2026
+price: 36,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01366/1366160/2-the-charlatans-some-friendly-expanded-white-vinyl-edition-version.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01366/1366160/3-the-charlatans-some-friendly-expanded-white-vinyl-edition-version.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01366/1366160/4-the-charlatans-some-friendly-expanded-white-vinyl-edition-version.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01366/1366160/5-the-charlatans-some-friendly-expanded-white-vinyl-edition-version.webp
+downloaded_images:
+  The_Charlatans_-_Some_Friendly_Expanded_White_Vinyl_Edition_Version_01.jpeg
+  The_Charlatans_-_Some_Friendly_Expanded_White_Vinyl_Edition_Version_02.jpeg
+  The_Charlatans_-_Some_Friendly_Expanded_White_Vinyl_Edition_Version_03.jpeg
+  The_Charlatans_-_Some_Friendly_Expanded_White_Vinyl_Edition_Version_04.jpeg
+
+description:
+Нет описания
+tracklist:
+1. You're Not Very Well
+2. White Shirt
+3. The Only One I Know
+4. Opportunity
+5. Then
+6. 109 Pt.2
+7. Polar Bear
+8. Believe You Me
+9. Flower
+10. Sonic
+11. Sproston Green
+12. Then (7" Mix)
+13. Taurus Moaner
+14. Then (Alternate Take)
+15. Taurus Moaner (Instrumental)
+16. Over Rising
+17. Happen to Die (Edit)
+18. Way Up There
+19. Opportunity Three
+20. Happen to Die (Full Length)

@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/exploring-birdsong-every-house-we-built-1383580
+Site: HHV
+artist: Exploring Birdsong
+title: Every House We Built
+label: Long Branch
+format: Vinyl 2LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 26.06.2026
+price: 36,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383580/1-exploring-birdsong-every-house-we-built.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383580/2-exploring-birdsong-every-house-we-built.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00979/979194/1-exploring-birdsong-dancing-in-the-face-of-danger-the-thing-with-fea.webp
+downloaded_images:
+  Exploring_Birdsong_-_Every_House_We_Built_01.jpeg
+  Exploring_Birdsong_-_Every_House_We_Built_02.jpeg
+  Exploring_Birdsong_-_Every_House_We_Built_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

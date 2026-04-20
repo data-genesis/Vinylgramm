@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/from-ashes-to-new-reflections-indie-exclusive-vinyl-edition-1383493
+Site: HHV
+artist: From Ashes To New
+title: Reflections Indie Exclusive Vinyl Edition
+label: Better Noise Music
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 37,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01363/1363631/1-from-ashes-to-new-reflections.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01032/1032445/2-from-ashes-to-new-blackout-green-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01002/1002866/1-from-ashes-to-new-blackout-translucent-smoke-colored-vinyl-edition.webp
+downloaded_images:
+  From_Ashes_To_New_-_Reflections_Indie_Exclusive_Vinyl_Edition_01.jpeg
+  From_Ashes_To_New_-_Reflections_Indie_Exclusive_Vinyl_Edition_02.jpeg
+  From_Ashes_To_New_-_Reflections_Indie_Exclusive_Vinyl_Edition_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

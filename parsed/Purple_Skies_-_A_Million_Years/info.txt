@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/purple-skies-a-million-years-1383521
+Site: HHV
+artist: Purple Skies
+title: A Million Years
+label: Apollon
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: 10.04.2026
+price: 35,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383521/1-purple-skies-a-million-years.webp
+downloaded_images:
+  Purple_Skies_-_A_Million_Years.jpeg
+
+description:
+Purple Skies is an underground rock band from Bergen, Norway, formed in 2017. With roots in the heavy rock of the late ’60s and ’70s and a dark veil of doom, Purple Skies delivers drenched, fuzz driven rock that moves seamlessly between crushing riffs and classic melodies. Their music draws inspiration from stoner rock, proto-doom, and vintage heavy rock.During the recording of A Million Years, the band set out to create a sound that feels timeless yet relevant to today’s rock scene. The album was recorded at Polyfon Studio in Bergen with producer Leif Herland, and the process has been both uncompromising and inspiring. Not only did he shape the overall sound, but he also guided the band to deliver their very best performances.The album draws clear inspiration from Swedish Witchcraft and their ability to bridge the gap between retro and modern expression, with roots reaching all the way back to Black Sabbath’s Vol. 4.A Million Years is an album that nods to the past while pointing toward the future, capturing the essence of heavy, melodic, and honest rock with both power and precision.
+tracklist:
+1. Haven
+2. Mr Fear
+3. Bitchcraft
+4. Too Worn To Tell
+5. Quiet Flowers
+6. A Million Years
+7. Worhtless Men
+8. Arcadic Freeway
+9. Red Road

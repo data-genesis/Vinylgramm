@@ -1,0 +1,27 @@
+Source URL: https://www.hhv.de/en/records/item/spirit-level-miles-spilsbury-and-gorse-panshawe-spirit-level-1383429
+Site: HHV
+artist: Spirit Level (Miles Spilsbury & Gorse Panshawe)
+title: Spirit Level
+label: New Dawn
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 10.04.2026
+price: 25,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383429/1-spirit-level-miles-spilsbury-and-gorse-panshawe-spirit-level.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383429/2-spirit-level-miles-spilsbury-and-gorse-panshawe-spirit-level.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383429/3-spirit-level-miles-spilsbury-and-gorse-panshawe-spirit-level.webp
+downloaded_images:
+  Spirit_Level_(Miles_Spilsbury_&_Gorse_Panshawe)_-_Spirit_Level_01.jpeg
+  Spirit_Level_(Miles_Spilsbury_&_Gorse_Panshawe)_-_Spirit_Level_02.jpeg
+  Spirit_Level_(Miles_Spilsbury_&_Gorse_Panshawe)_-_Spirit_Level_03.jpeg
+
+description:
+Following on from his debut album, Miles Spilsbury returns to New Dawn with Spirit Level. A new project in collaboration with close friend Gorse Panshawe (formerly known as Slugabed - who also produced Miles Spilsbury's first album Light Manoeuvres).Recorded over one weekend in a weaving shed in Frome, in the English countryside. Surrounded by reels of yarn, they explored with saxophones, flutes, dusty old keyboards & drum machines. The resulting record conjures the murk and moss of Forestland and grounds with grooves from the Bongo setting on a Casio keyboard. Jake Long added mallet drums from his London studio to round off the album.
+tracklist:
+1. In The Gloaming
+2. Forest Lagoon
+3. Procession
+4. Divine Place
+5. Splash
+6. Sheets Of Light

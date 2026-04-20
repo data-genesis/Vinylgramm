@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/los-chicanos-caballo-salvaje-cumbia-de-la-noche-1363729
+Site: HHV
+artist: Los Chicanos
+title: Caballo Salvaje / Cumbia De La Noche
+label: Ritmo Del Barrio
+format: Vinyl 7"
+genre: Organic Grooves, Latin | Brazil
+release_date: Уже в продаже
+price: 13,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01363/1363729/1-los-chicanos-caballo-salvaje-cumbia-de-la-noche.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01314/1314296/1-the-reflex-without-ur-luv-xpress-urselves.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01362/1362751/2-senor-coconut-el-baile-aleman.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01373/1373007/1-mitchum-yacoub-cumbia-no-get-enemy.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00717/717692/2-tom-misch-and-yussef-dayes-what-kinda-music.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01349/1349631/2-danser-s-inferno-sombre-guitar.webp
+downloaded_images:
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_01.jpeg
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_02.jpeg
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_03.jpeg
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_04.jpeg
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_05.jpeg
+  Los_Chicanos_-_Caballo_Salvaje_Cumbia_De_La_Noche_06.jpeg
+
+description:
+From the windswept streets of Edinburgh comes a sound that gallops wild through the night.
+tracklist:
+1. A Caballo Salvaje
+2. B Cumbia De La Noche

@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/corrosion-of-conformity-america-s-volume-dealer-1383605
+Site: HHV
+artist: Corrosion Of Conformity
+title: America's Volume Dealer
+label: Music On Vinyl
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 15.05.2026
+price: 29,99 €
+image_urls:
+downloaded_images:
+
+description:
+Нет описания
+tracklist:
+1. Over Me
+2. Congratulations Song
+3. Stare Too Long
+4. Diablo Blvd
+5. Doublewide
+6. Zippo
+7. Who's Got The Fire
+8. Sleeping Martyr
+9. Take What You Want
+10. 13 Angels
+11. Gittin' It On
+12. Rather See You Dead
+13. Steady Roller

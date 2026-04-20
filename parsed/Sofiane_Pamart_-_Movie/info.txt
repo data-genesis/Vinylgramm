@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/sofiane-pamart-movie-1383501
+Site: HHV
+artist: Sofiane Pamart
+title: Movie
+label: 88 Touches Production
+format: Vinyl 2LP
+genre: Classical Music, Classical Music
+release_date: 17.04.2026
+price: 34,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383501/1-sofiane-pamart-movie.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01133/1133355/2-nto-and-sofiane-pamart-forever-friends-black-vinyl.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00957/957317/1-arno-feat-sofiane-pamart-vivre-parce-que-la-collection.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00889/889948/1-sofiane-pamart-letter.webp
+downloaded_images:
+  Sofiane_Pamart_-_Movie_01.jpeg
+  Sofiane_Pamart_-_Movie_02.jpeg
+  Sofiane_Pamart_-_Movie_03.jpeg
+  Sofiane_Pamart_-_Movie_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

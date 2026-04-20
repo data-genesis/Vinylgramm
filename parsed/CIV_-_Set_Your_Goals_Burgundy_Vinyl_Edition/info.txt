@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/civ-set-your-goals-burgundy-vinyl-edition-1362296
+Site: HHV
+artist: CIV
+title: Set Your Goals Burgundy Vinyl Edition
+label: Revelation
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: 02.04.2026
+price: 26,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01362/1362296/1-civ-set-your-goals-burgundy-vinyl-edition.webp
+downloaded_images:
+  CIV_-_Set_Your_Goals_Burgundy_Vinyl_Edition.jpeg
+
+description:
+Vinyl originally released by Revelation in 1996, Set Your Goals is the debut LP from CIV. This vinyl LP also features a cover of SSD’s “Glue” as a bonus track, which was not available on the original CD version of this release.
+tracklist:
+Нет треклиста

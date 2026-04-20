@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/vinkenoog-spinvis-combo-ja-1378858
+Site: HHV
+artist: Vinkenoog / Spinvis Combo
+title: Ja!
+label: Re:
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 31,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01378/1378858/1-vinkenoog-spinvis-combo-ja.webp
+downloaded_images:
+  Vinkenoog_Spinvis_Combo_-_Ja!.jpeg
+
+description:
+Ja! by Vinkenoog / Spinvis Combo, released 20 March 2026, includes the following tracks: "GNOMENDANS", "GODDANK HET LICHT!/QUICK QUICK SLOW", "LIEVERD" and more. This version of Ja! comes as a 1xLP. This release comes with (a) Insert(s). The vinyl is pressed as a black disc.
+tracklist:
+1. Ja!
+2. The Flying Dutchman
+3. Gnomendans
+4. Louis Lehmann Suite
+5. Goddank Het Licht!/quick Quick Slow
+6. Talatta
+7. Lieverd

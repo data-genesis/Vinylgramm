@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/mystery-redemption-1379298
+Site: HHV
+artist: Mystery
+title: Redemption
+label: Oskar
+format: Vinyl 2LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 43,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01379/1379298/1-mystery-redemption.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01379/1379298/2-mystery-redemption.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01379/1379298/3-mystery-redemption.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01379/1379298/4-mystery-redemption.webp
+downloaded_images:
+  Mystery_-_Redemption_01.jpeg
+  Mystery_-_Redemption_02.jpeg
+  Mystery_-_Redemption_03.jpeg
+  Mystery_-_Redemption_04.jpeg
+
+description:
+Redemption by Mystery, released 15 July 2023. This version of Redemption comes as a 2xLP in a(n) Gatefold Sleeve packaging.
+tracklist:
+1. Behind The Mirror
+2. Redemption
+3. The Beauty & The Least
+4. Every Note
+5. Pearls & Fire
+6. My Inspiration
+7. Homecoming
+8. Is This How The Story Ends?

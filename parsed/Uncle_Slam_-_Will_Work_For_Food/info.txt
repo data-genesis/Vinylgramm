@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/uncle-slam-will-work-for-food-1383610
+Site: HHV
+artist: Uncle Slam
+title: Will Work For Food
+label: Music On Vinyl
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 15.05.2026
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00438/438007/2-mobb-deep-the-infamous.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01130/1130013/1-v-a-eurodance-collected-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00514/514072/3-raekwon-only-built-4-cuban-linx-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01361/1361168/3-jeff-buckley-the-grace-ep-s.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00427/427424/1-terry-callier-what-color-is-love.webp
+downloaded_images:
+  Uncle_Slam_-_Will_Work_For_Food_01.jpeg
+  Uncle_Slam_-_Will_Work_For_Food_02.jpeg
+  Uncle_Slam_-_Will_Work_For_Food_03.jpeg
+  Uncle_Slam_-_Will_Work_For_Food_04.jpeg
+  Uncle_Slam_-_Will_Work_For_Food_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

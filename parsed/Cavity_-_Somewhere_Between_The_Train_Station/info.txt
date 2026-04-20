@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/cavity-somewhere-between-the-train-station-1379155
+Site: HHV
+artist: Cavity
+title: Somewhere Between The Train Station
+label: Putojefe
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 02.04.2026
+price: 19,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379155/1-cavity-somewhere-between-the-train-station.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379155/2-cavity-somewhere-between-the-train-station.webp
+downloaded_images:
+  Cavity_-_Somewhere_Between_The_Train_Station_01.jpeg
+  Cavity_-_Somewhere_Between_The_Train_Station_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Your Funeral, My Time
+2. Shake 'em On Down
+3. Intro Number Two
+4. Open Transom
+5. One Last Broken
+6. Chloride
+7. Inside My Spine
+8. Drowning
+9. Burning My Eyes
+10. Chase

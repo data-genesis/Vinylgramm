@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/vendredi-sur-mer-comment-tu-vas-finir-1364911
+Site: HHV
+artist: Vendredi Sur Mer
+title: Comment Tu Vas Finir
+label: A+LSO
+format: Vinyl LP
+genre: Pop
+release_date: Уже в продаже
+price: 23,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01364/1364911/1-vendredi-sur-mer-comment-tu-vas-finir.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01364/1364911/2-vendredi-sur-mer-comment-tu-vas-finir.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01121/1121591/1-billie-eilish-hit-me-hard-and-soft-black-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01029/1029499/2-olivia-rodrigo-guts-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00950/950089/5-taylor-swift-midnights-jade-green-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01055/1055010/6-taylor-swift-1989-taylors-version-indie-exclusive-tangerine-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01219/1219220/2-johnny-hallyday-vague-limited-record-store-day-2025-liquid-filled-blue-vinyl-edition.webp
+downloaded_images:
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_01.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_02.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_03.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_04.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_05.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_06.jpeg
+  Vendredi_Sur_Mer_-_Comment_Tu_Vas_Finir_07.jpeg
+
+description:
+Comment Tu Vas Finir by Vendredi Sur Mer, released 17 June 2022. This version of Comment Tu Vas Finir comes as a 1xLP. The vinyl is pressed as a opaque disc.
+tracklist:
+1. Comment Tu Vas Finir (Extended)
+2. Desabusee (Extended)

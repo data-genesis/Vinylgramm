@@ -1,0 +1,209 @@
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+📊 Максимум: 5
+🖥️ Режим: Headless
+============================================================
+
+
+🔍 Collecting product URLs from: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+🍪 Пропускаем обработку cookies
+⏳ Waiting for initial page load...
+
+📄 Страница 1
+  📊 Собрано всего: 12 товаров
+  ✅ Reached limit of 5 products
+
+📋 Collected URLs (Top 5):
+  [1] https://www.hhv.de/en-DE-EUR-uk/records/item/a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition-1351976
+  [2] https://www.hhv.de/en-DE-EUR-uk/records/item/de-la-soul-cabin-in-the-sky-hhv-exclusive-seafoam-colored-vinyl-edition-1338588
+  [3] https://www.hhv.de/en-DE-EUR-uk/records/item/rosalia-lux-clear-vinyl-edition-1329215
+  [4] https://www.hhv.de/en-DE-EUR-uk/records/item/robyn-sexistential-hhv-exclusive-super-deluxe-clear-vinyl-edition-1354488
+  [5] https://www.hhv.de/en-DE-EUR-uk/records/item/nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition-1340783
+
+✅ Total collected: 5 product URLs
+
+✅ Ссылки сохранены: 5 → /Users/admin/Code/HHV/ZALIV15.txt
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 5 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+Processing [1/5]
+
+🔍 Parsing: https://www.hhv.de/en-DE-EUR-uk/records/item/a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition-1351976
+📊 Found 13 rows
+  ✅ Artist: A$AP Rocky
+  ✅ Title: Don't Be Dumb Black & White Vinyl Edition
+  ✅ Price: 39,99 €
+  📅 Preorder date: shipping from 2026-01-16
+  ✅ Release date: 16.01.2026
+  📄 Description: 754 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01351/1351976/2-a-ap-rocky-don-t-be-dumb-black-and-white-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: A$AP Rocky
+   Title: Don't Be Dumb Black & White Vinyl Edition
+   Price: 39,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/A$AP_Rocky_-_Don't_Be_Dumb_Black_&_White_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Don't Be Dumb Black & White Vinyl Edition
+
+============================================================
+Processing [2/5]
+
+🔍 Parsing: https://www.hhv.de/en-DE-EUR-uk/records/item/de-la-soul-cabin-in-the-sky-hhv-exclusive-seafoam-colored-vinyl-edition-1338588
+📊 Found 13 rows
+  ✅ Artist: De La Soul
+  ✅ Title: Cabin In The Sky HHV Exclusive Seafoam Colored Vinyl Edition
+  ✅ Price: 34,99 €
+  📅 Preorder date: shipping from 2026-01-23
+  ✅ Release date: 23.01.2026
+  📄 Description: 694 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01338/1338588/2-de-la-soul-cabin-in-the-sky-hhv-exclusive-seafoam-colored-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01338/1338588/1-de-la-soul-cabin-in-the-sky-hhv-exclusive-seafoam-colored-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 20 tracks
+
+📦 Result:
+   Artist: De La Soul
+   Title: Cabin In The Sky HHV Exclusive Seafoam Colored Vinyl Edition
+   Price: 34,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] De_La_Soul_-_Cabin_In_The_Sky_HHV_Exclusive_Seafoam_Colored_Vinyl_Edition_01.jpeg
+  ✅ [2/2] De_La_Soul_-_Cabin_In_The_Sky_HHV_Exclusive_Seafoam_Colored_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/De_La_Soul_-_Cabin_In_The_Sky_HHV_Exclusive_Seafoam_Colored_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Cabin In The Sky HHV Exclusive Seafoam Colored Vinyl Edition
+
+============================================================
+Processing [3/5]
+
+🔍 Parsing: https://www.hhv.de/en-DE-EUR-uk/records/item/rosalia-lux-clear-vinyl-edition-1329215
+📊 Found 15 rows
+  ✅ Artist: Rosalia
+  ✅ Title: Lux Clear Vinyl Edition
+  ✅ Price: 48,99 €
+  📅 No preorder - available now
+  📄 Description: 494 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/9-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/4-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/5-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/1-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/2-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/3-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/6-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/7-rosalia-lux-clear-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01329/1329215/8-rosalia-lux-clear-vinyl-edition.webp
+
+📊 Total images found: 9
+🖼 9 image(s)
+🎵 Tracklist: 18 tracks
+
+📦 Result:
+   Artist: Rosalia
+   Title: Lux Clear Vinyl Edition
+   Price: 48,99 €
+📥 Downloading 9 image(s)...
+  ✅ [1/9] Rosalia_-_Lux_Clear_Vinyl_Edition_01.jpeg
+  ✅ [2/9] Rosalia_-_Lux_Clear_Vinyl_Edition_02.jpeg
+  ✅ [3/9] Rosalia_-_Lux_Clear_Vinyl_Edition_03.jpeg
+  ✅ [4/9] Rosalia_-_Lux_Clear_Vinyl_Edition_04.jpeg
+  ✅ [5/9] Rosalia_-_Lux_Clear_Vinyl_Edition_05.jpeg
+  ✅ [6/9] Rosalia_-_Lux_Clear_Vinyl_Edition_06.jpeg
+  ✅ [7/9] Rosalia_-_Lux_Clear_Vinyl_Edition_07.jpeg
+  ✅ [8/9] Rosalia_-_Lux_Clear_Vinyl_Edition_08.jpeg
+  ✅ [9/9] Rosalia_-_Lux_Clear_Vinyl_Edition_09.jpeg
+✅ info.txt saved: parsed/Rosalia_-_Lux_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Lux Clear Vinyl Edition
+
+============================================================
+Processing [4/5]
+
+🔍 Parsing: https://www.hhv.de/en-DE-EUR-uk/records/item/robyn-sexistential-hhv-exclusive-super-deluxe-clear-vinyl-edition-1354488
+📊 Found 13 rows
+  ✅ Artist: Robyn
+  ✅ Title: Sexistential HHV Exclusive Super Deluxe Clear Vinyl Edition
+  ✅ Price: 47,99 €
+  📅 Preorder date: shipping from 2026-03-27
+  ✅ Release date: 27.03.2026
+  📄 Description: 1494 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01354/1354488/5-robyn-sexistential-hhv-exclusive-super-deluxe-clear-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01354/1354488/2-robyn-sexistential-hhv-exclusive-super-deluxe-clear-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01354/1354488/3-robyn-sexistential-hhv-exclusive-super-deluxe-clear-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Robyn
+   Title: Sexistential HHV Exclusive Super Deluxe Clear Vinyl Edition
+   Price: 47,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Robyn_-_Sexistential_HHV_Exclusive_Super_Deluxe_Clear_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Robyn_-_Sexistential_HHV_Exclusive_Super_Deluxe_Clear_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Robyn_-_Sexistential_HHV_Exclusive_Super_Deluxe_Clear_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Robyn_-_Sexistential_HHV_Exclusive_Super_Deluxe_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Sexistential HHV Exclusive Super Deluxe Clear Vinyl Edition
+
+============================================================
+Processing [5/5]
+
+🔍 Parsing: https://www.hhv.de/en-DE-EUR-uk/records/item/nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition-1340783
+📊 Found 13 rows
+  ✅ Artist: Nas + DJ Premier
+  ✅ Title: Light-Years Indie Exclusive Red Vinyl Edition
+  ✅ Price: 37,99 €
+  📅 Preorder date: shipping from 2026-02-20
+  ✅ Release date: 20.02.2026
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01340/1340783/2-nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01340/1340783/6-nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01340/1340783/5-nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01340/1340783/4-nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01340/1340783/3-nas-dj-premier-light-years-indie-exclusive-red-vinyl-edition.webp
+
+📊 Total images found: 5
+🖼 5 image(s)
+🎵 Tracklist: 15 tracks
+
+📦 Result:
+   Artist: Nas + DJ Premier
+   Title: Light-Years Indie Exclusive Red Vinyl Edition
+   Price: 37,99 €
+📥 Downloading 5 image(s)...
+  ✅ [1/5] Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition_01.jpeg
+  ✅ [2/5] Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition_02.jpeg
+  ✅ [3/5] Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition_03.jpeg
+  ✅ [4/5] Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition_04.jpeg
+  ✅ [5/5] Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition_05.jpeg
+✅ info.txt saved: parsed/Nas_+_DJ_Premier_-_Light-Years_Indie_Exclusive_Red_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Light-Years Indie Exclusive Red Vinyl Edition
+
+🔚 Browser closed
+
+============================================================
+✅ Parsing complete: 5/5 successful
+
+============================================================
+✅ ПАРСИНГ ГОТОВ
+============================================================
+

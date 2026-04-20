@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/trashcan-sinatras-ever-the-optimist-1383505
+Site: HHV
+artist: Trashcan Sinatras
+title: Ever The Optimist
+label: TCS
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 31.07.2026
+price: 37,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383505/1-trashcan-sinatras-ever-the-optimist.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01258/1258856/1-trashcan-sinatras-a-happy-pocket.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01258/1258882/1-trashcan-sinatras-cake.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01258/1258855/1-trashcan-sinatras-weightlifting.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01122/1122709/1-trashcan-sinatras-wild-pendulum-record-store-day-2024-silver-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01097/1097408/1-trash-can-sinatras-cake.webp
+downloaded_images:
+  Trashcan_Sinatras_-_Ever_The_Optimist_01.jpeg
+  Trashcan_Sinatras_-_Ever_The_Optimist_02.jpeg
+  Trashcan_Sinatras_-_Ever_The_Optimist_03.jpeg
+  Trashcan_Sinatras_-_Ever_The_Optimist_04.jpeg
+  Trashcan_Sinatras_-_Ever_The_Optimist_05.jpeg
+  Trashcan_Sinatras_-_Ever_The_Optimist_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

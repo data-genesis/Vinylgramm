@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/tony-soprano-band-downtempo-1-1383331
+Site: HHV
+artist: Tony Soprano Band
+title: Downtempo 1
+label: Dune Castle
+format: Vinyl 12"
+genre: Electronic & Dance, Cosmic | Balearic
+release_date: 22.05.2026
+price: 34,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383331/1-tony-soprano-band-downtempo-1.webp
+downloaded_images:
+  Tony_Soprano_Band_-_Downtempo_1.jpeg
+
+description:
+Downtempo 1 is the debut release from Tony Soprano Band, a Melbourne-based instrumental project led by Daniel Rock (Evening News), in collaboration with Patrick Ryan (Cantrips / Dune Castle).Sitting at the intersection of downtempo electronica, breaks and live band performance, the record was improvised and recorded live in a single day at Dune Castle's in-house studio, The Throne Room. Featuring Daniel Rock (bass), Lucky Pereira (drums), Robert Downey (sampler / drum machine) and Winton Findlay (synthesizers), all material was performed in real time and later edited and mixed into its final form.Tony Soprano Band operates as a rotating cast of musicians within the Dune Castle studio environment, with Downtempo 1 marking the first instalment in an ongoing series.Limited 12" vinyl release.
+tracklist:
+1. 01Brainstorming-TonySopranoBand_
+2. 02AMorninginMarch-TonySopranoBand_
+3. 03ProfessionalAthletics-TonySopranoBand_
+4. 04SpyroTheme-TonySopranoBand_
+5. 05OffTheMark-TonySopranoBand_
+6. 07LetsGetOneMore-TonySopranoBand_
+7. 06Juicy6Tracker-TonySopranoBand_

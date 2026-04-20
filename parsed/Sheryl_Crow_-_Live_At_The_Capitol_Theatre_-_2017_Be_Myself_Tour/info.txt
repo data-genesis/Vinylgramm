@@ -1,0 +1,30 @@
+Source URL: https://www.hhv.de/en/records/item/sheryl-crow-live-at-the-capitol-theatre-2017-be-myself-tour-1383584
+Site: HHV
+artist: Sheryl Crow
+title: Live At The Capitol Theatre - 2017 Be Myself Tour
+label: Cleopatra
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 29.05.2026
+price: 38,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383584/1-sheryl-crow-live-at-the-capitol-theatre-2017-be-myself-tour.webp
+downloaded_images:
+  Sheryl_Crow_-_Live_At_The_Capitol_Theatre_-_2017_Be_Myself_Tour.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Everday Is A Winding Road
+2. A Change Would Do You Good
+3. All I Wanna Do
+4. My Favorite Mistake
+5. Run Baby Run
+6. The First Cut Is The Deepest
+7. Halfway There
+8. Leaving Las Vegas
+9. Strong Enough
+10. Best Of Times
+11. If It Makes You Happy
+12. Soak Up The Sun
+13. I Shall Believe

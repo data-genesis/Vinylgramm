@@ -1,0 +1,62 @@
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+❌ Error setting up driver for HHV: Message: session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.75 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x0000000101044b2c cxxbridge1$str$ptr + 3033596
+1   chromedriver                        0x000000010103cb30 cxxbridge1$str$ptr + 3000832
+2   chromedriver                        0x0000000100b36b0c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x0000000100b6f3e4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 305836
+4   chromedriver                        0x0000000100b6e598 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 302176
+5   chromedriver                        0x0000000100b6a898 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 286560
+6   chromedriver                        0x0000000100b6705c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 272164
+7   chromedriver                        0x0000000100baae8c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 550228
+8   chromedriver                        0x0000000100baa8cc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 548756
+9   chromedriver                        0x0000000100b7216c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+10  chromedriver                        0x0000000101008098 cxxbridge1$str$ptr + 2785128
+11  chromedriver                        0x000000010100b804 cxxbridge1$str$ptr + 2799316
+12  chromedriver                        0x0000000100fe8850 cxxbridge1$str$ptr + 2656032
+13  chromedriver                        0x000000010100c074 cxxbridge1$str$ptr + 2801476
+14  chromedriver                        0x0000000100fd91cc cxxbridge1$str$ptr + 2592924
+15  chromedriver                        0x000000010102bcb4 cxxbridge1$str$ptr + 2931588
+16  chromedriver                        0x000000010102be34 cxxbridge1$str$ptr + 2931972
+17  chromedriver                        0x000000010103c788 cxxbridge1$str$ptr + 2999896
+18  libsystem_pthread.dylib             0x0000000191367bc8 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000191362b80 thread_start + 8
+
+❌ Failed to setup driver
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+❌ Error setting up driver for HHV: Message: session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.75 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010552cb2c cxxbridge1$str$ptr + 3033596
+1   chromedriver                        0x0000000105524b30 cxxbridge1$str$ptr + 3000832
+2   chromedriver                        0x000000010501eb0c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001050573e4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 305836
+4   chromedriver                        0x0000000105056598 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 302176
+5   chromedriver                        0x0000000105052898 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 286560
+6   chromedriver                        0x000000010504f05c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 272164
+7   chromedriver                        0x0000000105092e8c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 550228
+8   chromedriver                        0x00000001050928cc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 548756
+9   chromedriver                        0x000000010505a16c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+10  chromedriver                        0x00000001054f0098 cxxbridge1$str$ptr + 2785128
+11  chromedriver                        0x00000001054f3804 cxxbridge1$str$ptr + 2799316
+12  chromedriver                        0x00000001054d0850 cxxbridge1$str$ptr + 2656032
+13  chromedriver                        0x00000001054f4074 cxxbridge1$str$ptr + 2801476
+14  chromedriver                        0x00000001054c11cc cxxbridge1$str$ptr + 2592924
+15  chromedriver                        0x0000000105513cb4 cxxbridge1$str$ptr + 2931588
+16  chromedriver                        0x0000000105513e34 cxxbridge1$str$ptr + 2931972
+17  chromedriver                        0x0000000105524788 cxxbridge1$str$ptr + 2999896
+18  libsystem_pthread.dylib             0x0000000191367bc8 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000191362b80 thread_start + 8
+
+❌ Failed to setup driver
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+❌ Error setting up driver for HHV: Message: Service /Users/admin/Code/HHV/chromedriver/chromedriver unexpectedly exited. Status code was: -9
+
+❌ Failed to setup driver

@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/tsvi-dance-tripping-1383330
+Site: HHV
+artist: TSVI
+title: Dance Tripping
+label: Nervous Horizon
+format: Vinyl 12"
+genre: Electronic & Dance
+release_date: 17.04.2026
+price: 15,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01383/1383330/1-tsvi-dance-tripping.webp
+downloaded_images:
+  TSVI_-_Dance_Tripping.jpeg
+
+description:
+Label Boss Tsvi is back with a brand new release on Nervous Horizon: Dance Tripping EP! Inspired by his early years in London, where he spent countless nights at minimal and tech house raves, the EP draws elements from these styles through stripped back productions and groove driven basslines. Moving away from Tsvi's signature percussion focused sound, the record prioritises a more sound design approach, exploring texture, movement and club functionality. The EP opens with Music is Moving, a high energy festival weapon built around a groovy bassline and a UK garage leaning swing. A sharp, restless lead drives the track forward before exploding into a euphoric climax of phased and distorted sawtooth waves. Next comes The Wasp Track, combining pitched down leads with a rolling tech house groove, built for peak time tension and release. The title track Dance Tripping sees Tsvi at his most stripped back, featuring loopy analog textures and hypnotic rhythmic elements that focus on repetition. The last two tracks Kataklisma and Turbo Motion create a literal sonic apocalypse by pounding the club with heavy reeses and mean beats.Tsvi Dance Tripping EP is the ultimate club weapon for 2026!
+tracklist:
+1. 01MusicIsMoving-TSVI_
+2. 02TheWaspTrack-TSVI_
+3. 03DanceTripping-TSVI_
+4. 04Kataklisma-TSVI_
+5. 05TurboMotion-TSVI_

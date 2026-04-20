@@ -1,0 +1,17 @@
+2026-03-05 16:06:16,994 INFO === HHV parser session started ===
+2026-03-05 16:06:17,015 INFO ====== WebDriver manager ======
+2026-03-05 16:06:17,234 INFO Get LATEST chromedriver version for google-chrome
+2026-03-05 16:06:17,819 INFO Get LATEST chromedriver version for google-chrome
+2026-03-05 16:06:18,386 INFO Get LATEST chromedriver version for google-chrome
+2026-03-05 16:06:19,084 INFO WebDriver version 145.0.7632.117 selected
+2026-03-05 16:06:19,087 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-05 16:06:19,088 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/mac-arm64/chromedriver-mac-arm64.zip
+2026-03-05 16:06:19,287 INFO Driver downloading response is 200
+2026-03-05 16:06:22,034 INFO Get LATEST chromedriver version for google-chrome
+2026-03-05 16:06:22,293 INFO Driver has been saved in cache [/Users/admin/.wdm/drivers/chromedriver/mac64/145.0.7632.117]
+2026-03-05 16:06:25,173 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/2-castle-rat-into-the-realm-black-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition | filename=Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_01.jpeg
+2026-03-05 16:06:25,993 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/3-castle-rat-into-the-realm-black-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition | filename=Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_02.jpeg
+2026-03-05 16:06:26,719 INFO Attempting image download (attempt 1/3) | url=https://a1.cdn.hhv.de/items/images/generated/970x970/01290/1290581/1-castle-rat-into-the-realm-black-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition | filename=Castle_Rat_-_Into_The_Realm_Black_Vinyl_Edition_03.jpeg
+2026-03-05 16:06:29,986 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/2-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_01.jpeg
+2026-03-05 16:06:30,438 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/3-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_02.jpeg
+2026-03-05 16:06:30,794 INFO Attempting image download (attempt 1/3) | url=https://a3.cdn.hhv.de/items/images/generated/970x970/01311/1311963/4-castle-rat-the-bestiary-sea-greensky-blue-marble-swirl-vinyl-edition.webp | save_dir=parsed/Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition | filename=Castle_Rat_-_The_Bestiary_Sea_Greensky_Blue_Marble_Swirl_Vinyl_Edition_03.jpeg

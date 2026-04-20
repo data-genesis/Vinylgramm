@@ -1,0 +1,30 @@
+Source URL: https://www.hhv.de/en/records/item/combichrist-no-redemption-dark-green-vinyl-edition-1367880
+Site: HHV
+artist: Combichrist
+title: No Redemption Dark Green Vinyl Edition
+label: Out Of Line
+format: Vinyl LP
+genre: Pop, 2010s
+release_date: Уже в продаже
+price: 25,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01367/1367880/1-combichrist-no-redemption-dark-green-vinyl-edition.webp
+downloaded_images:
+  Combichrist_-_No_Redemption_Dark_Green_Vinyl_Edition.jpeg
+
+description:
+First Ever Vinyl edition of Combichrist’s Album No. 6 (2013), on Dark Green Vinyl! The Norwegian EBM/Electro band initially formed as a side project of Icon of Coil frontman Andy LaPlegua in 2003. Following the demise of that band, Combichrist became a full-time project. The band has played as a solo act, a duo, a trio, a four-, five-, and six-piece band since, and looks back on a total of 10 full-length albums on Out of Line!
+tracklist:
+1. Age Of Mutation
+2. Zombie Fistfight
+3. Feed The Fire
+4. Gimme Deathrace
+5. Cloud Of War
+6. Buried Alive
+7. Empty
+8. I Know What I Am Doing (Planet Treason)
+9. 3. No Redemption
+10. Falling Apart
+11. Gotta Go
+12. How Old Is Your Soul?
+13. Pull The Pin

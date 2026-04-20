@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/galactic-ruckus-1383606
+Site: HHV
+artist: Galactic
+title: Ruckus
+label: Music On Vinyl
+format: Vinyl LP
+genre: Electronic & Dance, Downbeat | Electronica | Leftfield
+release_date: 15.05.2026
+price: 29,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01255/1255992/1-galactic-and-irma-thomas-audience-with-the-queen.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01218/1218074/1-galactic-and-irma-thomas-audience-with-the-queen-sky-blue-gold-smoke-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01075/1075456/1-galactic-already-ready-already.webp
+downloaded_images:
+  Galactic_-_Ruckus_01.jpeg
+  Galactic_-_Ruckus_02.jpeg
+  Galactic_-_Ruckus_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

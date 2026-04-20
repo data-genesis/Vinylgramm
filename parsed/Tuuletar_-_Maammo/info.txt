@@ -1,0 +1,27 @@
+Source URL: https://www.hhv.de/en/records/item/tuuletar-maammo-1355520
+Site: HHV
+artist: Tuuletar
+title: Maammo
+label: Nordic Notes
+format: Vinyl LP
+genre: Rock & Indie, Folk
+release_date: 02.04.2026
+price: 33,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01355/1355520/1-tuuletar-maammo.webp
+downloaded_images:
+  Tuuletar_-_Maammo.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Kajatesi (A-Seite)
+2. Hyvänyön Loitsu
+3. Äitimaa
+4. Kylvö
+5. Kuule
+6. Kevään Kajo (B-Seite)
+7. Etsimme Toisesta Itseämme
+8. Heponi Mun (Moj Kon Nieborak)
+9. Kieluvainen
+10. Geile

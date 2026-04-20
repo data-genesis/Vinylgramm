@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/pascal-obispo-france-1379311
+Site: HHV
+artist: Pascal Obispo
+title: France
+label: Differant Distr
+format: Vinyl LP
+genre: Pop
+release_date: Уже в продаже
+price: 28,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379311/1-pascal-obispo-france.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01379/1379311/2-pascal-obispo-france.webp
+downloaded_images:
+  Pascal_Obispo_-_France_01.jpeg
+  Pascal_Obispo_-_France_02.jpeg
+
+description:
+France by Pascal Obispo, released 26 November 2021, includes the following tracks: "Il Est Celui Que Je Voulais", "Tu Trouveras", "Lui Que J'arrive", "Chanter" and more. This version of France comes as a 1xLP. The vinyl is pressed as a opaque disc.
+tracklist:
+1. A Qui Dire Qu'on Est Seul
+2. De Nous
+3. Il Est Celui Que Je Voulais
+4. Un Seul Visage
+5. Tu Trouveras
+6. Dites
+7. Lui Que J'arrive
+8. Je Ne Danserai Pas
+9. Chanter
+10. La Cle
+11. Sa Raison D'etre
+12. L'inacceptable

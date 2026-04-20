@@ -1,0 +1,2020 @@
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: https://www.hhv.de/en/records/catalog/mom-pop-hhv-records-D2L62317N2S6
+📊 Максимум: 100
+🖥️ Режим: С окном
+============================================================
+
+
+🔍 Collecting product URLs from: https://www.hhv.de/en/records/catalog/mom-pop-hhv-records-D2L62317N2S6
+Setting up browser driver for HHV...
+  🔊 Headless mode: OFF (окно браузера будет видно)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...
+✅ РАБОТАЕМ С HHV.
+🍪 Пропускаем обработку cookies
+⏳ Waiting for initial page load...
+
+📄 Страница 1
+  📊 Собрано: 3 (+3)
+  📊 Собрано: 5 (+2)
+  📊 Собрано: 7 (+2)
+  📊 Собрано: 8 (+1)
+  📊 Собрано: 10 (+2)
+  📊 Собрано: 11 (+1)
+  📊 Собрано: 12 (+1)
+  📊 Собрано: 14 (+2)
+  📊 Собрано: 16 (+2)
+  📊 Собрано: 17 (+1)
+  📊 Собрано: 19 (+2)
+  📊 Собрано: 20 (+1)
+  📊 Собрано: 22 (+2)
+  📊 Собрано: 23 (+1)
+  📊 Собрано: 25 (+2)
+  📊 Собрано: 26 (+1)
+  📊 Собрано: 28 (+2)
+  📊 Собрано: 29 (+1)
+  📊 Собрано: 31 (+2)
+  📊 Собрано: 32 (+1)
+  📊 Собрано: 34 (+2)
+  📊 Собрано: 35 (+1)
+  📊 Собрано: 37 (+2)
+  📊 Собрано: 38 (+1)
+  📊 Собрано: 40 (+2)
+  📊 Собрано: 41 (+1)
+  📊 Собрано: 43 (+2)
+  📊 Собрано: 44 (+1)
+  📊 Собрано: 46 (+2)
+  📊 Собрано: 47 (+1)
+  📊 Собрано: 49 (+2)
+  📊 Собрано: 51 (+2)
+  📊 Собрано: 52 (+1)
+  📊 Собрано: 54 (+2)
+  📊 Собрано: 55 (+1)
+  📊 Собрано: 57 (+2)
+  📊 Собрано: 58 (+1)
+  📊 Собрано: 60 (+2)
+  📊 Собрано: 61 (+1)
+  📊 Собрано: 63 (+2)
+  📊 Собрано: 64 (+1)
+  📊 Собрано: 66 (+2)
+  📊 Собрано: 68 (+2)
+  📊 Собрано: 69 (+1)
+  📊 Собрано: 71 (+2)
+  📊 Собрано: 72 (+1)
+  ⏳ Нет новых товаров (1/3)...
+  ⏳ Нет новых товаров (1/3)...
+  ⏳ Нет новых товаров (1/3)...
+  ✅ Достигнут низ страницы
+🔎 Ищем кнопку следующей страницы...
+🏁 Следующая страница не найдена. Парсинг завершен.
+
+📋 Collected URLs (Top 5):
+  [1] https://www.hhv.de/en/records/item/magdalena-bay-second-sleep-star-eyes-marbled-in-midnight-mist-vinyl-edition-1344605
+  [2] https://www.hhv.de/en/records/item/tash-sultana-notion-metallic-silver-vinyl-edition-1369274
+  [3] https://www.hhv.de/en/records/item/magdalena-bay-this-is-the-world-i-made-it-for-you-nice-day-marbled-in-pink-wisp-vinyl-edition-1344604
+  [4] https://www.hhv.de/en/records/item/underscores-u-clear-vinyl-edition-1374366
+  [5] https://www.hhv.de/en/records/item/courtney-barnett-creature-of-habit-indie-colored-edition-1363991
+
+✅ Total collected: 72 product URLs
+
+✅ Ссылки сохранены: 72 → /Users/admin/Downloads/hhv_urls_24_03.txt
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 72 URLs to parse
+Setting up browser driver for HHV...
+  🔊 Headless mode: OFF (окно браузера будет видно)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...
+❌ Error setting up driver for HHV: Could not reach host. Are you offline?
+❌ Failed to setup driver
+
+============================================================
+✅ ПАРСИНГ ГОТОВ
+============================================================
+
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 72 URLs to parse
+Setting up browser driver for HHV...
+  🔊 Headless mode: OFF (окно браузера будет видно)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+Processing [1/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/magdalena-bay-second-sleep-star-eyes-marbled-in-midnight-mist-vinyl-edition-1344605
+📊 Found 13 rows
+  ✅ Artist: Magdalena Bay
+  ✅ Title: Second Sleep / Star Eyes Marbled In Midnight Mist Vinyl Edition
+  ✅ Price: 23,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 1995 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01344/1344605/1-magdalena-bay-second-sleep-star-eyes-marbled-in-midnight-mist-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Magdalena Bay
+   Title: Second Sleep / Star Eyes Marbled In Midnight Mist Vinyl Edition
+   Price: 23,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Magdalena_Bay_-_Second_Sleep_Star_Eyes_Marbled_In_Midnight_Mist_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Magdalena_Bay_-_Second_Sleep_Star_Eyes_Marbled_In_Midnight_Mist_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Second Sleep / Star Eyes Marbled In Midnight Mist Vinyl Edition
+
+============================================================
+Processing [2/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tash-sultana-notion-metallic-silver-vinyl-edition-1369274
+📊 Found 14 rows
+  ✅ Artist: Tash Sultana
+  ✅ Title: Notion Metallic Silver Vinyl Edition
+  ✅ Price: 37,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 844 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01369/1369274/1-tash-sultana-notion-metallic-silver-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Tash Sultana
+   Title: Notion Metallic Silver Vinyl Edition
+   Price: 37,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Tash_Sultana_-_Notion_Metallic_Silver_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Tash_Sultana_-_Notion_Metallic_Silver_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Notion Metallic Silver Vinyl Edition
+
+============================================================
+Processing [3/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/magdalena-bay-this-is-the-world-i-made-it-for-you-nice-day-marbled-in-pink-wisp-vinyl-edition-1344604
+📊 Found 13 rows
+  ✅ Artist: Magdalena Bay
+  ✅ Title: This Is The World (I Made It For You) / Nice Day Marbled In Pink Wisp Vinyl Edition
+  ✅ Price: 23,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 156 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01344/1344604/1-magdalena-bay-this-is-the-world-i-made-it-for-you-nice-day-marbled-in-pink-wisp-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Magdalena Bay
+   Title: This Is The World (I Made It For You) / Nice Day Marbled In Pink Wisp Vinyl Edition
+   Price: 23,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Magdalena_Bay_-_This_Is_The_World_(I_Made_It_For_You)_Nice_Day_Marbled_In_Pink_Wisp_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Magdalena_Bay_-_This_Is_The_World_(I_Made_It_For_You)_Nice_Day_Marbled_In_Pink_Wisp_Vinyl_Edition/info.txt
+🎉 Successfully parsed: This Is The World (I Made It For You) / Nice Day Marbled In Pink Wisp Vinyl Edition
+
+============================================================
+Processing [4/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/underscores-u-clear-vinyl-edition-1374366
+📊 Found 12 rows
+  ✅ Artist: Underscores
+  ✅ Title: U Clear Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 Preorder date: shipping from 2026-05-22
+  ✅ Release date: 22.05.2026
+  📄 Description: 492 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01374/1374366/1-underscores-u-clear-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Underscores
+   Title: U Clear Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Underscores_-_U_Clear_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Underscores_-_U_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: U Clear Vinyl Edition
+
+============================================================
+Processing [5/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/courtney-barnett-creature-of-habit-indie-colored-edition-1363991
+📊 Found 14 rows
+  ✅ Artist: Courtney Barnett
+  ✅ Title: Creature Of Habit Indie Colored Edition
+  ✅ Price: 35,99 €
+  📅 Preorder date: shipping from 2026-03-27
+  ✅ Release date: 27.03.2026
+  📄 Description: 1071 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01363/1363991/1-courtney-barnett-creature-of-habit-indie-colored-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Courtney Barnett
+   Title: Creature Of Habit Indie Colored Edition
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Courtney_Barnett_-_Creature_Of_Habit_Indie_Colored_Edition.jpeg
+✅ info.txt saved: parsed/Courtney_Barnett_-_Creature_Of_Habit_Indie_Colored_Edition/info.txt
+🎉 Successfully parsed: Creature Of Habit Indie Colored Edition
+
+============================================================
+Processing [6/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/violent-vira-lover-of-a-ghost-1322579
+📊 Found 15 rows
+  ✅ Artist: Violent Vira
+  ✅ Title: Lover Of A Ghost
+  ✅ Price: 36,99 €
+  📅 No preorder - available now
+  📄 Description: 1820 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01322/1322579/2-violent-vira-lover-of-a-ghost.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01322/1322579/3-violent-vira-lover-of-a-ghost.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 14 tracks
+
+📦 Result:
+   Artist: Violent Vira
+   Title: Lover Of A Ghost
+   Price: 36,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Violent_Vira_-_Lover_Of_A_Ghost_01.jpeg
+  ✅ [2/2] Violent_Vira_-_Lover_Of_A_Ghost_02.jpeg
+✅ info.txt saved: parsed/Violent_Vira_-_Lover_Of_A_Ghost/info.txt
+🎉 Successfully parsed: Lover Of A Ghost
+
+============================================================
+Processing [7/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/magdalena-bay-human-happens-paint-me-a-picture-marbled-in-5am-skylight-vinyl-edition-1344598
+📊 Found 13 rows
+  ✅ Artist: Magdalena Bay
+  ✅ Title: Human Happens / Paint Me A Picture Marbled In 5AM Skylight Vinyl Edition
+  ✅ Price: 23,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 156 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01344/1344598/1-magdalena-bay-human-happens-paint-me-a-picture-marbled-in-5am-skylight-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Magdalena Bay
+   Title: Human Happens / Paint Me A Picture Marbled In 5AM Skylight Vinyl Edition
+   Price: 23,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Magdalena_Bay_-_Human_Happens_Paint_Me_A_Picture_Marbled_In_5AM_Skylight_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Magdalena_Bay_-_Human_Happens_Paint_Me_A_Picture_Marbled_In_5AM_Skylight_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Human Happens / Paint Me A Picture Marbled In 5AM Skylight Vinyl Edition
+
+============================================================
+Processing [8/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/magdalena-bay-unoriginal-black-eyed-susan-climb-marbled-in-red-hot-sun-vinyl-edition-1344603
+📊 Found 13 rows
+  ✅ Artist: Magdalena Bay
+  ✅ Title: Unoriginal / Black-Eyed Susan Climb Marbled In Red-Hot Sun Vinyl Edition
+  ✅ Price: 23,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 156 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01344/1344603/1-magdalena-bay-unoriginal-black-eyed-susan-climb-marbled-in-red-hot-sun-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Magdalena Bay
+   Title: Unoriginal / Black-Eyed Susan Climb Marbled In Red-Hot Sun Vinyl Edition
+   Price: 23,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Magdalena_Bay_-_Unoriginal_Black-Eyed_Susan_Climb_Marbled_In_Red-Hot_Sun_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Magdalena_Bay_-_Unoriginal_Black-Eyed_Susan_Climb_Marbled_In_Red-Hot_Sun_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Unoriginal / Black-Eyed Susan Climb Marbled In Red-Hot Sun Vinyl Edition
+
+============================================================
+Processing [9/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/underscores-wallsocket-director-s-cut-deluxe-edition-1150003
+📊 Found 14 rows
+  ✅ Artist: Underscores
+  ✅ Title: Wallsocket Director's Cut Deluxe Edition
+  ✅ Price: 41,99 €
+  📅 No preorder - available now
+  📄 Description: 620 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01150/1150003/1-underscores-wallsocket-director-s-cut-deluxe-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01150/1150003/2-underscores-wallsocket-director-s-cut-deluxe-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 16 tracks
+
+📦 Result:
+   Artist: Underscores
+   Title: Wallsocket Director's Cut Deluxe Edition
+   Price: 41,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Underscores_-_Wallsocket_Director's_Cut_Deluxe_Edition_01.jpeg
+  ✅ [2/2] Underscores_-_Wallsocket_Director's_Cut_Deluxe_Edition_02.jpeg
+✅ info.txt saved: parsed/Underscores_-_Wallsocket_Director's_Cut_Deluxe_Edition/info.txt
+🎉 Successfully parsed: Wallsocket Director's Cut Deluxe Edition
+
+============================================================
+Processing [10/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/maya-hawke-maitreya-corso-baby-blue-bone-vinyl-edition-1375045
+📊 Found 13 rows
+  ✅ Artist: Maya Hawke
+  ✅ Title: Maitreya Corso Baby Blue Bone Vinyl Edition
+  ✅ Price: 42,99 €
+  📅 Preorder date: shipping from 2026-05-08
+  ✅ Release date: 08.05.2026
+  📄 Description: 732 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01375/1375045/1-maya-hawke-maitreya-corso-baby-blue-bone-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Maya Hawke
+   Title: Maitreya Corso Baby Blue Bone Vinyl Edition
+   Price: 42,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Maya_Hawke_-_Maitreya_Corso_Baby_Blue_Bone_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Maya_Hawke_-_Maitreya_Corso_Baby_Blue_Bone_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Maitreya Corso Baby Blue Bone Vinyl Edition
+
+============================================================
+Processing [11/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tegan-and-sara-crybaby-932129
+📊 Found 15 rows
+  ✅ Artist: Tegan & Sara
+  ✅ Title: Crybaby
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 323 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00932/932129/4-tegan-and-sara-crybaby.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00932/932129/5-tegan-and-sara-crybaby.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00932/932129/6-tegan-and-sara-crybaby.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Tegan & Sara
+   Title: Crybaby
+   Price: 35,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Tegan_&_Sara_-_Crybaby_01.jpeg
+  ✅ [2/3] Tegan_&_Sara_-_Crybaby_02.jpeg
+  ✅ [3/3] Tegan_&_Sara_-_Crybaby_03.jpeg
+✅ info.txt saved: parsed/Tegan_&_Sara_-_Crybaby/info.txt
+🎉 Successfully parsed: Crybaby
+
+============================================================
+Processing [12/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/courtney-barnett-creature-of-habit-1363990
+📊 Found 14 rows
+  ✅ Artist: Courtney Barnett
+  ✅ Title: Creature Of Habit
+  ✅ Price: 35,99 €
+  📅 Preorder date: shipping from 2026-03-27
+  ✅ Release date: 27.03.2026
+  📄 Description: 1071 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01363/1363990/1-courtney-barnett-creature-of-habit.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Courtney Barnett
+   Title: Creature Of Habit
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Courtney_Barnett_-_Creature_Of_Habit.jpeg
+✅ info.txt saved: parsed/Courtney_Barnett_-_Creature_Of_Habit/info.txt
+🎉 Successfully parsed: Creature Of Habit
+
+============================================================
+Processing [13/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/flume-skin-green-vinyl-edition-521760
+📊 Found 14 rows
+  ✅ Artist: Flume
+  ✅ Title: Skin Green Vinyl Edition
+  ✅ Price: 41,99 €
+  📅 No preorder - available now
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00521/521760/1-flume-skin-green-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00521/521760/2-flume-skin-green-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 16 tracks
+
+📦 Result:
+   Artist: Flume
+   Title: Skin Green Vinyl Edition
+   Price: 41,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Flume_-_Skin_Green_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Flume_-_Skin_Green_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Flume_-_Skin_Green_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Skin Green Vinyl Edition
+
+============================================================
+Processing [14/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/flume-flume-323275
+📊 Found 13 rows
+  ✅ Artist: Flume
+  ✅ Title: Flume
+  ✅ Price: 36,99 €
+  📅 No preorder - available now
+  📄 Description: 1250 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00323/323275/2-flume-flume.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00323/323275/3-flume-flume.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 14 tracks
+
+📦 Result:
+   Artist: Flume
+   Title: Flume
+   Price: 36,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Flume_-_Flume_01.jpeg
+  ✅ [2/2] Flume_-_Flume_02.jpeg
+✅ info.txt saved: parsed/Flume_-_Flume/info.txt
+🎉 Successfully parsed: Flume
+
+============================================================
+Processing [15/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/galdive-blue-translucent-cobalt-vinyl-edition-1350477
+📊 Found 13 rows
+  ✅ Artist: Galdive
+  ✅ Title: Blue Translucent Cobalt Vinyl Edition
+  ✅ Price: 33,99 €
+  📅 No preorder - available now
+  📄 Description: 1276 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01350/1350477/1-galdive-blue-translucent-cobalt-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Galdive
+   Title: Blue Translucent Cobalt Vinyl Edition
+   Price: 33,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Galdive_-_Blue_Translucent_Cobalt_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Galdive_-_Blue_Translucent_Cobalt_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Blue Translucent Cobalt Vinyl Edition
+
+============================================================
+Processing [16/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-by-and-by-1278001
+📊 Found 15 rows
+  ✅ Artist: Caamp
+  ✅ Title: By And By
+  ✅ Price: 36,99 €
+  📅 No preorder - available now
+  📄 Description: 617 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01278/1278001/2-caamp-by-and-by.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01278/1278001/3-caamp-by-and-by.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01278/1278001/4-caamp-by-and-by.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01278/1278001/5-caamp-by-and-by.webp
+
+📊 Total images found: 4
+🖼 4 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Caamp
+   Title: By And By
+   Price: 36,99 €
+📥 Downloading 4 image(s)...
+  ✅ [1/4] Caamp_-_By_And_By_01.jpeg
+  ✅ [2/4] Caamp_-_By_And_By_02.jpeg
+  ✅ [3/4] Caamp_-_By_And_By_03.jpeg
+  ✅ [4/4] Caamp_-_By_And_By_04.jpeg
+✅ info.txt saved: parsed/Caamp_-_By_And_By/info.txt
+🎉 Successfully parsed: By And By
+
+============================================================
+Processing [17/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/teen-jesus-and-the-jean-teasers-i-love-you-opaque-pink-vinyl-edition-1286021
+📊 Found 14 rows
+  ✅ Artist: Teen Jesus And The Jean Teasers
+  ✅ Title: I Love You Opaque Pink Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 1269 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01286/1286021/1-teen-jesus-and-the-jean-teasers-i-love-you-opaque-pink-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01286/1286021/2-teen-jesus-and-the-jean-teasers-i-love-you-opaque-pink-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Teen Jesus And The Jean Teasers
+   Title: I Love You Opaque Pink Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Teen_Jesus_And_The_Jean_Teasers_-_I_Love_You_Opaque_Pink_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Teen_Jesus_And_The_Jean_Teasers_-_I_Love_You_Opaque_Pink_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Teen_Jesus_And_The_Jean_Teasers_-_I_Love_You_Opaque_Pink_Vinyl_Edition/info.txt
+🎉 Successfully parsed: I Love You Opaque Pink Vinyl Edition
+
+============================================================
+Processing [18/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-copper-changes-color-apple-red-vinyl-edition-1248147
+📊 Found 14 rows
+  ✅ Artist: Caamp
+  ✅ Title: Copper Changes Color Apple Red Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 851 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01248/1248147/3-caamp-copper-changes-color-apple-red-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01248/1248147/4-caamp-copper-changes-color-apple-red-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Caamp
+   Title: Copper Changes Color Apple Red Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Caamp_-_Copper_Changes_Color_Apple_Red_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Caamp_-_Copper_Changes_Color_Apple_Red_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Caamp_-_Copper_Changes_Color_Apple_Red_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Copper Changes Color Apple Red Vinyl Edition
+
+============================================================
+Processing [19/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/flume-skin-pink-vinyl-edition-1371771
+📊 Found 14 rows
+  ✅ Artist: Flume
+  ✅ Title: Skin Pink Vinyl Edition
+  ✅ Price: 41,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 1459 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01371/1371771/1-flume-skin-pink-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Flume
+   Title: Skin Pink Vinyl Edition
+   Price: 41,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Flume_-_Skin_Pink_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Flume_-_Skin_Pink_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Skin Pink Vinyl Edition
+
+============================================================
+Processing [20/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/fidlar-almost-free-indie-exclusive-green-vinyl-edition-631296
+📊 Found 15 rows
+  ✅ Artist: FIDLAR
+  ✅ Title: Almost Free Indie Exclusive Green Vinyl Edition
+  ✅ Price: 28,99 €
+  📅 No preorder - available now
+  📄 Description: 1295 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00631/631296/1-fidlar-almost-free-indie-exclusive-green-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00631/631296/2-fidlar-almost-free-indie-exclusive-green-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: FIDLAR
+   Title: Almost Free Indie Exclusive Green Vinyl Edition
+   Price: 28,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] FIDLAR_-_Almost_Free_Indie_Exclusive_Green_Vinyl_Edition_01.jpeg
+  ✅ [2/2] FIDLAR_-_Almost_Free_Indie_Exclusive_Green_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/FIDLAR_-_Almost_Free_Indie_Exclusive_Green_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Almost Free Indie Exclusive Green Vinyl Edition
+
+============================================================
+Processing [21/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/beach-bunny-emotional-creature-orange-yellow-marbled-vinyl-edition-906345
+📊 Found 15 rows
+  ✅ Artist: Beach Bunny
+  ✅ Title: Emotional Creature Orange / Yellow Marbled Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 1434 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00906/906345/2-beach-bunny-emotional-creature-orange-yellow-marbled-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00906/906345/3-beach-bunny-emotional-creature-orange-yellow-marbled-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00906/906345/4-beach-bunny-emotional-creature-orange-yellow-marbled-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Beach Bunny
+   Title: Emotional Creature Orange / Yellow Marbled Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Beach_Bunny_-_Emotional_Creature_Orange_Yellow_Marbled_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Beach_Bunny_-_Emotional_Creature_Orange_Yellow_Marbled_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Beach_Bunny_-_Emotional_Creature_Orange_Yellow_Marbled_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Beach_Bunny_-_Emotional_Creature_Orange_Yellow_Marbled_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Emotional Creature Orange / Yellow Marbled Vinyl Edition
+
+============================================================
+Processing [22/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/porter-robinson-look-at-the-sky-799675
+📊 Found 15 rows
+  ✅ Artist: Porter Robinson
+  ✅ Title: Look At The Sky
+  ✅ Price: 15,99 €
+  📅 No preorder - available now
+  📄 Description: 576 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00799/799675/1-porter-robinson-look-at-the-sky.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00799/799675/2-porter-robinson-look-at-the-sky.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 1 tracks
+
+📦 Result:
+   Artist: Porter Robinson
+   Title: Look At The Sky
+   Price: 15,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Porter_Robinson_-_Look_At_The_Sky_01.jpeg
+  ✅ [2/2] Porter_Robinson_-_Look_At_The_Sky_02.jpeg
+✅ info.txt saved: parsed/Porter_Robinson_-_Look_At_The_Sky/info.txt
+🎉 Successfully parsed: Look At The Sky
+
+============================================================
+Processing [23/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/porter-robinson-smile-d-apple-red-vinyl-edition-1323589
+📊 Found 13 rows
+  ✅ Artist: Porter Robinson
+  ✅ Title: Smile! :D Apple Red Vinyl Edition
+  ✅ Price: 39,99 €
+  📅 No preorder - available now
+  📄 Description: 1607 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01323/1323589/2-porter-robinson-smile-d-apple-red-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01323/1323589/3-porter-robinson-smile-d-apple-red-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Porter Robinson
+   Title: Smile! :D Apple Red Vinyl Edition
+   Price: 39,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Porter_Robinson_-_Smile!_D_Apple_Red_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Porter_Robinson_-_Smile!_D_Apple_Red_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Porter_Robinson_-_Smile!_D_Apple_Red_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Smile! :D Apple Red Vinyl Edition
+
+============================================================
+Processing [24/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/maya-hawke-blush-741839
+📊 Found 15 rows
+  ✅ Artist: Maya Hawke
+  ✅ Title: Blush
+  ✅ Price: 25,99 €
+  📅 No preorder - available now
+  📄 Description: 1073 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00741/741839/1-maya-hawke-blush.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00741/741839/2-maya-hawke-blush.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Maya Hawke
+   Title: Blush
+   Price: 25,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Maya_Hawke_-_Blush_01.jpeg
+  ✅ [2/2] Maya_Hawke_-_Blush_02.jpeg
+✅ info.txt saved: parsed/Maya_Hawke_-_Blush/info.txt
+🎉 Successfully parsed: Blush
+
+============================================================
+Processing [25/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/teen-jesus-and-the-jean-teasers-i-love-you-coke-bottle-clear-vinyl-edition-1226785
+📊 Found 13 rows
+  ✅ Artist: Teen Jesus And The Jean Teasers
+  ✅ Title: I Love You Coke Bottle Clear Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 Preorder date: shipping from 2026-03-27
+  ✅ Release date: 27.03.2026
+  📄 Description: 1269 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01226/1226785/1-teen-jesus-and-the-jean-teasers-i-love-you-coke-bottle-clear-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Teen Jesus And The Jean Teasers
+   Title: I Love You Coke Bottle Clear Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Teen_Jesus_And_The_Jean_Teasers_-_I_Love_You_Coke_Bottle_Clear_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Teen_Jesus_And_The_Jean_Teasers_-_I_Love_You_Coke_Bottle_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: I Love You Coke Bottle Clear Vinyl Edition
+
+============================================================
+Processing [26/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/after-ep1-ep2-translucent-clear-vinyl-edition-1353648
+📊 Found 14 rows
+  ✅ Artist: After
+  ✅ Title: EP1 EP2 Translucent Clear Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 429 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01353/1353648/2-after-ep1-ep2-translucent-clear-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01353/1353648/3-after-ep1-ep2-translucent-clear-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: After
+   Title: EP1 EP2 Translucent Clear Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] After_-_EP1_EP2_Translucent_Clear_Vinyl_Edition_01.jpeg
+  ✅ [2/2] After_-_EP1_EP2_Translucent_Clear_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/After_-_EP1_EP2_Translucent_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: EP1 EP2 Translucent Clear Vinyl Edition
+
+============================================================
+Processing [27/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/brudi-brothers-motherland-me-more-cowboy-than-you-ep-1328819
+📊 Found 14 rows
+  ✅ Artist: Brudi Brothers
+  ✅ Title: Motherland"Me More Cowboy Than You" EP
+  ✅ Price: 14,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 768 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01328/1328819/1-brudi-brothers-motherland-me-more-cowboy-than-you-ep.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Brudi Brothers
+   Title: Motherland"Me More Cowboy Than You" EP
+   Price: 14,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Brudi_Brothers_-_MotherlandMe_More_Cowboy_Than_You_EP.jpeg
+✅ info.txt saved: parsed/Brudi_Brothers_-_MotherlandMe_More_Cowboy_Than_You_EP/info.txt
+🎉 Successfully parsed: Motherland"Me More Cowboy Than You" EP
+
+============================================================
+Processing [28/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/orion-sun-hold-space-for-me-tangerine-vinyl-edition-1313552
+📊 Found 14 rows
+  ✅ Artist: Orion Sun
+  ✅ Title: Hold Space For Me Tangerine Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 830 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01313/1313552/1-orion-sun-hold-space-for-me-tangerine-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Orion Sun
+   Title: Hold Space For Me Tangerine Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Orion_Sun_-_Hold_Space_For_Me_Tangerine_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Orion_Sun_-_Hold_Space_For_Me_Tangerine_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Hold Space For Me Tangerine Vinyl Edition
+
+============================================================
+Processing [29/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/del-water-gap-chasing-the-chimera-clear-vinyl-edition-1310957
+📊 Found 14 rows
+  ✅ Artist: Del Water Gap
+  ✅ Title: Chasing The Chimera Clear Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 443 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01310/1310957/1-del-water-gap-chasing-the-chimera-clear-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Del Water Gap
+   Title: Chasing The Chimera Clear Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Del_Water_Gap_-_Chasing_The_Chimera_Clear_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Del_Water_Gap_-_Chasing_The_Chimera_Clear_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Chasing The Chimera Clear Vinyl Edition
+
+============================================================
+Processing [30/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/ashe-ashlyn-1308939
+📊 Found 15 rows
+  ✅ Artist: Ashe
+  ✅ Title: Ashlyn
+  ✅ Price: 42,99 €
+  📅 No preorder - available now
+  📄 Description: 1003 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01308/1308939/1-ashe-ashlyn.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01308/1308939/2-ashe-ashlyn.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Ashe
+   Title: Ashlyn
+   Price: 42,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Ashe_-_Ashlyn_01.jpeg
+  ✅ [2/2] Ashe_-_Ashlyn_02.jpeg
+✅ info.txt saved: parsed/Ashe_-_Ashlyn/info.txt
+🎉 Successfully parsed: Ashlyn
+
+============================================================
+Processing [31/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/teen-jesus-and-the-jean-teasers-glory-emerald-vinyl-edition-1307137
+📊 Found 15 rows
+  ✅ Artist: Teen Jesus And The Jean Teasers
+  ✅ Title: Glory Emerald Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 305 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01307/1307137/1-teen-jesus-and-the-jean-teasers-glory-emerald-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01307/1307137/2-teen-jesus-and-the-jean-teasers-glory-emerald-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Teen Jesus And The Jean Teasers
+   Title: Glory Emerald Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Teen_Jesus_And_The_Jean_Teasers_-_Glory_Emerald_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Teen_Jesus_And_The_Jean_Teasers_-_Glory_Emerald_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Teen_Jesus_And_The_Jean_Teasers_-_Glory_Emerald_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Glory Emerald Vinyl Edition
+
+============================================================
+Processing [32/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/beach-bunny-honeymoon-eco-mix-purple-vinyl-edition-1212671
+📊 Found 13 rows
+  ✅ Artist: Beach Bunny
+  ✅ Title: Honeymoon Eco Mix Purple Vinyl Edition
+  ✅ Price: 35,99 € 23,39 €
+  📅 No preorder - available now
+  📄 Description: 725 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01212/1212671/2-beach-bunny-honeymoon-eco-mix-purple-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01212/1212671/3-beach-bunny-honeymoon-eco-mix-purple-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01212/1212671/4-beach-bunny-honeymoon-eco-mix-purple-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Beach Bunny
+   Title: Honeymoon Eco Mix Purple Vinyl Edition
+   Price: 35,99 € 23,39 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Beach_Bunny_-_Honeymoon_Eco_Mix_Purple_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Beach_Bunny_-_Honeymoon_Eco_Mix_Purple_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Beach_Bunny_-_Honeymoon_Eco_Mix_Purple_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Beach_Bunny_-_Honeymoon_Eco_Mix_Purple_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Honeymoon Eco Mix Purple Vinyl Edition
+
+============================================================
+Processing [33/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-lavender-days-opaque-baby-pink-vinyl-edition-1297301
+📊 Found 14 rows
+  ✅ Artist: Caamp
+  ✅ Title: Lavender Days Opaque Baby Pink Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 1997 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01297/1297301/2-caamp-lavender-days-opaque-baby-pink-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01297/1297301/3-caamp-lavender-days-opaque-baby-pink-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Caamp
+   Title: Lavender Days Opaque Baby Pink Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Caamp_-_Lavender_Days_Opaque_Baby_Pink_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Caamp_-_Lavender_Days_Opaque_Baby_Pink_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Caamp_-_Lavender_Days_Opaque_Baby_Pink_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Lavender Days Opaque Baby Pink Vinyl Edition
+
+============================================================
+Processing [34/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tom-morello-the-atlas-underground-flood-sky-blue-grape-vinyl-edition-1274509
+📊 Found 14 rows
+  ✅ Artist: Tom Morello
+  ✅ Title: The Atlas Underground Flood Sky Blue Grape Vinyl Edition
+  ✅ Price: 38,99 €
+  📅 No preorder - available now
+  📄 Description: 435 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01274/1274509/1-tom-morello-the-atlas-underground-flood-sky-blue-grape-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Tom Morello
+   Title: The Atlas Underground Flood Sky Blue Grape Vinyl Edition
+   Price: 38,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Tom_Morello_-_The_Atlas_Underground_Flood_Sky_Blue_Grape_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Tom_Morello_-_The_Atlas_Underground_Flood_Sky_Blue_Grape_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Atlas Underground Flood Sky Blue Grape Vinyl Edition
+
+============================================================
+Processing [35/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/ashe-ashlyn-1274172
+📊 Found 14 rows
+  ✅ Artist: Ashe
+  ✅ Title: Ashlyn
+  ✅ Price: 18,99 €
+  📅 No preorder - available now
+  📄 Description: 1631 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01274/1274172/1-ashe-ashlyn.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01274/1274172/2-ashe-ashlyn.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Ashe
+   Title: Ashlyn
+   Price: 18,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Ashe_-_Ashlyn_01.jpeg
+  ✅ [2/2] Ashe_-_Ashlyn_02.jpeg
+✅ info.txt saved: parsed/Ashe_-_Ashlyn/info.txt
+🎉 Successfully parsed: Ashlyn
+
+============================================================
+Processing [36/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-copper-changes-color-black-vinyl-edition-1248148
+📊 Found 14 rows
+  ✅ Artist: Caamp
+  ✅ Title: Copper Changes Color Black Vinyl Edition
+  ✅ Price: 36,99 €
+  📅 No preorder - available now
+  📄 Description: 851 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01248/1248148/2-caamp-copper-changes-color-black-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01248/1248148/3-caamp-copper-changes-color-black-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Caamp
+   Title: Copper Changes Color Black Vinyl Edition
+   Price: 36,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Caamp_-_Copper_Changes_Color_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Caamp_-_Copper_Changes_Color_Black_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Caamp_-_Copper_Changes_Color_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Copper Changes Color Black Vinyl Edition
+
+============================================================
+Processing [37/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-copper-changes-color-clear-cassette-edition-1248146
+📊 Found 14 rows
+  ✅ Artist: Caamp
+  ✅ Title: Copper Changes Color Clear Cassette Edition
+  ✅ Price: 18,99 €
+  📅 No preorder - available now
+  📄 Description: 851 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01248/1248146/2-caamp-copper-changes-color-clear-cassette-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01248/1248146/3-caamp-copper-changes-color-clear-cassette-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+
+📦 Result:
+   Artist: Caamp
+   Title: Copper Changes Color Clear Cassette Edition
+   Price: 18,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Caamp_-_Copper_Changes_Color_Clear_Cassette_Edition_01.jpeg
+  ✅ [2/2] Caamp_-_Copper_Changes_Color_Clear_Cassette_Edition_02.jpeg
+✅ info.txt saved: parsed/Caamp_-_Copper_Changes_Color_Clear_Cassette_Edition/info.txt
+🎉 Successfully parsed: Copper Changes Color Clear Cassette Edition
+
+============================================================
+Processing [38/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/sleigh-bells-bunky-becky-birthday-boy-clear-w-pink-and-blue-splatter-vinyl-edition-1232868
+📊 Found 14 rows
+  ✅ Artist: Sleigh Bells
+  ✅ Title: Bunky Becky Birthday Boy Clear W Pink & Blue Splatter Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 305 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01232/1232868/2-sleigh-bells-bunky-becky-birthday-boy-clear-w-pink-and-blue-splatter-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01232/1232868/3-sleigh-bells-bunky-becky-birthday-boy-clear-w-pink-and-blue-splatter-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Sleigh Bells
+   Title: Bunky Becky Birthday Boy Clear W Pink & Blue Splatter Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Sleigh_Bells_-_Bunky_Becky_Birthday_Boy_Clear_W_Pink_&_Blue_Splatter_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Sleigh_Bells_-_Bunky_Becky_Birthday_Boy_Clear_W_Pink_&_Blue_Splatter_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Sleigh_Bells_-_Bunky_Becky_Birthday_Boy_Clear_W_Pink_&_Blue_Splatter_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Bunky Becky Birthday Boy Clear W Pink & Blue Splatter Vinyl Edition
+
+============================================================
+Processing [39/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tokyo-police-club-champ-baby-blue-vinyl-edition-1199652
+📊 Found 14 rows
+  ✅ Artist: Tokyo Police Club
+  ✅ Title: Champ Baby Blue Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 689 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01199/1199652/1-tokyo-police-club-champ-baby-blue-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01199/1199652/2-tokyo-police-club-champ-baby-blue-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Tokyo Police Club
+   Title: Champ Baby Blue Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tokyo_Police_Club_-_Champ_Baby_Blue_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Tokyo_Police_Club_-_Champ_Baby_Blue_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Tokyo_Police_Club_-_Champ_Baby_Blue_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Champ Baby Blue Vinyl Edition
+
+============================================================
+Processing [40/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tokyo-police-club-forcefield-lemon-vinyl-edition-1199650
+📊 Found 14 rows
+  ✅ Artist: Tokyo Police Club
+  ✅ Title: Forcefield Lemon Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 613 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01199/1199650/2-tokyo-police-club-forcefield-lemon-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01199/1199650/3-tokyo-police-club-forcefield-lemon-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Tokyo Police Club
+   Title: Forcefield Lemon Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tokyo_Police_Club_-_Forcefield_Lemon_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Tokyo_Police_Club_-_Forcefield_Lemon_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Tokyo_Police_Club_-_Forcefield_Lemon_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Forcefield Lemon Vinyl Edition
+
+============================================================
+Processing [41/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/mgmt-loss-of-life-indie-exclusive-black-and-grey-splatter-vinyl-edition-1157032
+📊 Found 14 rows
+  ✅ Artist: MGMT
+  ✅ Title: Loss Of Life Indie Exclusive Black & Grey Splatter Vinyl Edition
+  ✅ Price: 33,99 €
+  📅 No preorder - available now
+  📄 Description: 1530 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01157/1157032/2-mgmt-loss-of-life-indie-exclusive-black-and-grey-splatter-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01157/1157032/3-mgmt-loss-of-life-indie-exclusive-black-and-grey-splatter-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: MGMT
+   Title: Loss Of Life Indie Exclusive Black & Grey Splatter Vinyl Edition
+   Price: 33,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] MGMT_-_Loss_Of_Life_Indie_Exclusive_Black_&_Grey_Splatter_Vinyl_Edition_01.jpeg
+  ✅ [2/2] MGMT_-_Loss_Of_Life_Indie_Exclusive_Black_&_Grey_Splatter_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/MGMT_-_Loss_Of_Life_Indie_Exclusive_Black_&_Grey_Splatter_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Loss Of Life Indie Exclusive Black & Grey Splatter Vinyl Edition
+
+============================================================
+Processing [42/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/alina-baraz-it-was-divine-black-vinyl-edition-1158918
+📊 Found 14 rows
+  ✅ Artist: Alina Baraz
+  ✅ Title: It Was Divine Black Vinyl Edition
+  ✅ Price: 36,99 €
+  📅 No preorder - available now
+  📄 Description: 916 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01158/1158918/1-alina-baraz-it-was-divine-black-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01158/1158918/2-alina-baraz-it-was-divine-black-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 16 tracks
+
+📦 Result:
+   Artist: Alina Baraz
+   Title: It Was Divine Black Vinyl Edition
+   Price: 36,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Alina_Baraz_-_It_Was_Divine_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Alina_Baraz_-_It_Was_Divine_Black_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Alina_Baraz_-_It_Was_Divine_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: It Was Divine Black Vinyl Edition
+
+============================================================
+Processing [43/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/orion-sun-orion-1152427
+📊 Found 14 rows
+  ✅ Artist: Orion Sun
+  ✅ Title: Orion
+  ✅ Price: 18,99 €
+  📅 No preorder - available now
+  📄 Description: 434 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01152/1152427/1-orion-sun-orion.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01152/1152427/2-orion-sun-orion.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 15 tracks
+
+📦 Result:
+   Artist: Orion Sun
+   Title: Orion
+   Price: 18,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Orion_Sun_-_Orion_01.jpeg
+  ✅ [2/2] Orion_Sun_-_Orion_02.jpeg
+✅ info.txt saved: parsed/Orion_Sun_-_Orion/info.txt
+🎉 Successfully parsed: Orion
+
+============================================================
+Processing [44/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/orion-sun-orion-black-vinyl-edition-1152426
+📊 Found 14 rows
+  ✅ Artist: Orion Sun
+  ✅ Title: Orion Black Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 434 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01152/1152426/1-orion-sun-orion-black-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01152/1152426/2-orion-sun-orion-black-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 15 tracks
+
+📦 Result:
+   Artist: Orion Sun
+   Title: Orion Black Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Orion_Sun_-_Orion_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Orion_Sun_-_Orion_Black_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Orion_Sun_-_Orion_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Orion Black Vinyl Edition
+
+============================================================
+Processing [45/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/gallant-zinc-1155414
+📊 Found 15 rows
+  ✅ Artist: Gallant
+  ✅ Title: Zinc
+  ✅ Price: 32,99 €
+  📅 No preorder - available now
+  📄 Description: 1132 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01155/1155414/1-gallant-zinc.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01155/1155414/2-gallant-zinc.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Gallant
+   Title: Zinc
+   Price: 32,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Gallant_-_Zinc_01.jpeg
+  ✅ [2/2] Gallant_-_Zinc_02.jpeg
+✅ info.txt saved: parsed/Gallant_-_Zinc/info.txt
+🎉 Successfully parsed: Zinc
+
+============================================================
+Processing [46/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/neon-indian-vega-intl-night-school-blue-dream-splash-vinyl-edition-1286018
+📊 Found 13 rows
+  ✅ Artist: Neon Indian
+  ✅ Title: Vega Intl. Night School Blue Dream Splash Vinyl Edition
+  ✅ Price: 40,99 €
+  📅 No preorder - available now
+  📄 Description: 450 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01286/1286018/1-neon-indian-vega-intl-night-school-blue-dream-splash-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 14 tracks
+
+📦 Result:
+   Artist: Neon Indian
+   Title: Vega Intl. Night School Blue Dream Splash Vinyl Edition
+   Price: 40,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Neon_Indian_-_Vega_Intl._Night_School_Blue_Dream_Splash_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Neon_Indian_-_Vega_Intl._Night_School_Blue_Dream_Splash_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Vega Intl. Night School Blue Dream Splash Vinyl Edition
+
+============================================================
+Processing [47/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/odie-leigh-carrier-pigeon-tangerine-vinyl-edition-1129974
+📊 Found 14 rows
+  ✅ Artist: Odie Leigh
+  ✅ Title: Carrier Pigeon Tangerine Vinyl Edition
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 1306 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01129/1129974/2-odie-leigh-carrier-pigeon-tangerine-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01129/1129974/3-odie-leigh-carrier-pigeon-tangerine-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Odie Leigh
+   Title: Carrier Pigeon Tangerine Vinyl Edition
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Odie_Leigh_-_Carrier_Pigeon_Tangerine_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Odie_Leigh_-_Carrier_Pigeon_Tangerine_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Odie_Leigh_-_Carrier_Pigeon_Tangerine_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Carrier Pigeon Tangerine Vinyl Edition
+
+============================================================
+Processing [48/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/maya-hawke-chaos-angel-1101243
+📊 Found 15 rows
+  ✅ Artist: Maya Hawke
+  ✅ Title: Chaos Angel
+  ✅ Price: 18,99 €
+  📅 No preorder - available now
+  📄 Description: 1699 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01101/1101243/1-maya-hawke-chaos-angel.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01101/1101243/2-maya-hawke-chaos-angel.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Maya Hawke
+   Title: Chaos Angel
+   Price: 18,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Maya_Hawke_-_Chaos_Angel_01.jpeg
+  ✅ [2/2] Maya_Hawke_-_Chaos_Angel_02.jpeg
+✅ info.txt saved: parsed/Maya_Hawke_-_Chaos_Angel/info.txt
+🎉 Successfully parsed: Chaos Angel
+
+============================================================
+Processing [49/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/maya-hawke-chaos-angel-1101242
+📊 Found 15 rows
+  ✅ Artist: Maya Hawke
+  ✅ Title: Chaos Angel
+  ✅ Price: 33,99 €
+  📅 No preorder - available now
+  📄 Description: 1699 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01101/1101242/1-maya-hawke-chaos-angel.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01101/1101242/2-maya-hawke-chaos-angel.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Maya Hawke
+   Title: Chaos Angel
+   Price: 33,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Maya_Hawke_-_Chaos_Angel_01.jpeg
+  ✅ [2/2] Maya_Hawke_-_Chaos_Angel_02.jpeg
+✅ info.txt saved: parsed/Maya_Hawke_-_Chaos_Angel/info.txt
+🎉 Successfully parsed: Chaos Angel
+
+============================================================
+Processing [50/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/mgmt-loss-of-life-opaque-blue-jay-vinyl-edition-1065735
+📊 Found 15 rows
+  ✅ Artist: MGMT
+  ✅ Title: Loss Of Life Opaque Blue Jay Vinyl Edition
+  ✅ Price: 33,99 €
+  📅 No preorder - available now
+  📄 Description: 1531 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01065/1065735/2-mgmt-loss-of-life-opaque-blue-jay-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01065/1065735/1-mgmt-loss-of-life-opaque-blue-jay-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: MGMT
+   Title: Loss Of Life Opaque Blue Jay Vinyl Edition
+   Price: 33,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] MGMT_-_Loss_Of_Life_Opaque_Blue_Jay_Vinyl_Edition_01.jpeg
+  ✅ [2/2] MGMT_-_Loss_Of_Life_Opaque_Blue_Jay_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/MGMT_-_Loss_Of_Life_Opaque_Blue_Jay_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Loss Of Life Opaque Blue Jay Vinyl Edition
+
+============================================================
+Processing [51/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/courtney-barnett-end-of-the-day-1033353
+📊 Found 15 rows
+  ✅ Artist: Courtney Barnett
+  ✅ Title: End Of The Day
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 1117 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01033/1033353/1-courtney-barnett-end-of-the-day.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01033/1033353/2-courtney-barnett-end-of-the-day.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01033/1033353/3-courtney-barnett-end-of-the-day.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 17 tracks
+
+📦 Result:
+   Artist: Courtney Barnett
+   Title: End Of The Day
+   Price: 31,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Courtney_Barnett_-_End_Of_The_Day_01.jpeg
+  ✅ [2/3] Courtney_Barnett_-_End_Of_The_Day_02.jpeg
+  ✅ [3/3] Courtney_Barnett_-_End_Of_The_Day_03.jpeg
+✅ info.txt saved: parsed/Courtney_Barnett_-_End_Of_The_Day/info.txt
+🎉 Successfully parsed: End Of The Day
+
+============================================================
+Processing [52/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/del-water-gap-i-miss-you-already-i-haven-t-left-yet-1029468
+📊 Found 15 rows
+  ✅ Artist: Del Water Gap
+  ✅ Title: I Miss You Already I Haven't Left Yet
+  ✅ Price: 32,99 €
+  📅 No preorder - available now
+  📄 Description: 661 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01029/1029468/2-del-water-gap-i-miss-you-already-i-haven-t-left-yet.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01029/1029468/3-del-water-gap-i-miss-you-already-i-haven-t-left-yet.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Del Water Gap
+   Title: I Miss You Already I Haven't Left Yet
+   Price: 32,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Del_Water_Gap_-_I_Miss_You_Already_I_Haven't_Left_Yet_01.jpeg
+  ✅ [2/2] Del_Water_Gap_-_I_Miss_You_Already_I_Haven't_Left_Yet_02.jpeg
+✅ info.txt saved: parsed/Del_Water_Gap_-_I_Miss_You_Already_I_Haven't_Left_Yet/info.txt
+🎉 Successfully parsed: I Miss You Already I Haven't Left Yet
+
+============================================================
+Processing [53/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/lucius-good-grief-marbled-blue-vinyl-edition-1216522
+📊 Found 13 rows
+  ✅ Artist: Lucius
+  ✅ Title: Good Grief Marbled Blue Vinyl Edition
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 253 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01216/1216522/2-lucius-good-grief-marbled-blue-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01216/1216522/3-lucius-good-grief-marbled-blue-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Lucius
+   Title: Good Grief Marbled Blue Vinyl Edition
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Lucius_-_Good_Grief_Marbled_Blue_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Lucius_-_Good_Grief_Marbled_Blue_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Lucius_-_Good_Grief_Marbled_Blue_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Good Grief Marbled Blue Vinyl Edition
+
+============================================================
+Processing [54/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/ashe-rae-928541
+📊 Found 15 rows
+  ✅ Artist: Ashe
+  ✅ Title: Rae
+  ✅ Price: 35,99 €
+  📅 No preorder - available now
+  📄 Description: 1664 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00928/928541/1-ashe-rae.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00928/928541/2-ashe-rae.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 14 tracks
+
+📦 Result:
+   Artist: Ashe
+   Title: Rae
+   Price: 35,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Ashe_-_Rae_01.jpeg
+  ✅ [2/2] Ashe_-_Rae_02.jpeg
+✅ info.txt saved: parsed/Ashe_-_Rae/info.txt
+🎉 Successfully parsed: Rae
+
+============================================================
+Processing [55/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/lucius-nudes-915214
+📊 Found 15 rows
+  ✅ Artist: Lucius
+  ✅ Title: Nudes
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 457 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/00915/915214/2-lucius-nudes.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/00915/915214/3-lucius-nudes.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: Lucius
+   Title: Nudes
+   Price: 31,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Lucius_-_Nudes_01.jpeg
+  ✅ [2/2] Lucius_-_Nudes_02.jpeg
+✅ info.txt saved: parsed/Lucius_-_Nudes/info.txt
+🎉 Successfully parsed: Nudes
+
+============================================================
+Processing [56/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tom-morello-the-atlas-underground-fire-orange-splatter-vinyl-edition-847693
+📊 Found 15 rows
+  ✅ Artist: Tom Morello
+  ✅ Title: The Atlas Underground Fire Orange Splatter Vinyl Edition
+  ✅ Price: 38,99 €
+  📅 No preorder - available now
+  📄 Description: 630 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00847/847693/2-tom-morello-the-atlas-underground-fire-orange-splatter-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00847/847693/3-tom-morello-the-atlas-underground-fire-orange-splatter-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00847/847693/4-tom-morello-the-atlas-underground-fire-orange-splatter-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00847/847693/5-tom-morello-the-atlas-underground-fire-orange-splatter-vinyl-edition.webp
+
+📊 Total images found: 4
+🖼 4 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Tom Morello
+   Title: The Atlas Underground Fire Orange Splatter Vinyl Edition
+   Price: 38,99 €
+📥 Downloading 4 image(s)...
+  ✅ [1/4] Tom_Morello_-_The_Atlas_Underground_Fire_Orange_Splatter_Vinyl_Edition_01.jpeg
+  ✅ [2/4] Tom_Morello_-_The_Atlas_Underground_Fire_Orange_Splatter_Vinyl_Edition_02.jpeg
+  ✅ [3/4] Tom_Morello_-_The_Atlas_Underground_Fire_Orange_Splatter_Vinyl_Edition_03.jpeg
+  ✅ [4/4] Tom_Morello_-_The_Atlas_Underground_Fire_Orange_Splatter_Vinyl_Edition_04.jpeg
+✅ info.txt saved: parsed/Tom_Morello_-_The_Atlas_Underground_Fire_Orange_Splatter_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Atlas Underground Fire Orange Splatter Vinyl Edition
+
+============================================================
+Processing [57/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/sleater-kinney-path-of-wellness-white-vinyl-edition-832173
+📊 Found 15 rows
+  ✅ Artist: Sleater-Kinney
+  ✅ Title: Path Of Wellness White Vinyl Edition
+  ✅ Price: 30,99 €
+  📅 No preorder - available now
+  📄 Description: 302 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00832/832173/1-sleater-kinney-path-of-wellness-white-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00832/832173/2-sleater-kinney-path-of-wellness-white-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00832/832173/3-sleater-kinney-path-of-wellness-white-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Sleater-Kinney
+   Title: Path Of Wellness White Vinyl Edition
+   Price: 30,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Sleater-Kinney_-_Path_Of_Wellness_White_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Sleater-Kinney_-_Path_Of_Wellness_White_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Sleater-Kinney_-_Path_Of_Wellness_White_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Sleater-Kinney_-_Path_Of_Wellness_White_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Path Of Wellness White Vinyl Edition
+
+============================================================
+Processing [58/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/orion-sun-hold-space-for-me-colored-vinyl-edition-719088
+📊 Found 15 rows
+  ✅ Artist: Orion Sun
+  ✅ Title: Hold Space For Me Colored Vinyl Edition
+  ✅ Price: 26,99 €
+  📅 No preorder - available now
+  📄 Description: 830 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00719/719088/1-orion-sun-hold-space-for-me-colored-vinyl-edition.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00719/719088/2-orion-sun-hold-space-for-me-colored-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Orion Sun
+   Title: Hold Space For Me Colored Vinyl Edition
+   Price: 26,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Orion_Sun_-_Hold_Space_For_Me_Colored_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Orion_Sun_-_Hold_Space_For_Me_Colored_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Orion_Sun_-_Hold_Space_For_Me_Colored_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Hold Space For Me Colored Vinyl Edition
+
+============================================================
+Processing [59/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/beach-bunny-prom-queen-sports-ep-709046
+📊 Found 15 rows
+  ✅ Artist: Beach Bunny
+  ✅ Title: Prom Queen / Sports EP
+  ✅ Price: 31,99 €
+  📅 No preorder - available now
+  📄 Description: 635 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/00709/709046/1-beach-bunny-prom-queen-sports-ep.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/00709/709046/2-beach-bunny-prom-queen-sports-ep.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/00709/709046/3-beach-bunny-prom-queen-sports-ep.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 6 tracks
+
+📦 Result:
+   Artist: Beach Bunny
+   Title: Prom Queen / Sports EP
+   Price: 31,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Beach_Bunny_-_Prom_Queen_Sports_EP_01.jpeg
+  ✅ [2/3] Beach_Bunny_-_Prom_Queen_Sports_EP_02.jpeg
+  ✅ [3/3] Beach_Bunny_-_Prom_Queen_Sports_EP_03.jpeg
+✅ info.txt saved: parsed/Beach_Bunny_-_Prom_Queen_Sports_EP/info.txt
+🎉 Successfully parsed: Prom Queen / Sports EP
+
+============================================================
+Processing [60/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/lucius-christmas-time-is-here-keep-me-hanging-on-621581
+📊 Found 14 rows
+  ✅ Artist: Lucius
+  ✅ Title: Christmas Time Is Here / Keep Me Hanging On
+  ✅ Price: 15,99 €
+  📅 No preorder - available now
+  📄 Description: 611 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00621/621581/1-lucius-christmas-time-is-here-keep-me-hanging-on.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00621/621581/2-lucius-christmas-time-is-here-keep-me-hanging-on.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 2 tracks
+
+📦 Result:
+   Artist: Lucius
+   Title: Christmas Time Is Here / Keep Me Hanging On
+   Price: 15,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Lucius_-_Christmas_Time_Is_Here_Keep_Me_Hanging_On_01.jpeg
+  ✅ [2/2] Lucius_-_Christmas_Time_Is_Here_Keep_Me_Hanging_On_02.jpeg
+✅ info.txt saved: parsed/Lucius_-_Christmas_Time_Is_Here_Keep_Me_Hanging_On/info.txt
+🎉 Successfully parsed: Christmas Time Is Here / Keep Me Hanging On
+
+============================================================
+Processing [61/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/v-a-mom-pop-10-year-anniversary-compilation-613833
+📊 Found 14 rows
+  ✅ Artist: V.A.
+  ✅ Title: Mom+Pop 10 Year Anniversary Compilation
+  ✅ Price: 52,99 €
+  📅 No preorder - available now
+  📄 Description: 124 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00613/613833/1-v-a-mom-pop-10-year-anniversary-compilation.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00613/613833/2-v-a-mom-pop-10-year-anniversary-compilation.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+
+📦 Result:
+   Artist: V.A.
+   Title: Mom+Pop 10 Year Anniversary Compilation
+   Price: 52,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] V.A._-_Mom+Pop_10_Year_Anniversary_Compilation_01.jpeg
+  ✅ [2/2] V.A._-_Mom+Pop_10_Year_Anniversary_Compilation_02.jpeg
+✅ info.txt saved: parsed/V.A._-_Mom+Pop_10_Year_Anniversary_Compilation/info.txt
+🎉 Successfully parsed: Mom+Pop 10 Year Anniversary Compilation
+
+============================================================
+Processing [62/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tom-morello-the-atlas-underground-instrumentals-613819
+📊 Found 14 rows
+  ✅ Artist: Tom Morello
+  ✅ Title: The Atlas Underground Instrumentals
+  ✅ Price: 42,99 €
+  📅 No preorder - available now
+  📄 Description: 124 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00613/613819/1-tom-morello-the-atlas-underground-instrumentals.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00613/613819/2-tom-morello-the-atlas-underground-instrumentals.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Tom Morello
+   Title: The Atlas Underground Instrumentals
+   Price: 42,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tom_Morello_-_The_Atlas_Underground_Instrumentals_01.jpeg
+  ✅ [2/2] Tom_Morello_-_The_Atlas_Underground_Instrumentals_02.jpeg
+✅ info.txt saved: parsed/Tom_Morello_-_The_Atlas_Underground_Instrumentals/info.txt
+🎉 Successfully parsed: The Atlas Underground Instrumentals
+
+============================================================
+Processing [63/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tash-sultana-follow-stat-black-vinyl-edition-597297
+📊 Found 14 rows
+  ✅ Artist: Tash Sultana
+  ✅ Title: Follow Stat Black Vinyl Edition
+  ✅ Price: 41,99 €
+  📅 No preorder - available now
+  📄 Description: 1009 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00597/597297/1-tash-sultana-follow-stat-black-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/00597/597297/2-tash-sultana-follow-stat-black-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Tash Sultana
+   Title: Follow Stat Black Vinyl Edition
+   Price: 41,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tash_Sultana_-_Follow_Stat_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Tash_Sultana_-_Follow_Stat_Black_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Tash_Sultana_-_Follow_Stat_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Follow Stat Black Vinyl Edition
+
+============================================================
+Processing [64/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/jai-wolf-the-cure-to-loneliness-638535
+📊 Found 15 rows
+  ✅ Artist: Jai Wolf
+  ✅ Title: The Cure To Loneliness
+  ✅ Price: 32,99 €
+  📅 No preorder - available now
+  📄 Description: 1143 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00638/638535/1-jai-wolf-the-cure-to-loneliness.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/00638/638535/2-jai-wolf-the-cure-to-loneliness.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 12 tracks
+
+📦 Result:
+   Artist: Jai Wolf
+   Title: The Cure To Loneliness
+   Price: 32,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Jai_Wolf_-_The_Cure_To_Loneliness_01.jpeg
+  ✅ [2/2] Jai_Wolf_-_The_Cure_To_Loneliness_02.jpeg
+✅ info.txt saved: parsed/Jai_Wolf_-_The_Cure_To_Loneliness/info.txt
+🎉 Successfully parsed: The Cure To Loneliness
+
+============================================================
+Processing [65/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tycho-infinite-health-1149145
+📊 Found 13 rows
+  ✅ Artist: Tycho
+  ✅ Title: Infinite Health
+  ✅ Price: 37,99 €
+  📅 No preorder - available now
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01149/1149145/2-tycho-infinite-health.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01149/1149145/3-tycho-infinite-health.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Tycho
+   Title: Infinite Health
+   Price: 37,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tycho_-_Infinite_Health_01.jpeg
+  ✅ [2/2] Tycho_-_Infinite_Health_02.jpeg
+✅ info.txt saved: parsed/Tycho_-_Infinite_Health/info.txt
+🎉 Successfully parsed: Infinite Health
+
+============================================================
+Processing [66/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tycho-infinite-health-1149144
+📊 Found 13 rows
+  ✅ Artist: Tycho
+  ✅ Title: Infinite Health
+  ✅ Price: 21,99 €
+  📅 No preorder - available now
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01149/1149144/2-tycho-infinite-health.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01149/1149144/3-tycho-infinite-health.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Tycho
+   Title: Infinite Health
+   Price: 21,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tycho_-_Infinite_Health_01.jpeg
+  ✅ [2/2] Tycho_-_Infinite_Health_02.jpeg
+✅ info.txt saved: parsed/Tycho_-_Infinite_Health/info.txt
+🎉 Successfully parsed: Infinite Health
+
+============================================================
+Processing [67/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/alina-baraz-color-of-you-585384
+📊 Found 14 rows
+  ✅ Artist: Alina Baraz
+  ✅ Title: Color Of You
+  ✅ Price: 27,99 €
+  📅 No preorder - available now
+  📄 Description: 1021 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00585/585384/1-alina-baraz-color-of-you.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00585/585384/2-alina-baraz-color-of-you.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 9 tracks
+
+📦 Result:
+   Artist: Alina Baraz
+   Title: Color Of You
+   Price: 27,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Alina_Baraz_-_Color_Of_You_01.jpeg
+  ✅ [2/2] Alina_Baraz_-_Color_Of_You_02.jpeg
+✅ info.txt saved: parsed/Alina_Baraz_-_Color_Of_You/info.txt
+🎉 Successfully parsed: Color Of You
+
+============================================================
+Processing [68/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/caamp-copper-changes-color-indie-exclusive-olive-green-vinyl-edition-1248145
+📊 Found 14 rows
+  ✅ Artist: Caamp
+  ✅ Title: Copper Changes Color Indie Exclusive Olive Green Vinyl Edition
+  ✅ Price: 35,99 € 32,39 €
+  📅 No preorder - available now
+  📄 Description: 851 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01248/1248145/2-caamp-copper-changes-color-indie-exclusive-olive-green-vinyl-edition.webp
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01248/1248145/3-caamp-copper-changes-color-indie-exclusive-olive-green-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 11 tracks
+
+📦 Result:
+   Artist: Caamp
+   Title: Copper Changes Color Indie Exclusive Olive Green Vinyl Edition
+   Price: 35,99 € 32,39 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Caamp_-_Copper_Changes_Color_Indie_Exclusive_Olive_Green_Vinyl_Edition_01.jpeg
+  ✅ [2/2] Caamp_-_Copper_Changes_Color_Indie_Exclusive_Olive_Green_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/Caamp_-_Copper_Changes_Color_Indie_Exclusive_Olive_Green_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Copper Changes Color Indie Exclusive Olive Green Vinyl Edition
+
+============================================================
+Processing [69/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/mgmt-loss-of-life-black-vinyl-edition-1065734
+📊 Found 15 rows
+  ✅ Artist: MGMT
+  ✅ Title: Loss Of Life Black Vinyl Edition
+  ✅ Price: 33,99 € 25,49 €
+  📅 No preorder - available now
+  📄 Description: 1531 chars
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01065/1065734/1-mgmt-loss-of-life-black-vinyl-edition.webp
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01065/1065734/2-mgmt-loss-of-life-black-vinyl-edition.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 10 tracks
+
+📦 Result:
+   Artist: MGMT
+   Title: Loss Of Life Black Vinyl Edition
+   Price: 33,99 € 25,49 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] MGMT_-_Loss_Of_Life_Black_Vinyl_Edition_01.jpeg
+  ✅ [2/2] MGMT_-_Loss_Of_Life_Black_Vinyl_Edition_02.jpeg
+✅ info.txt saved: parsed/MGMT_-_Loss_Of_Life_Black_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Loss Of Life Black Vinyl Edition
+
+============================================================
+Processing [70/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/del-water-gap-purple-teeth-the-bravery-doll-house-live-1188815
+📊 Found 14 rows
+  ✅ Artist: Del Water Gap
+  ✅ Title: Purple Teeth The Bravery Doll House - Live
+  ✅ Price: 18,99 € 11,39 €
+  📅 No preorder - available now
+  📄 Description: 487 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01188/1188815/1-del-water-gap-purple-teeth-the-bravery-doll-house-live.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01188/1188815/2-del-water-gap-purple-teeth-the-bravery-doll-house-live.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 2 tracks
+
+📦 Result:
+   Artist: Del Water Gap
+   Title: Purple Teeth The Bravery Doll House - Live
+   Price: 18,99 € 11,39 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Del_Water_Gap_-_Purple_Teeth_The_Bravery_Doll_House_-_Live_01.jpeg
+  ✅ [2/2] Del_Water_Gap_-_Purple_Teeth_The_Bravery_Doll_House_-_Live_02.jpeg
+✅ info.txt saved: parsed/Del_Water_Gap_-_Purple_Teeth_The_Bravery_Doll_House_-_Live/info.txt
+🎉 Successfully parsed: Purple Teeth The Bravery Doll House - Live
+
+============================================================
+Processing [71/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/tiny-habits-i-don-t-have-the-heart-and-flicker-1132928
+📊 Found 15 rows
+  ✅ Artist: Tiny Habits
+  ✅ Title: I Don't Have The Heart & Flicker
+  ✅ Price: 18,99 €
+  📅 No preorder - available now
+  📄 Description: 1519 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01132/1132928/1-tiny-habits-i-don-t-have-the-heart-and-flicker.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01132/1132928/2-tiny-habits-i-don-t-have-the-heart-and-flicker.webp
+
+📊 Total images found: 2
+🖼 2 image(s)
+🎵 Tracklist: 2 tracks
+
+📦 Result:
+   Artist: Tiny Habits
+   Title: I Don't Have The Heart & Flicker
+   Price: 18,99 €
+📥 Downloading 2 image(s)...
+  ✅ [1/2] Tiny_Habits_-_I_Don't_Have_The_Heart_&_Flicker_01.jpeg
+  ✅ [2/2] Tiny_Habits_-_I_Don't_Have_The_Heart_&_Flicker_02.jpeg
+✅ info.txt saved: parsed/Tiny_Habits_-_I_Don't_Have_The_Heart_&_Flicker/info.txt
+🎉 Successfully parsed: I Don't Have The Heart & Flicker
+
+============================================================
+Processing [72/72]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/beach-bunny-blame-game-789308
+📊 Found 14 rows
+  ✅ Artist: Beach Bunny
+  ✅ Title: Blame Game
+  ✅ Price: 23,99 €
+  📅 No preorder - available now
+  📄 Description: 692 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00789/789308/1-beach-bunny-blame-game.webp
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/00789/789308/2-beach-bunny-blame-game.webp
+
+📊 Total images found: 2

@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/alligatorman-swamp-style-1376256
+Site: HHV
+artist: Alligatorman
+title: Swamp Style
+label: Honigdachs
+format: Vinyl LP
+genre: Hip Hop, US Hip Hop
+release_date: Уже в продаже
+price: 28,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01376/1376256/1-alligatorman-swamp-style.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01218/1218052/1-ken-carson-a-great-chaos-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01119/1119032/4-uicideboy-new-world-depression-coke-bottle-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01131/1131922/3-future-and-metro-boomin-we-don-t-trust-you-alternate-cover-red-smoke-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01131/1131925/4-future-and-metro-boomin-we-still-don-t-trust-you-alternate-cover-opaque-white-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01192/1192059/1-doctor-bionic-tune-in.webp
+downloaded_images:
+  Alligatorman_-_Swamp_Style_01.jpeg
+  Alligatorman_-_Swamp_Style_02.jpeg
+  Alligatorman_-_Swamp_Style_03.jpeg
+  Alligatorman_-_Swamp_Style_04.jpeg
+  Alligatorman_-_Swamp_Style_05.jpeg
+  Alligatorman_-_Swamp_Style_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

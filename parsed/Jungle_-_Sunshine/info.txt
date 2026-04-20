@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/jungle-sunshine-1383582
+Site: HHV
+artist: Jungle
+title: Sunshine
+label: Caiola
+format: Vinyl LP
+genre: Pop, 2020s
+release_date: 14.08.2026
+price: 32,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01383/1383582/1-jungle-sunshine.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01003/1003165/1-jungle-volcano-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00816/816446/1-jungle-loving-in-stereo-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00373/373320/1-jungle-jungle.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00949/949125/2-jungle-good-times-problemz-black-friday-record-store-day-2022-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00816/816448/1-jungle-loving-in-stereo.webp
+downloaded_images:
+  Jungle_-_Sunshine_01.jpeg
+  Jungle_-_Sunshine_02.jpeg
+  Jungle_-_Sunshine_03.jpeg
+  Jungle_-_Sunshine_04.jpeg
+  Jungle_-_Sunshine_05.jpeg
+  Jungle_-_Sunshine_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

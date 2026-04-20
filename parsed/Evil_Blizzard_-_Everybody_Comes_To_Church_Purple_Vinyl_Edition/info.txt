@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/evil-blizzard-everybody-comes-to-church-purple-vinyl-edition-1376334
+Site: HHV
+artist: Evil Blizzard
+title: Everybody Comes To Church Purple Vinyl Edition
+label: Cracked Ankles
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 02.04.2026
+price: 29,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01376/1376334/1-evil-blizzard-everybody-comes-to-church-purple-vinyl-edition.webp
+downloaded_images:
+  Evil_Blizzard_-_Everybody_Comes_To_Church_Purple_Vinyl_Edition.jpeg
+
+description:
+To celebrate the tenth anniversary of their critically acclaimed second album, Preston's unholiest sons Evil Blizzard are pleaseto announce a brand new re press of 'Everybody Come To Church' on limited edition (300) purple vinyl, with hand numbered full colour insert and DL code, and also on CD. Featuring the live favourites 'Are You Evil?', 'Sacrifice' and 'Stupid People', the album has long ince been out of print. Coloured Vinyl or Bonustrack-CD.
+tracklist:
+1. Are You Evil?
+2. Stupid People
+3. Bow Down And Pray
+4. Spread The Fear
+5. Sacrifice
+6. Laughing Gas
+7. Watching

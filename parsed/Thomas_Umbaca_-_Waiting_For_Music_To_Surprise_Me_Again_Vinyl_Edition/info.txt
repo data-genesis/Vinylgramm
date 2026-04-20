@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/thomas-umbaca-waiting-for-music-to-surprise-me-again-vinyl-edition-1383576
+Site: HHV
+artist: Thomas Umbaca
+title: Waiting For Music To Surprise Me Again Vinyl Edition
+label: Ponderosa
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 29.05.2026
+price: 22,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01042/1042818/1-thomas-umbaca-umbaka.webp
+downloaded_images:
+  Thomas_Umbaca_-_Waiting_For_Music_To_Surprise_Me_Again_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

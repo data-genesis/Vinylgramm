@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/sullivan-fortner-southern-nights-1383499
+Site: HHV
+artist: Sullivan Fortner
+title: Southern Nights
+label: ArtWork
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 12.06.2026
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383499/1-sullivan-fortner-southern-nights.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01264/1264653/1-tyreek-mcdole-open-up-your-senses.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01323/1323567/2-kenny-barron-songbook.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01276/1276710/1-oan-kim-rebirth-of-innocence.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01323/1323566/2-jesse-harris-if-you-believed-in-me.webp
+downloaded_images:
+  Sullivan_Fortner_-_Southern_Nights_01.jpeg
+  Sullivan_Fortner_-_Southern_Nights_02.jpeg
+  Sullivan_Fortner_-_Southern_Nights_03.jpeg
+  Sullivan_Fortner_-_Southern_Nights_04.jpeg
+  Sullivan_Fortner_-_Southern_Nights_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

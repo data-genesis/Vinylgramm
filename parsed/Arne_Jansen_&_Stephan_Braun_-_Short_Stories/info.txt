@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/arne-jansen-and-stephan-braun-short-stories-1342826
+Site: HHV
+artist: Arne Jansen & Stephan Braun
+title: Short Stories
+label: Herzog Gmbh
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 27.03.2026
+price: 27,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01342/1342826/1-arne-jansen-and-stephan-braun-short-stories.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01356/1356380/1-lisa-bassenge-two-whole-summers-half-a-life.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01149/1149568/1-nighthawks-rio-bravo-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01149/1149580/1-lisa-bassenge-borrowed-and-blue-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01149/1149593/1-nighthawks-live-in-hamburg.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01149/1149742/1-jeff-cascaro-love-and-blues-in-the-city-black-vinyl-edition.webp
+downloaded_images:
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_01.jpeg
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_02.jpeg
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_03.jpeg
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_04.jpeg
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_05.jpeg
+  Arne_Jansen_&_Stephan_Braun_-_Short_Stories_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

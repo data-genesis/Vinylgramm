@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/jovonn-classic-vybes-mystery-dj-erv-reworks-1383440
+Site: HHV
+artist: Jovonn
+title: Classic Vybes / Mystery DJ Erv Reworks
+label: Next Moov
+format: Vinyl 10"
+genre: Electronic & Dance, Electro
+release_date: 27.04.2026
+price: 13,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383440/1-jovonn-classic-vybes-mystery-dj-erv-reworks.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01365/1365379/2-elijah-minnelli-ball-and-socket.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01253/1253651/1-dwarde-piper.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01276/1276712/1-v-a-538-dance-smash-hits.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01282/1282547/2-drexciya-journey-of-the-deep-sea-dweller-iii-2025-repress.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01229/1229123/2-illenium-illenium-clear-orange-vinyl-edition.webp
+downloaded_images:
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_01.jpeg
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_02.jpeg
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_03.jpeg
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_04.jpeg
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_05.jpeg
+  Jovonn_-_Classic_Vybes_Mystery_DJ_Erv_Reworks_06.jpeg
+
+description:
+"Next Moov Records continue with a 10" release of the highly reccomended reworks by NYC's DJ Erv with Classic Vybes and Mystery."
+tracklist:
+1. 1 Classic Vybes (DJ Erv Rework)
+2. 2 Mystery (DJ Erv Rework)

@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/abigor-verwustunginvoke-the-dark-age-1383577
+Site: HHV
+artist: Abigor
+title: Verwüstunginvoke The Dark Age
+label: Darkness Shall Rise
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 05.06.2026
+price: 45,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01292/1292918/1-abigor-nachthymnen-from-the-twilight-kingdom-galaxy-purple-cyan-blue-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00903/903975/1-abigor-leytmotif-luzifer.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01216/1216349/1-abigor-the-demos-1993-1994-blackwhite-ice-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01216/1216348/1-abigor-the-demos-1993-1994-black-vinyl-edition.webp
+downloaded_images:
+  Abigor_-_Verwüstunginvoke_The_Dark_Age_01.jpeg
+  Abigor_-_Verwüstunginvoke_The_Dark_Age_02.jpeg
+  Abigor_-_Verwüstunginvoke_The_Dark_Age_03.jpeg
+  Abigor_-_Verwüstunginvoke_The_Dark_Age_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

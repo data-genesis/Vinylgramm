@@ -1,0 +1,9 @@
+{
+  "currency": "RUB",
+  "usd_to_rub": 95.0,
+  "add_usd": [10, 3],
+  "percent_markup": 50,
+  "add_rub": 150,
+  "round_to_last_digits": 90,
+  "fallback_mode": "usd"
+}

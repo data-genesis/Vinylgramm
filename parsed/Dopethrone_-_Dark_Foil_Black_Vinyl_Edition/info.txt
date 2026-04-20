@@ -1,0 +1,25 @@
+Source URL: https://www.hhv.de/en/records/item/dopethrone-dark-foil-black-vinyl-edition-1383463
+Site: HHV
+artist: Dopethrone
+title: Dark Foil Black Vinyl Edition
+label: Totem Cat
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: Уже в продаже
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383463/1-dopethrone-dark-foil-black-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383463/2-dopethrone-dark-foil-black-vinyl-edition.webp
+downloaded_images:
+  Dopethrone_-_Dark_Foil_Black_Vinyl_Edition_01.jpeg
+  Dopethrone_-_Dark_Foil_Black_Vinyl_Edition_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Dark Foil
+2. Tap Runner
+3. Porcelain God
+4. Ain't No Sushine
+5. Zombi Powder
+6. Cosecha De Sangre

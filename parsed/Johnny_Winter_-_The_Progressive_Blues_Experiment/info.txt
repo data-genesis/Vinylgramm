@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/johnny-winter-the-progressive-blues-experiment-1373612
+Site: HHV
+artist: Johnny Winter
+title: The Progressive Blues Experiment
+label: Imperial
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 27,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373612/1-johnny-winter-the-progressive-blues-experiment.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373612/2-johnny-winter-the-progressive-blues-experiment.webp
+downloaded_images:
+  Johnny_Winter_-_The_Progressive_Blues_Experiment_01.jpeg
+  Johnny_Winter_-_The_Progressive_Blues_Experiment_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Rollin & Tumblin
+2. Tribute To Muddy
+3. I Got Love If You Want It
+4. Bad Luck & Trouble
+5. Help Me
+6. Mean Town Blues
+7. Broke Down Engine
+8. Black Cat Bone
+9. It's My Own Fault
+10. Forty-Four

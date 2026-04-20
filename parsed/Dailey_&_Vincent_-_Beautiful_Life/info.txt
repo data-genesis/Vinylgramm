@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/dailey-and-vincent-beautiful-life-1383543
+Site: HHV
+artist: Dailey & Vincent
+title: Beautiful Life
+label: Pillar Stone
+format: Vinyl LP
+genre: Rock & Indie, Folk
+release_date: 12.06.2026
+price: 31,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383543/1-dailey-and-vincent-beautiful-life.webp
+downloaded_images:
+  Dailey_&_Vincent_-_Beautiful_Life.jpeg
+
+description:
+Grand Ole Opry members, Grammy nominees, and multi-award awards, Dailey & Vincent will be releasing their brand-new album- A Beautiful Life on Pillar Stone Records. This new album will feature twelve new tracks including the #1 Bluegrass Radio song- "Ruby" as well as "Longer Than That" which was written by Tenille Townes & Park Chisolm. Dailey & Vincent are among the most acclaimed duos in modern American roots music. With unmatched harmonies and musicianship, Jamie Dailey and Darrin Vincent have built a career that bridges bluegrass, country, and gospel with heart, humor, and faith. The album will be available on CD and available on limited edition vinyl.
+tracklist:
+Нет треклиста

@@ -1,0 +1,34 @@
+Source URL: https://www.hhv.de/en/records/item/cat-power-redux-1335108
+Site: HHV
+artist: Cat Power
+title: Redux
+label: Domino
+format: Vinyl 10"
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 32,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01335/1335108/1-cat-power-redux.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01335/1335108/2-cat-power-redux.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01335/1335108/3-cat-power-redux.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01161/1161874/1-50x-12-recycling-record-outer-sleeves-aussenhullen-0-125mm-made-in-germany-ldpe-folie-matte-transparent.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00896/896679/1-50x-12-record-inner-sleeves-innenhullen-rs-lp2-japan-sleeves-antistatisch-schwarz-transparent.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00918/918524/1-record-box-vinyl-frame-12-vinyl-frame-mdf-black.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01320/1320967/6-dry-cleaning-secret-love-apricot-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00302/302835/1-unknown-mortal-orchestra-ii.webp
+downloaded_images:
+  Cat_Power_-_Redux_01.jpeg
+  Cat_Power_-_Redux_02.jpeg
+  Cat_Power_-_Redux_03.jpeg
+  Cat_Power_-_Redux_04.jpeg
+  Cat_Power_-_Redux_05.jpeg
+  Cat_Power_-_Redux_06.jpeg
+  Cat_Power_-_Redux_07.jpeg
+  Cat_Power_-_Redux_08.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Try Me
+2. Could We
+3. Nothing Compares 2 U

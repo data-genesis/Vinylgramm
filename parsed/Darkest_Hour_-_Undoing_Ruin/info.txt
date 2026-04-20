@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/darkest-hour-undoing-ruin-1383497
+Site: HHV
+artist: Darkest Hour
+title: Undoing Ruin
+label: Artist Friendly Co.
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 10.04.2026
+price: 34,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01136/1136577/2-darkest-hour-perpetual-terminal-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01084/1084624/1-darkest-hour-perpetual-terminal-opaque-galaxy-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01084/1084623/2-darkest-hour-perpetual-terminal-pink-and-black-splatter-vinyl-edition.webp
+downloaded_images:
+  Darkest_Hour_-_Undoing_Ruin_01.jpeg
+  Darkest_Hour_-_Undoing_Ruin_02.jpeg
+  Darkest_Hour_-_Undoing_Ruin_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/fumitake-tamura-mijin-1383494
+Site: HHV
+artist: Fumitake Tamura
+title: Mijin
+label: Leaving
+format: Vinyl LP
+genre: Electronic & Dance
+release_date: 10.04.2026
+price: 26,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01320/1320980/2-fabiano-do-nascimento-cavejaz.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01342/1342929/2-aaron-shaw-and-so-it-is.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00954/954416/8-sam-gendel-fresh-bread-opaque-red-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01256/1256841/2-sam-gendel-live-at-union-station.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01256/1256840/2-v-a-staying-leaving-records-aid-to-artists-impacted-by-the-los-angeles-wildfires.webp
+downloaded_images:
+  Fumitake_Tamura_-_Mijin_01.jpeg
+  Fumitake_Tamura_-_Mijin_02.jpeg
+  Fumitake_Tamura_-_Mijin_03.jpeg
+  Fumitake_Tamura_-_Mijin_04.jpeg
+  Fumitake_Tamura_-_Mijin_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

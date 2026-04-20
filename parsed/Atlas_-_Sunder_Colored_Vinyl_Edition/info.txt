@@ -1,0 +1,25 @@
+Source URL: https://www.hhv.de/en/records/item/atlas-sunder-colored-vinyl-edition-1343638
+Site: HHV
+artist: Atlas
+title: Sunder Colored Vinyl Edition
+label: Odyssey Music Network
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: Уже в продаже
+price: 28,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01343/1343638/1-atlas-sunder-colored-vinyl-edition.webp
+downloaded_images:
+  Atlas_-_Sunder_Colored_Vinyl_Edition.jpeg
+
+description:
+Love conquers death: the essence of ''Sunder''. There's a longing that echoes through time and matter, resonating in our cells, haunting our dreams. Blending ancient echoes with a contemporary edge, these messengers of melancholy craft a sound that channels the raw intensity and mysticism of the North. Their music fuses haunting atmospheres with crushing rhythms, towering production, and the emotive power of modern metal - forging a sonic bridge between worlds old and new.
+tracklist:
+1. Sermon Of The Dying Light
+2. Tower
+3. Salt And Sulfur
+4. I Whisper Your Name Like A Curse
+5. Coven Of Two
+6. Altar Of Your Love
+7. Anodyne
+8. Sunder

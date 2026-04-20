@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/stefano-allstars-bollani-tutta-vita-live-doppelvinyl-edition-1383575
+Site: HHV
+artist: Stefano Allstars Bollani
+title: Tutta Vita Live Doppelvinyl Edition
+label: Ponderosa
+format: Vinyl 2LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 12.06.2026
+price: 53,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01304/1304415/1-micah-p-hinson-the-tomorrow-man-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00986/986604/2-sainkho-namtchylak-where-water-meets-water-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00936/936668/1-francesco-bianconi-and-malika-ayane-perduto-insieme-a-te.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00533/533598/1-blonde-redhead-3-o-clock.webp
+downloaded_images:
+  Stefano_Allstars_Bollani_-_Tutta_Vita_Live_Doppelvinyl_Edition_01.jpeg
+  Stefano_Allstars_Bollani_-_Tutta_Vita_Live_Doppelvinyl_Edition_02.jpeg
+  Stefano_Allstars_Bollani_-_Tutta_Vita_Live_Doppelvinyl_Edition_03.jpeg
+  Stefano_Allstars_Bollani_-_Tutta_Vita_Live_Doppelvinyl_Edition_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

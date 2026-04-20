@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/just-joans-romantic-visions-of-scotland-indie-exclusive-vinyl-edition-1383491
+Site: HHV
+artist: Just Joans
+title: Romantic Visions Of Scotland Indie Exclusive Vinyl Edition
+label: Fika
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 43,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00954/954100/1-darren-hayman-you-will-not-die.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01351/1351695/1-brutalligators-retail-exclusive.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01334/1334553/1-darren-hayman-and-his-electric-guitars-amazing-things.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01320/1320526/4-stanley-brinks-happy-new-year.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01260/1260444/2-allo-darlin-bright-nights-blue-purple-marble-vinyl-edition.webp
+downloaded_images:
+  Just_Joans_-_Romantic_Visions_Of_Scotland_Indie_Exclusive_Vinyl_Edition_01.jpeg
+  Just_Joans_-_Romantic_Visions_Of_Scotland_Indie_Exclusive_Vinyl_Edition_02.jpeg
+  Just_Joans_-_Romantic_Visions_Of_Scotland_Indie_Exclusive_Vinyl_Edition_03.jpeg
+  Just_Joans_-_Romantic_Visions_Of_Scotland_Indie_Exclusive_Vinyl_Edition_04.jpeg
+  Just_Joans_-_Romantic_Visions_Of_Scotland_Indie_Exclusive_Vinyl_Edition_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

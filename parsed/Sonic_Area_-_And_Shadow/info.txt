@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/sonic-area-and-shadow-1383300
+Site: HHV
+artist: Sonic Area
+title: And Shadow
+label: Ant-Zen
+format: Vinyl LP
+genre: Pop, 2020s
+release_date: 10.04.2026
+price: 32,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383300/1-sonic-area-and-shadow.webp
+downloaded_images:
+  Sonic_Area_-_And_Shadow.jpeg
+
+description:
+Sonic Area is the visionary electronic project of french composer Arnaud Coëffic, a meticulous architect of sound who has spent more than two decades navigating the space between industrial abrasion and cinematic grandeur. AND Shadow reimagines early 1990s techno as both form and philosophy, drawing on carl jung’s ideas to position idm as a self-reflective, philosophical techno - an ‘intelligent music’ that contemplates its own becoming as it unfolds. The album marks a decisive turn toward minimalist techno: colder and more austere, yet sharply focused and unflinchingly precise. It functions as a mirror in which the subject appears divided, embodying the tension between light and shadow, consciousness and the unconscious. This metamorphic journey unfolds in three distinct spiritual phases, evocative of ascending chakras and their evolving energetic states.
+tracklist:
+Нет треклиста

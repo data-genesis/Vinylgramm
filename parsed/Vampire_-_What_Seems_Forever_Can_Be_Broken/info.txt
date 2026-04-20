@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/vampire-what-seems-forever-can-be-broken-1368636
+Site: HHV
+artist: Vampire
+title: What Seems Forever Can Be Broken
+label: Discos Enfermos
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: Уже в продаже
+price: 16,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368636/1-vampire-what-seems-forever-can-be-broken.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368636/2-vampire-what-seems-forever-can-be-broken.webp
+downloaded_images:
+  Vampire_-_What_Seems_Forever_Can_Be_Broken_01.jpeg
+  Vampire_-_What_Seems_Forever_Can_Be_Broken_02.jpeg
+
+description:
+European release of the debut LP from Australian band Vampire. 10 songs from what is possibly the best anarchopunk band currently in existence. The dynamics of the tracks are refreshingly simple, a powerful yet neutral-sounding recording, with very little
+tracklist:
+1. Built For Decline
+2. Human Market Capital
+3. The Zone
+4. Endless Chain
+5. Polite Words
+6. Nothing To Hold
+7. Hollow Life
+8. Seeing Blind
+9. The Letter
+10. View From The Tower

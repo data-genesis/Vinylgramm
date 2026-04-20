@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/fear-factory-1991-demos-1373600
+Site: HHV
+artist: Fear Factory
+title: 1991 Demos
+label: Lost Demo
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 24,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373600/1-fear-factory-1991-demos.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01373/1373600/2-fear-factory-1991-demos.webp
+downloaded_images:
+  Fear_Factory_-_1991_Demos_01.jpeg
+  Fear_Factory_-_1991_Demos_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Sufferage
+2. Crisis
+3. Desecrate
+4. Echoes Of Innocence/Deforestation
+5. Raped Souls
+6. Piss Christ
+7. Big God
+8. Self-Immolation
+9. Soul Womb
+10. Dark Bodies

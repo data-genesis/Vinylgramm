@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/stooges-fun-house-rhino-high-fidelity-edition-1383484
+Site: HHV
+artist: Stooges
+title: Fun House Rhino High Fidelity Edition
+label: Elektra ,  Wea
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 49,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00523/523178/1-iggy-pop-and-the-stooges-raw-power.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01002/1002665/1-the-stooges-the-stooges.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01306/1306236/1-the-stooges-alternate-fun-house-opaque-white-and-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00886/886937/1-the-stooges-the-stooges.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00069/69660/1-the-stooges-fun-house.webp
+downloaded_images:
+  Stooges_-_Fun_House_Rhino_High_Fidelity_Edition_01.jpeg
+  Stooges_-_Fun_House_Rhino_High_Fidelity_Edition_02.jpeg
+  Stooges_-_Fun_House_Rhino_High_Fidelity_Edition_03.jpeg
+  Stooges_-_Fun_House_Rhino_High_Fidelity_Edition_04.jpeg
+  Stooges_-_Fun_House_Rhino_High_Fidelity_Edition_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

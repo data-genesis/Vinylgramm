@@ -1,0 +1,21 @@
+Source URL: https://www.hhv.de/en/records/item/v-a-post-office-volume-6-part-1-1342870
+Site: HHV
+artist: V.A.
+title: Post Office Volume 6 - Part 1
+label: Telegraph
+format: Vinyl 12"
+genre: Electronic & Dance
+release_date: Уже в продаже
+price: 13,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01342/1342870/1-v-a-post-office-volume-6-part-1.webp
+downloaded_images:
+  V.A._-_Post_Office_Volume_6_-_Part_1.jpeg
+
+description:
+Twenty five years after its debut, the legendary Post Office compilation returns with its sixth volume – this time as a tribute to House music. Staying true to its pioneering spirit, the series once again brings together iconic figures and fresh talents from today’s international electronic scene. More than just a compilation, Post Office vol.6 is a true celebration of House music – honoring its roots while opening new sonic perspectives.
+tracklist:
+1. The Game
+2. Time To Waste
+3. Acid Nation
+4. Park That Car

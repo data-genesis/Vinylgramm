@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/cory-wong-lost-in-the-wonder-indie-exclusive-vinyl-edition-1383495
+Site: HHV
+artist: Cory Wong
+title: Lost In The Wonder Indie Exclusive Vinyl Edition
+label: Diggers Factory
+format: Vinyl LP
+genre: Organic Grooves, Funk | Soul
+release_date: 10.04.2026
+price: 40,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01343/1343699/1-cory-wong-lost-in-the-wonder.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01334/1334709/2-cory-wong-live-at-montreux-jazz-fest.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01079/1079053/2-cory-wong-the-lucky-one-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01038/1038229/3-cory-wong-vulfpeck-the-lucky-one-opaque-gold-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01365/1365639/1-cory-wong-cory-wong-and-the-green-screen-band-record-store-day-2026-edition.webp
+downloaded_images:
+  Cory_Wong_-_Lost_In_The_Wonder_Indie_Exclusive_Vinyl_Edition_01.jpeg
+  Cory_Wong_-_Lost_In_The_Wonder_Indie_Exclusive_Vinyl_Edition_02.jpeg
+  Cory_Wong_-_Lost_In_The_Wonder_Indie_Exclusive_Vinyl_Edition_03.jpeg
+  Cory_Wong_-_Lost_In_The_Wonder_Indie_Exclusive_Vinyl_Edition_04.jpeg
+  Cory_Wong_-_Lost_In_The_Wonder_Indie_Exclusive_Vinyl_Edition_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

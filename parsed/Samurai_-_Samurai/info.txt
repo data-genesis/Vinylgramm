@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/samurai-samurai-1378099
+Site: HHV
+artist: Samurai
+title: Samurai
+label: Cinedelic
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01378/1378099/2-samurai-samurai.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01378/1378099/3-samurai-samurai.webp
+downloaded_images:
+  Samurai_-_Samurai_01.jpeg
+  Samurai_-_Samurai_02.jpeg
+
+description:
+Cinedelic Records is excited to announce the definitive official reissue of "Samurai," the iconic and great lost gems of British progressive jazz-rock, originally released in 1971. - Limited edition - from original master - Luxurious gatefold thick cardboard tip-on sleeve "Samurai" is a masterclass in early 70s rock genre-blending, intricately weaving elements of avant-garde progressive rock, psychedelic influences, and jazz-rock innovation into a cohesive and captivating listening experience. The lineup includes the talented Dave Lawson, known for his later work with Greenslade, who serves as both the lead vocalist and keyboardist, alongside an ensemble of skilled musicians including Tony Edwards (electric and acoustic guitars), John Eaton (bass guitar), and percussionists Kenny Beveridge and Lennie Wright. They were an offshoot of the band Web, which had previously released three albums in a more jazzy blues rock vein. Tracks such as "Face in the Mirror," "More Rain," "Holy Padlock," "As I Dried the Tears Away" and "Maudie James" still sound fresh after all these many decades. Critics have long celebrated "Samurai" as a pioneering effort within the progressive rock movement. The album captures a unique essence that echoes the early sounds of influential bands like Gentle Giant, King Crimson, and Pink Floyd and the humor of many of the Canterbury bands while still maintaining its distinctive character. The addition of woodwind players enriches the group’s sound, establishing an eclectic style that resonates through each note. Despite their brief existence, Samurai's only album remains a masterpiece that artfully reflects the musical conversations happening in the early 70s. This LP reissue is not only a reinterpretation of a lost classic, but a celebration of the creative spirit that characterized the progressive era, starting with the stunning cover created from a painting by Victor P. Meara in psychedelic "Kamasutra-like" in concept.
+tracklist:
+1. Saving It Up For So Long
+2. More Rain
+3. Maudie James
+4. Holy Padlock
+5. Give A Little Love
+6. Face In The Mirror
+7. As I Dried The Tears Away

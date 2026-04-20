@@ -1,0 +1,33 @@
+Source URL: https://www.hhv.de/en/records/item/black-uniforms-splatter-punx-on-acid-1318322
+Site: HHV
+artist: Black Uniforms
+title: Splatter Punx On Acid
+label: Unrest
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: Уже в продаже
+price: 22,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01318/1318322/1-black-uniforms-splatter-punx-on-acid.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01318/1318322/2-black-uniforms-splatter-punx-on-acid.webp
+downloaded_images:
+  Black_Uniforms_-_Splatter_Punx_On_Acid_01.jpeg
+  Black_Uniforms_-_Splatter_Punx_On_Acid_02.jpeg
+
+description:
+Black Uniforms – Splatter Punx on Acid reissue.
+tracklist:
+1. Vi Fulla...
+2. Do U Conform?
+3. Foad
+4. Never Surrender
+5. Fred K
+6. The Smell Of Death
+7. Teenage Waste
+8. Suck My Cock
+9. Computer World
+10. Sacrifice
+11. The Right To Survive
+12. Cannibal Carnage
+13. G-Town (Ghostown)
+14. Rokk Rolls

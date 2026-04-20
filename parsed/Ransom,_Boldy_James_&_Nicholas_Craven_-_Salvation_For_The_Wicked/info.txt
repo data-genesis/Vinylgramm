@@ -1,0 +1,35 @@
+Source URL: https://www.hhv.de/en/records/item/ransom-boldy-james-and-nicholas-craven-salvation-for-the-wicked-1377772
+Site: HHV
+artist: Ransom, Boldy James & Nicholas Craven
+title: Salvation For The Wicked
+label: Next
+format: Vinyl LP
+genre: Hip Hop, US Hip Hop
+release_date: Уже в продаже
+price: 35,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01377/1377772/2-ransom-boldy-james-and-nicholas-craven-salvation-for-the-wicked.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01377/1377772/3-ransom-boldy-james-and-nicholas-craven-salvation-for-the-wicked.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01377/1377772/4-ransom-boldy-james-and-nicholas-craven-salvation-for-the-wicked.webp
+downloaded_images:
+  Ransom,_Boldy_James_&_Nicholas_Craven_-_Salvation_For_The_Wicked_01.jpeg
+  Ransom,_Boldy_James_&_Nicholas_Craven_-_Salvation_For_The_Wicked_02.jpeg
+  Ransom,_Boldy_James_&_Nicholas_Craven_-_Salvation_For_The_Wicked_03.jpeg
+
+description:
+Pressed on Silver Black Ice Colored Vinyl “Salvation for the Wicked” unites Ransom, Boldy James, and producer Nicholas Craven for a gritty, soul-soaked showcase of sharp lyricism and minimalist, dust-laced production. Ransom and Boldy trade vivid, hard-earned reflections over Craven’s haunting loops, joined by standout features from Young Chris and OT The Real. Now on vinyl, the project’s warmth and texture hit even deeper, giving the raw performances and timeless sound the space they deserve in a format built to be felt as much as heard.
+tracklist:
+1. Sinners
+2. Forgiveness
+3. Collection Plates Feat. Young Chris
+4. Offerings
+5. Field Of Nightmares Feat. Ot The Real
+6. Leather Sandals
+7. Tithes
+8. Sinners (Instrumental)
+9. Forgiveness (Instrumental)
+10. Collection Plates (Instrumental)
+11. Offerings (Instrumental)
+12. Field Of Nightmares (Instrumental)
+13. Leather Sandals (Instrumental)
+14. Tithes (Instrumental)

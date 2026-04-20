@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/crosby-stills-and-nash-unplugged-in-japan-1373631
+Site: HHV
+artist: Crosby, Stills & Nash
+title: Unplugged In Japan
+label: Mind Control
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 16,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01373/1373631/1-crosby-stills-and-nash-unplugged-in-japan.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01373/1373631/2-crosby-stills-and-nash-unplugged-in-japan.webp
+downloaded_images:
+  Crosby,_Stills_&_Nash_-_Unplugged_In_Japan_01.jpeg
+  Crosby,_Stills_&_Nash_-_Unplugged_In_Japan_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Wasted On The Way
+2. Blackbird
+3. The Lee Shore
+4. You Don't Have To Cry
+5. Marrakesh Express
+6. Long Time Gone
+7. These Empty Days
+8. Almost Cut My Hair
+9. Love The One You're With
+10. Southern Cross
+11. Wooden Ships
+12. Judy Blue Eyes

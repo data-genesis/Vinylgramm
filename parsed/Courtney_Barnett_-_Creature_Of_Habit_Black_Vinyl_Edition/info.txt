@@ -1,0 +1,32 @@
+Source URL: https://www.hhv.de/en/records/item/courtney-barnett-creature-of-habit-black-vinyl-edition-1359742
+Site: HHV
+artist: Courtney Barnett
+title: Creature Of Habit Black Vinyl Edition
+label: Fiction
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 27.03.2026
+price: 29,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01359/1359742/1-courtney-barnett-creature-of-habit-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01359/1359742/2-courtney-barnett-creature-of-habit-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01359/1359742/3-courtney-barnett-creature-of-habit-black-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01362/1362332/2-thundercat-distracted-hhv-clear-turquoise-black-marble-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01355/1355787/2-sault-chapter-1.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01368/1368736/2-die-arzte-live-nach-uns-die-sintflut.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00741/741777/4-v-a-wamono-a-to-z-volume-i-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00660/660542/1-black-midi-schlagenheim.webp
+downloaded_images:
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_01.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_02.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_03.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_04.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_05.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_06.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_07.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Black_Vinyl_Edition_08.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/canned-heat-canned-heat-1373618
+Site: HHV
+artist: Canned Heat
+title: Canned Heat
+label: Liberty
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock
+release_date: Уже в продаже
+price: 27,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01341/1341961/1-fischer-z-red-skies-over-paradise.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01294/1294318/1-canned-heat-let-s-work-together.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01117/1117310/1-the-ventures-pops-best-14.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01149/1149290/1-the-ventures-ventures-on-stage-72-golden-disk-vol-4.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01202/1202955/1-the-ventures-more-golden-greats.webp
+downloaded_images:
+  Canned_Heat_-_Canned_Heat_01.jpeg
+  Canned_Heat_-_Canned_Heat_02.jpeg
+  Canned_Heat_-_Canned_Heat_03.jpeg
+  Canned_Heat_-_Canned_Heat_04.jpeg
+  Canned_Heat_-_Canned_Heat_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

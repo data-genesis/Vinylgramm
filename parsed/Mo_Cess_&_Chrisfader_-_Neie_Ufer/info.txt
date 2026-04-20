@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/mo-cess-and-chrisfader-neie-ufer-1376255
+Site: HHV
+artist: Mo Cess & Chrisfader
+title: Neie Ufer
+label: Duzz Down San
+format: Vinyl LP
+genre: Hip Hop, German Hip Hop
+release_date: Уже в продаже
+price: 32,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01376/1376255/1-mo-cess-and-chrisfader-neie-ufer.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01373/1373899/1-neonschwarz-neonschwarz-forever-colored-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01369/1369334/2-classic-der-dicke-and-funky-notes-hard-work-ep.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01368/1368958/3-johannes-onetake-and-carl-aqua-uberfluss.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01373/1373147/3-blood-spencore-dick-kalt-and-eisig-moses-and-taps-hhv-exclusive-white-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00564/564726/5-evidence-of-dilated-peoples-weather-or-not-blue-vinyl-edition.webp
+downloaded_images:
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_01.jpeg
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_02.jpeg
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_03.jpeg
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_04.jpeg
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_05.jpeg
+  Mo_Cess_&_Chrisfader_-_Neie_Ufer_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

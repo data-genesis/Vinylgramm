@@ -1,0 +1,37 @@
+Source URL: https://www.hhv.de/en/records/item/future-islands-from-a-hole-in-the-floor-to-the-fountain-of-youth-blue-and-apricot-vinyl-edition-1383512
+Site: HHV
+artist: Future Islands
+title: From A Hole In The Floor To The Fountain Of Youth Blue & Apricot Vinyl Edition
+label: 4AD
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 22.05.2026
+price: 30,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383512/1-future-islands-from-a-hole-in-the-floor-to-the-fountain-of-youth-blue-and-apricot-vinyl-edition.webp
+downloaded_images:
+  Future_Islands_-_From_A_Hole_In_The_Floor_To_The_Fountain_Of_Youth_Blue_&_Apricot_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+1. The Ink Well
+2. Pinnochio
+3. The Happiness of Being Twice
+4. In The Fall
+5. Awake and Dreaming
+6. Virgo Distracts
+7. Find Love
+8. Cotton Flower
+9. The Fountain
+10. Tomorrow
+11. One Day
+12. The Chase
+13. Calliope
+14. Six Weeks
+15. Haunted By You
+16. Sail
+17. As Long As You Are
+18. Days
+19. Rager
+20. Glimpse

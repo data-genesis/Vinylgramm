@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/harlan-silverman-of-the-cosmic-tones-research-trio-music-for-stillness-1377039
+Site: HHV
+artist: Harlan Silverman Of The Cosmic Tones Research Trio
+title: Music For Stillness
+label: Mississippi
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: Уже в продаже
+price: 27,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01377/1377039/2-harlan-silverman-of-the-cosmic-tones-research-trio-music-for-stillness.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01377/1377039/3-harlan-silverman-of-the-cosmic-tones-research-trio-music-for-stillness.webp
+downloaded_images:
+  Harlan_Silverman_Of_The_Cosmic_Tones_Research_Trio_-_Music_For_Stillness_01.jpeg
+  Harlan_Silverman_Of_The_Cosmic_Tones_Research_Trio_-_Music_For_Stillness_02.jpeg
+
+description:
+In a world filled with noise and chaos, Harlan’s music offers a restoration to peace. Music for Stillness unfolds slowly, inviting rest and quiet presence. The bansuri flute leads the sound, its vocal-like quality weaving melody atop cello and ambient textures. Influenced by Indian classical music, Japanese environmental music, and Western ambient music, the album leaves space for the listener to choose how deeply to engage. The music offers a single question: What might peace sound like?
+tracklist:
+1. Across The River
+2. Forever Green
+3. Ancient Memories
+4. Westerly
+5. Stillness Is Beautiful
+6. Entrance To The Sanctuary
+7. Shadow In The Trees
+8. Bird Song
+9. Dreamscape
+10. A Sacred Place

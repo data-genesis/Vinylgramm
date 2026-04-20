@@ -1,0 +1,36 @@
+Source URL: https://www.hhv.de/en/records/item/bessie-smith-beale-street-mama-1373611
+Site: HHV
+artist: Bessie Smith
+title: Beale Street Mama
+label: DEA
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 27,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01373/1373611/1-bessie-smith-beale-street-mama.webp
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01373/1373611/2-bessie-smith-beale-street-mama.webp
+downloaded_images:
+  Bessie_Smith_-_Beale_Street_Mama_01.jpeg
+  Bessie_Smith_-_Beale_Street_Mama_02.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Gimmi A Pigfoot (& A Botlle Of Beer)
+2. Empty Bed Blues (Part 1)
+3. After You've Gone
+4. Me & My Gin
+5. Muddy Water (A Mississippi Moan)
+6. Careless Love Blues
+7. Jazzbo Brown From Memphis Town
+8. Need A Little Sugar In My Bowl
+9. Nobody Knows You When You're Down & Out
+10. St Louis Blues
+11. Alexander's Ragtime Band
+12. Beale Street Mama
+13. Reckless Blues
+14. Send Me To The 'lectric Chair
+15. Aggravatin' Papa
+16. Yellow Dog Blues
+17. Nashville Woman's Blues

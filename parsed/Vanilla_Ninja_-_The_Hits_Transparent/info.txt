@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/vanilla-ninja-the-hits-transparent-1383611
+Site: HHV
+artist: Vanilla Ninja
+title: The Hits Transparent
+label: Bros Music
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 15.05.2026
+price: 30,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01091/1091376/1-vanilla-ninja-encore-black-vinyl.webp
+downloaded_images:
+  Vanilla_Ninja_-_The_Hits_Transparent.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

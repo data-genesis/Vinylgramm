@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/brother-cane-magnolia-medicine-indie-exclusive-vinyl-edition-1383485
+Site: HHV
+artist: Brother Cane
+title: Magnolia Medicine Indie Exclusive Vinyl Edition
+label: Digitally Sound
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 32,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01376/1376460/1-brother-cane-brother-cane.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01371/1371786/1-brother-cane-magnolia-medicine.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01205/1205954/1-brother-cane-wishpool-silver-cane.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01205/1205955/1-brother-cane-wishpool-electric-yellow.webp
+downloaded_images:
+  Brother_Cane_-_Magnolia_Medicine_Indie_Exclusive_Vinyl_Edition_01.jpeg
+  Brother_Cane_-_Magnolia_Medicine_Indie_Exclusive_Vinyl_Edition_02.jpeg
+  Brother_Cane_-_Magnolia_Medicine_Indie_Exclusive_Vinyl_Edition_03.jpeg
+  Brother_Cane_-_Magnolia_Medicine_Indie_Exclusive_Vinyl_Edition_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

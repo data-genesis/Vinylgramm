@@ -1,0 +1,21 @@
+Source URL: https://www.hhv.de/en/records/item/function-x-nastia-reigel-present-devocion-devocion-1383432
+Site: HHV
+artist: Function X Nastia Reigel Present Devocion
+title: Devocion
+label: Dekmantel
+format: Vinyl 12"
+genre: Electronic & Dance, Trance
+release_date: 15.05.2026
+price: 15,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383432/1-function-x-nastia-reigel-present-devocion-devocion.webp
+downloaded_images:
+  Function_X_Nastia_Reigel_Present_Devocion_-_Devocion.jpeg
+
+description:
+"Tapping into a shared affinity for early trance – as in short for transcendental – Function and Nastia Reigel come together on Dekmantel with ‘Devocion’. Bridging the past and the future, this partnership draws deeply on brooding, melancholic early-90s sounds and supercharges it with the immensity of modern techno.The project began when Nastia Reigel shared a series of discoveries with David ‘Function’ Sumner – records rooted in the rave-leaning edge of the era, spanning labels like R&S, FAX and EXperimental. He responded that this was precisely the music he had been absorbing while coming up in the thick of New York’s club and rave scenes and beginning his journey into DJing. The excited exchange of deep digs around this niche of dance music history naturally led to a conversation about collaborating on music in this vein, and Devocion is the result.Familiar genre touchstones are everywhere, from the plaintive bleeps and understated breakbeat roll of 'Eternity' through the sad-eyed arpeggios strafing on the edges of 'Reverence' and on to 'Flowstate's blue-hued acid lines and 'Orion's sky-scraping gated pads. But Reigel and Sumner deploy these strongly coded elements with poise, feeding into a richly rendered production that feels anything but old-school. The emotive streak is wielded with care, spelling out the mood without losing the steely, shadowy sensibility that tracks through their respective catalogues.In a perfect demonstration of honouring the past while embracing the present, Devocion EP lands as a distinctive artistic statement on its own terms."
+tracklist:
+1. Eternity
+2. Reverence
+3. Flowstate
+4. Orion

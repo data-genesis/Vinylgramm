@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/tim-maia-second-album-1362909
+Site: HHV
+artist: Tim Maia
+title: Second Album
+label: Endless Happiness
+format: Vinyl LP
+genre: Organic Grooves, Funk | Soul
+release_date: Уже в продаже
+price: 28,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01362/1362909/1-tim-maia-second-album.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01362/1362909/2-tim-maia-second-album.webp
+downloaded_images:
+  Tim_Maia_-_Second_Album_01.jpeg
+  Tim_Maia_-_Second_Album_02.jpeg
+
+description:
+Tim Maia’s second album, published in 19671, deepened and refined the Brazilian artist’s groundbreaking fusion of soul, funk, R&B, and MPB, firmly establishing him as a unique voice in Brazilian music. Compared to his 1970 debut album (he70014), this seco
+tracklist:
+1. A Festa Do Santo Reis
+2. Não Quero Dinheiro (Só Quero Amar)
+3. Salve Nossa Senhora
+4. Um Dia Eu Chego Lá
+5. Não Vou Ficar
+6. Broken Heart
+7. Você
+8. Preciso Aprender A Ser Só
+9. I Don’ T Know With Myself
+10. É Por Você Que Vivo
+11. Meu País
+12. I Don’t Care

@@ -1,0 +1,34 @@
+Source URL: https://www.hhv.de/en/records/item/rolando-the-syncrophone-remixes-volume-2-1345504
+Site: HHV
+artist: Rolando
+title: The Syncrophone Remixes Volume 2
+label: Syncrophone
+format: Vinyl 12"
+genre: Electronic & Dance
+release_date: Уже в продаже
+price: 14,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01345/1345504/1-rolando-the-syncrophone-remixes-volume-2.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01345/1345504/2-rolando-the-syncrophone-remixes-volume-2.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01345/1345504/3-rolando-the-syncrophone-remixes-volume-2.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01209/1209975/1-rolando-he-syncrophone-remixes-volume-1.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01310/1310839/1-satoshi-tomiie-and-kamran-sadeghi-present-takt-acid-futurism-orange-marbled-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01076/1076716/1-skudge-the-wind.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01117/1117014/1-conforce-commuting-part-1-green-marbled-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01176/1176498/2-g-man-throw-ep-marbled-vinyl-edition.webp
+downloaded_images:
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_01.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_02.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_03.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_04.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_05.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_06.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_07.jpeg
+  Rolando_-_The_Syncrophone_Remixes_Volume_2_08.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Undescribed3(Execute)
+2. Synchronize
+3. Arise

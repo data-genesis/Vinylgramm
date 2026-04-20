@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/john-rabbit-bundrick-mr-big-boss-man-1383585
+Site: HHV
+artist: John "Rabbit" Bundrick
+title: Mr. Big Boss Man
+label: Jrb
+format: Vinyl LP
+genre: Organic Grooves, Funk | Soul
+release_date: 29.05.2026
+price: 24,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01383/1383585/1-john-rabbit-bundrick-mr-big-boss-man.webp
+downloaded_images:
+  John_Rabbit_Bundrick_-_Mr._Big_Boss_Man.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

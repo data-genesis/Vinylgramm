@@ -1,0 +1,32 @@
+2026-04-08 08:53:01,459 INFO === HHV parser session started ===
+2026-04-08 08:53:01,464 INFO ====== WebDriver manager ======
+2026-04-08 08:53:01,602 INFO Get LATEST chromedriver version for google-chrome
+2026-04-08 08:53:01,803 INFO Get LATEST chromedriver version for google-chrome
+2026-04-08 08:53:02,068 INFO Driver [/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.165/chromedriver-mac-arm64/chromedriver] found in cache
+2026-04-08 08:54:34,771 ERROR Service process refused to terminate gracefully with SIGTERM, escalating to SIGKILL.
+Traceback (most recent call last):
+  File "/Users/admin/Code/HHV/.venv/lib/python3.13/site-packages/selenium/webdriver/common/service.py", line 183, in _terminate_process
+    self.process.wait(60)
+    ~~~~~~~~~~~~~~~~~^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 1280, in wait
+    return self._wait(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 2077, in _wait
+    raise TimeoutExpired(self.args, timeout)
+subprocess.TimeoutExpired: Command '['/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.165/chromedriver-mac-arm64/chromedriver', '--enable-chrome-logs', '--port=63554']' timed out after 60 seconds
+2026-04-08 08:55:25,043 INFO === HHV parser session started ===
+2026-04-08 08:55:25,061 INFO ====== WebDriver manager ======
+2026-04-08 08:55:25,207 INFO Get LATEST chromedriver version for google-chrome
+2026-04-08 08:55:25,413 INFO Get LATEST chromedriver version for google-chrome
+2026-04-08 08:55:25,719 INFO Driver [/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.165/chromedriver-mac-arm64/chromedriver] found in cache
+2026-04-08 08:56:58,456 ERROR Service process refused to terminate gracefully with SIGTERM, escalating to SIGKILL.
+Traceback (most recent call last):
+  File "/Users/admin/Code/HHV/.venv/lib/python3.13/site-packages/selenium/webdriver/common/service.py", line 183, in _terminate_process
+    self.process.wait(60)
+    ~~~~~~~~~~~~~~~~~^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 1280, in wait
+    return self._wait(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 2077, in _wait
+    raise TimeoutExpired(self.args, timeout)
+subprocess.TimeoutExpired: Command '['/Users/admin/.wdm/drivers/chromedriver/mac64/146.0.7680.165/chromedriver-mac-arm64/chromedriver', '--enable-chrome-logs', '--port=63793']' timed out after 60 seconds

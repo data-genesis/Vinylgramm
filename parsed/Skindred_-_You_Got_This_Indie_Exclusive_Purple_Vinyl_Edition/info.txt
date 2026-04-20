@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/skindred-you-got-this-indie-exclusive-purple-vinyl-edition-1383487
+Site: HHV
+artist: Skindred
+title: You Got This Indie Exclusive Purple Vinyl Edition
+label: Earache
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 36,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01226/1226505/1-skindred-union-black-record-store-day-2025-orange-black-white-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01334/1334488/1-skindred-you-got-this-limited-green.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01334/1334489/1-skindred-you-got-this-black.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01091/1091831/1-skindred-smile-black-vinyl-edition.webp
+downloaded_images:
+  Skindred_-_You_Got_This_Indie_Exclusive_Purple_Vinyl_Edition_01.jpeg
+  Skindred_-_You_Got_This_Indie_Exclusive_Purple_Vinyl_Edition_02.jpeg
+  Skindred_-_You_Got_This_Indie_Exclusive_Purple_Vinyl_Edition_03.jpeg
+  Skindred_-_You_Got_This_Indie_Exclusive_Purple_Vinyl_Edition_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/automatic-lovers-automatic-lovers-1383592
+Site: HHV
+artist: Automatic Lovers
+title: Automatic Lovers
+label: Wap Shoo Wap
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: 15.05.2026
+price: 30,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01383/1383592/1-automatic-lovers-automatic-lovers.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01346/1346729/1-savage-beat-the-singles-2018-2022.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01346/1346721/1-fuckfuckfuck-fun-colored-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01356/1356390/1-savage-beat-bright-lights-tall-shadows-white-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01346/1346724/1-killer-kin-killer-kin.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01346/1346730/1-savages-the-you-know-who-group-roses-are-red-my-love.webp
+downloaded_images:
+  Automatic_Lovers_-_Automatic_Lovers_01.jpeg
+  Automatic_Lovers_-_Automatic_Lovers_02.jpeg
+  Automatic_Lovers_-_Automatic_Lovers_03.jpeg
+  Automatic_Lovers_-_Automatic_Lovers_04.jpeg
+  Automatic_Lovers_-_Automatic_Lovers_05.jpeg
+  Automatic_Lovers_-_Automatic_Lovers_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

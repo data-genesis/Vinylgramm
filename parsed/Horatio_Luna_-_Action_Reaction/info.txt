@@ -1,0 +1,31 @@
+Source URL: https://www.hhv.de/en/records/item/horatio-luna-action-reaction-1383335
+Site: HHV
+artist: Horatio Luna
+title: Action Reaction
+label: La Sape
+format: Vinyl LP
+genre: Organic Grooves, Funk | Soul , Jazz | Fusion
+release_date: 22.05.2026
+price: 24,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383335/1-horatio-luna-action-reaction.webp
+downloaded_images:
+  Horatio_Luna_-_Action_Reaction.jpeg
+
+description:
+Six years on from his La Sape debut, Horatio Luna is back.Recorded across two Melbourne studios between 2022 and 2025, Nick Herrera's in Coburg, Drew Parsons' in South Melbourne, it catalogues experiences in composition and in living. Voicemail messages from these years surface throughout, fragments of a scene mid-pulse.Warmer and more luminous than Horatio's back catalogue, Action Reaction trades the darker textures of Yes Doctor for crystalline synths and funk-driven compositions. Horns feature more prominently than ever before and several pieces revisit earlier material, seen in new light — a thread Horatio intends to keep pulling across his career.
+tracklist:
+1. 01CALLMEBACKINTERLUDE-HoratioLuna_
+2. 02SPICY-HoratioLuna_
+3. 03MALAKIES-HoratioLuna_
+4. 04DOUBLESLAY-HoratioLuna_
+5. 05THEWIN-HoratioLuna_
+6. 06MOONSHINEINTERLUDE-HoratioLuna_
+7. 08MYSTICBOUNCE-HoratioLuna_
+8. 09ON-LYSWINGSINTERLUDE-HoratioLuna_
+9. 10PORTOBANGA-HoratioLuna_
+10. 11RECTIFYTRIBUTETOMOODYMANN-HoratioLuna_
+11. 14SLEEPYBYESINTERLUDE-HoratioLuna_
+12. 07SWEETPAPRIKATAKE2-HoratioLuna_
+13. 12HIPCONNECTIONSTAKE2-HoratioLuna_
+14. 13HABIBITAKE2-HoratioLuna_

@@ -1,0 +1,143 @@
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: y0__xDTmr7RCBix9Bwg2YqsgxY10tV5F6Xq90dnhQN0cQxrUoDlBg
+📊 Максимум: 500
+🖥️ Режим: Headless
+============================================================
+
+
+🔍 Collecting product URLs from: y0__xDTmr7RCBix9Bwg2YqsgxY10tV5F6Xq90dnhQN0cQxrUoDlBg
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+❌ Error collecting URLs: Message: invalid argument
+  (Session info: chrome=143.0.7499.194)
+Stacktrace:
+0   chromedriver                        0x0000000104c0cb2c cxxbridge1$str$ptr + 3033596
+1   chromedriver                        0x0000000104c04b30 cxxbridge1$str$ptr + 3000832
+2   chromedriver                        0x00000001046fe970 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73784
+3   chromedriver                        0x00000001046e8cf4 cxxbridge1$string$len + 1604
+4   chromedriver                        0x00000001046e735c chromedriver + 209756
+5   chromedriver                        0x00000001046e7c7c chromedriver + 212092
+6   chromedriver                        0x0000000104701c90 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 86872
+7   chromedriver                        0x0000000104787420 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633576
+8   chromedriver                        0x0000000104786968 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+9   chromedriver                        0x000000010473a16c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+10  chromedriver                        0x0000000104bd0098 cxxbridge1$str$ptr + 2785128
+11  chromedriver                        0x0000000104bd3804 cxxbridge1$str$ptr + 2799316
+12  chromedriver                        0x0000000104bb0850 cxxbridge1$str$ptr + 2656032
+13  chromedriver                        0x0000000104bd4074 cxxbridge1$str$ptr + 2801476
+14  chromedriver                        0x0000000104ba11cc cxxbridge1$str$ptr + 2592924
+15  chromedriver                        0x0000000104bf3cb4 cxxbridge1$str$ptr + 2931588
+16  chromedriver                        0x0000000104bf3e34 cxxbridge1$str$ptr + 2931972
+17  chromedriver                        0x0000000104c04788 cxxbridge1$str$ptr + 2999896
+18  libsystem_pthread.dylib             0x00000001999a7bc8 _pthread_start + 136
+19  libsystem_pthread.dylib             0x00000001999a2b80 thread_start + 8
+
+
+✅ Total collected: 0 product URLs
+❌ Ссылок не найдено.
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: y0__xDTmr7RCBix9Bwg2YqsgxY10tV5F6Xq90dnhQN0cQxrUoDlBg
+📊 Максимум: 500
+🖥️ Режим: С окном
+============================================================
+
+
+🔍 Collecting product URLs from: y0__xDTmr7RCBix9Bwg2YqsgxY10tV5F6Xq90dnhQN0cQxrUoDlBg
+Setting up browser driver for HHV...
+  🔊 Headless mode: OFF (окно браузера будет видно)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+❌ Error collecting URLs: Message: invalid argument
+  (Session info: chrome=143.0.7499.194)
+Stacktrace:
+0   chromedriver                        0x00000001046e8b2c cxxbridge1$str$ptr + 3033596
+1   chromedriver                        0x00000001046e0b30 cxxbridge1$str$ptr + 3000832
+2   chromedriver                        0x00000001041da970 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73784
+3   chromedriver                        0x00000001041c4cf4 cxxbridge1$string$len + 1604
+4   chromedriver                        0x00000001041c335c chromedriver + 209756
+5   chromedriver                        0x00000001041c3c7c chromedriver + 212092
+6   chromedriver                        0x00000001041ddc90 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 86872
+7   chromedriver                        0x0000000104263420 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633576
+8   chromedriver                        0x0000000104262968 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+9   chromedriver                        0x000000010421616c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+10  chromedriver                        0x00000001046ac098 cxxbridge1$str$ptr + 2785128
+11  chromedriver                        0x00000001046af804 cxxbridge1$str$ptr + 2799316
+12  chromedriver                        0x000000010468c850 cxxbridge1$str$ptr + 2656032
+13  chromedriver                        0x00000001046b0074 cxxbridge1$str$ptr + 2801476
+14  chromedriver                        0x000000010467d1cc cxxbridge1$str$ptr + 2592924
+15  chromedriver                        0x00000001046cfcb4 cxxbridge1$str$ptr + 2931588
+16  chromedriver                        0x00000001046cfe34 cxxbridge1$str$ptr + 2931972
+17  chromedriver                        0x00000001046e0788 cxxbridge1$str$ptr + 2999896
+18  libsystem_pthread.dylib             0x00000001999a7bc8 _pthread_start + 136
+19  libsystem_pthread.dylib             0x00000001999a2b80 thread_start + 8
+
+
+✅ Total collected: 0 product URLs
+❌ Ссылок не найдено.
+
+============================================================
+🔍 Начинаю сбор ссылок с HHV.de
+📂 Каталог: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+📊 Максимум: 500
+🖥️ Режим: С окном
+============================================================
+
+
+🔍 Collecting product URLs from: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4S6U9
+Setting up browser driver for HHV...
+  🔊 Headless mode: OFF (окно браузера будет видно)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+✅ РАБОТАЕМ С HHV.
+🍪 Пропускаем обработку cookies
+⏳ Waiting for initial page load...
+
+📄 Страница 1
+  📊 Собрано всего: 4 товаров
+  ⏳ Нет новых товаров (1/6)...
+  ⏳ Нет новых товаров (2/6)...
+  ⏳ Нет новых товаров (3/6)...
+  ⏳ Нет новых товаров (4/6)...
+  ⏳ Нет новых товаров (5/6)...
+  ⏳ Нет новых товаров (6/6)...
+  ✅ Больше товаров не подгружается на странице 1
+🔎 Ищем кнопку следующей страницы...
+➡️ Переход на следующую страницу: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4P2S6U9
+
+📄 Страница 2
+  ⏳ Нет новых товаров (1/6)...
+  ⏳ Нет новых товаров (2/6)...
+  ⏳ Нет новых товаров (3/6)...
+  ⏳ Нет новых товаров (4/6)...
+  ⏳ Нет новых товаров (5/6)...
+  ⏳ Нет новых товаров (6/6)...
+  ✅ Больше товаров не подгружается на странице 2
+🔎 Ищем кнопку следующей страницы...
+➡️ Переход на следующую страницу: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4P3S6U9
+
+📄 Страница 3
+  ⏳ Нет новых товаров (1/6)...
+  ⏳ Нет новых товаров (2/6)...
+  ⏳ Нет новых товаров (3/6)...
+  ⏳ Нет новых товаров (4/6)...
+  ⏳ Нет новых товаров (5/6)...
+  ⏳ Нет новых товаров (6/6)...
+  ✅ Больше товаров не подгружается на странице 3
+🔎 Ищем кнопку следующей страницы...
+➡️ Переход на следующую страницу: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4P4S6U9
+
+📄 Страница 4
+  ⏳ Нет новых товаров (1/6)...
+  ⏳ Нет новых товаров (2/6)...
+  ⏳ Нет новых товаров (3/6)...
+  ⏳ Нет новых товаров (4/6)...
+  ⏳ Нет новых товаров (5/6)...
+  ⏳ Нет новых товаров (6/6)...
+  ✅ Больше товаров не подгружается на странице 4
+🔎 Ищем кнопку следующей страницы...
+➡️ Переход на следующую страницу: https://www.hhv.de/en-DE-EUR-uk/records/catalog/filter/vinyl-I1M65N4P5S6U9

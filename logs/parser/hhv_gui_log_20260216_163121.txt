@@ -1,0 +1,28 @@
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+✅ДРАЙВЕР НА МЕСТЕ: /Users/admin/Code/HHV/chromedriver/chromedriver
+❌ Error setting up driver for HHV: Message: session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.75 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x0000000102eb4b2c cxxbridge1$str$ptr + 3033596
+1   chromedriver                        0x0000000102eacb30 cxxbridge1$str$ptr + 3000832
+2   chromedriver                        0x00000001029a6b0c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001029df3e4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 305836
+4   chromedriver                        0x00000001029de598 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 302176
+5   chromedriver                        0x00000001029da898 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 286560
+6   chromedriver                        0x00000001029d705c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 272164
+7   chromedriver                        0x0000000102a1ae8c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 550228
+8   chromedriver                        0x0000000102a1a8cc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 548756
+9   chromedriver                        0x00000001029e216c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+10  chromedriver                        0x0000000102e78098 cxxbridge1$str$ptr + 2785128
+11  chromedriver                        0x0000000102e7b804 cxxbridge1$str$ptr + 2799316
+12  chromedriver                        0x0000000102e58850 cxxbridge1$str$ptr + 2656032
+13  chromedriver                        0x0000000102e7c074 cxxbridge1$str$ptr + 2801476
+14  chromedriver                        0x0000000102e491cc cxxbridge1$str$ptr + 2592924
+15  chromedriver                        0x0000000102e9bcb4 cxxbridge1$str$ptr + 2931588
+16  chromedriver                        0x0000000102e9be34 cxxbridge1$str$ptr + 2931972
+17  chromedriver                        0x0000000102eac788 cxxbridge1$str$ptr + 2999896
+18  libsystem_pthread.dylib             0x0000000191367bc8 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000191362b80 thread_start + 8
+
+❌ Failed to setup driver

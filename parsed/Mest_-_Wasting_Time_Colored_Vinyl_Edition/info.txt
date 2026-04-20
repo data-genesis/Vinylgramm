@@ -1,0 +1,18 @@
+Source URL: https://www.hhv.de/en/records/item/mest-wasting-time-colored-vinyl-edition-1383594
+Site: HHV
+artist: Mest
+title: Wasting Time Colored Vinyl Edition
+label: Sbäm
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: 17.04.2026
+price: 32,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01124/1124818/2-mest-youth-colored-vinyl-edition.webp
+downloaded_images:
+  Mest_-_Wasting_Time_Colored_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

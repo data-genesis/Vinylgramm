@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/moonspell-far-from-god-1383587
+Site: HHV
+artist: Moonspell
+title: Far From God
+label: Napalm
+format: Vinyl LP
+genre: Rock & Indie, Metal
+release_date: 03.07.2026
+price: 29,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383587/1-moonspell-far-from-god.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00938/938454/1-moonspell-from-down-below-live-80-meters-deep.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00875/875834/1-moonspell-memorial.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00787/787674/1-moonspell-hermitage.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01348/1348622/1-moonspell-irreligious.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01316/1316501/1-moonspell-from-down-below-live-80-meters-deep.webp
+downloaded_images:
+  Moonspell_-_Far_From_God_01.jpeg
+  Moonspell_-_Far_From_God_02.jpeg
+  Moonspell_-_Far_From_God_03.jpeg
+  Moonspell_-_Far_From_God_04.jpeg
+  Moonspell_-_Far_From_God_05.jpeg
+  Moonspell_-_Far_From_God_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

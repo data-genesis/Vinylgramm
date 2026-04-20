@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/dead-pioneers-wagon-burner-crystal-vinyl-edition-1383339
+Site: HHV
+artist: Dead Pioneers
+title: Wagon Burner Crystal Vinyl Edition
+label: Hassle
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: 26.06.2026
+price: 30,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01383/1383339/1-dead-pioneers-wagon-burner-crystal-vinyl-edition.webp
+downloaded_images:
+  Dead_Pioneers_-_Wagon_Burner_Crystal_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+1. DEAD PRESIDENTS
+2. NAZI TEETH (FEAT. STEPHANIE BYRNE / CHEAP PERFUME)
+3. A MESSAGE FROM MR. BELL
+4. NO KINGS
+5. ANIMALS THAT ROAM THE EARTH
+6. NEVER ALONE (FEAT. THE INTERRUPTERS)
+7. THE WORST AMONG US (FEAT. JASON WILLIAMSON / SLEAFORD MODS)
+8. SEEING RED
+9. CIRCLE JERK THE WAGONS
+10. ZEALOTS
+11. NOBODY
+12. LFG

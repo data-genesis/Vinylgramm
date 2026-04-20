@@ -1,0 +1,29 @@
+Source URL: https://www.hhv.de/en/records/item/rodriguez-alive-1362946
+Site: HHV
+artist: Rodriguez
+title: Alive
+label: Blue Goose Music
+format: Vinyl LP
+genre: Rock & Indie, Classic Rock , Folk
+release_date: Уже в продаже
+price: 22,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01362/1362946/1-rodriguez-alive.webp
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01362/1362946/2-rodriguez-alive.webp
+downloaded_images:
+  Rodriguez_-_Alive_01.jpeg
+  Rodriguez_-_Alive_02.jpeg
+
+description:
+Recorded live at The Regent Theatre, Sydney, Australia, 17th & 18th March 1979. This album was originally released under Rodriguez authorization for just one year in Australia and New Zealand exclusively. It showcases Sisto's work at the height of his car
+tracklist:
+1. Can't Get Away
+2. Street Boy
+3. Like Janis
+4. I Think Of You
+5. I'll Slip Away
+6. A Most Disgusting Song
+7. Forget It
+8. Inner City Blues
+9. Half Way Up The Stairs
+10. To Whom It May Concern

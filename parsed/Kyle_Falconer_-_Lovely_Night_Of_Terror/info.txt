@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/kyle-falconer-lovely-night-of-terror-1366184
+Site: HHV
+artist: Kyle Falconer
+title: Lovely Night Of Terror
+label: Modern Sky - Run On
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 27.03.2026
+price: 29,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01366/1366184/1-kyle-falconer-lovely-night-of-terror.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01215/1215740/1-kyle-falconer-the-one-i-love-the-most-black-vinyl-edition.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01215/1215741/1-kyle-falconer-the-one-i-love-the-most-powder-blue-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00762/762227/1-touche-amore-lament.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00673/673792/1-indian-summer-giving-birth-to-thunder.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/00678/678123/1-silver-jews-tanglewood-numbers.webp
+downloaded_images:
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_01.jpeg
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_02.jpeg
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_03.jpeg
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_04.jpeg
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_05.jpeg
+  Kyle_Falconer_-_Lovely_Night_Of_Terror_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

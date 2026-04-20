@@ -1,0 +1,24 @@
+Source URL: https://www.hhv.de/en/records/item/v-a-the-sound-of-hardstyle-volume-3-1383506
+Site: HHV
+artist: V.A.
+title: The Sound Of Hardstyle Volume 3
+label: Be Yourself Music
+format: Vinyl LP
+genre: Electronic & Dance
+release_date: 15.05.2026
+price: 24,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01373/1373678/1-v-a-trance-life-vol-3.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01333/1333598/1-v-a-the-sound-of-hardstyle-volume-2.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01310/1310910/1-v-a-trance-life-volume-2.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01364/1364880/1-d-ort-an-artisan-s-exhibition.webp
+downloaded_images:
+  V.A._-_The_Sound_Of_Hardstyle_Volume_3_01.jpeg
+  V.A._-_The_Sound_Of_Hardstyle_Volume_3_02.jpeg
+  V.A._-_The_Sound_Of_Hardstyle_Volume_3_03.jpeg
+  V.A._-_The_Sound_Of_Hardstyle_Volume_3_04.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

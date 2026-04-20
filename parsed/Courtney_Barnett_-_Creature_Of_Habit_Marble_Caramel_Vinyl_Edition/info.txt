@@ -1,0 +1,33 @@
+Source URL: https://www.hhv.de/en/records/item/courtney-barnett-creature-of-habit-marble-caramel-vinyl-edition-1359760
+Site: HHV
+artist: Courtney Barnett
+title: Creature Of Habit Marble Caramel Vinyl Edition
+label: Fiction
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 29,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01359/1359760/1-courtney-barnett-creature-of-habit-marble-caramel-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01359/1359760/2-courtney-barnett-creature-of-habit-marble-caramel-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01359/1359760/3-courtney-barnett-creature-of-habit-marble-caramel-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01359/1359760/4-courtney-barnett-creature-of-habit-marble-caramel-vinyl-edition.webp
+downloaded_images:
+  Courtney_Barnett_-_Creature_Of_Habit_Marble_Caramel_Vinyl_Edition_01.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Marble_Caramel_Vinyl_Edition_02.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Marble_Caramel_Vinyl_Edition_03.jpeg
+  Courtney_Barnett_-_Creature_Of_Habit_Marble_Caramel_Vinyl_Edition_04.jpeg
+
+description:
+Courtney Barnett will announce her fourth studio album "Creature Of Habit" on Tue 20th Jan, alongside the release of a new single 'Site Unseen featuring Waxahatchee’. Released via Fiction Records for the World excl. the Americas. 'Site Unseen' follows the release of single 'Stay In Your Lane’ (A-listed at 6Music and performed on Fallon).
+tracklist:
+1. Stay In Your Lane
+2. Wonder
+3. Site Unseen Feat. Waxahatchee
+4. Mostly Patient
+5. One Thing At A Time
+6. Mantis
+7. Sugar Plum
+8. Same
+9. Great Advice
+10. Another Beautiful Day

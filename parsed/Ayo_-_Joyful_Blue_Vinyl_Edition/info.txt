@@ -1,0 +1,20 @@
+Source URL: https://www.hhv.de/en/records/item/ayo-joyful-blue-vinyl-edition-1383486
+Site: HHV
+artist: Ayo
+title: Joyful Blue Vinyl Edition
+label: Integral
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 17.04.2026
+price: 41,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01152/1152447/1-ayo-mami-wata.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01317/1317613/1-ayo-royal.webp
+downloaded_images:
+  Ayo_-_Joyful_Blue_Vinyl_Edition_01.jpeg
+  Ayo_-_Joyful_Blue_Vinyl_Edition_02.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

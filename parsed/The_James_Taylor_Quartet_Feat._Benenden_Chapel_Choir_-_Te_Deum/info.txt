@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/the-james-taylor-quartet-feat-benenden-chapel-choir-te-deum-1383498
+Site: HHV
+artist: The James Taylor Quartet Feat. Benenden Chapel Choir
+title: Te Deum
+label: Acid Jazz
+format: Vinyl LP
+genre: Organic Grooves, Jazz | Fusion
+release_date: 29.05.2026
+price: 31,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01383/1383498/1-the-james-taylor-quartet-feat-benenden-chapel-choir-te-deum.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01370/1370602/1-t-p-orchestre-poly-rythmo-west-african-beat-rare-7s-and-eps-from-benin-and-niger.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01348/1348083/1-steve-white-trio-soul-drums.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/01381/1381905/1-macho-millie-jackson-kenny-dope-magnus-frykberg-spring-revisited-vs-kenny-dope-the-45-remixes.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01369/1369411/2-patterson-twins-gonna-find-a-true-love-how-ong-must-the-show-go-on.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01290/1290211/1-millie-jackson-we-got-to-hit-it-off-dimitri-from-paris-liberated-woman-edit.webp
+downloaded_images:
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_01.jpeg
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_02.jpeg
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_03.jpeg
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_04.jpeg
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_05.jpeg
+  The_James_Taylor_Quartet_Feat._Benenden_Chapel_Choir_-_Te_Deum_06.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

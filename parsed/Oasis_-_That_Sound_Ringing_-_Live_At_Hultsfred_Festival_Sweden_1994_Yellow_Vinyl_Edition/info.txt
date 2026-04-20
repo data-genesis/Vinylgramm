@@ -1,0 +1,32 @@
+Source URL: https://www.hhv.de/en/records/item/oasis-that-sound-ringing-live-at-hultsfred-festival-sweden-1994-yellow-vinyl-edition-1368644
+Site: HHV
+artist: Oasis
+title: That Sound Ringing - Live At Hultsfred Festival Sweden 1994 Yellow Vinyl Edition
+label: Dear Boss
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 22,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368644/1-oasis-that-sound-ringing-live-at-hultsfred-festival-sweden-1994-yellow-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368644/2-oasis-that-sound-ringing-live-at-hultsfred-festival-sweden-1994-yellow-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01368/1368644/3-oasis-that-sound-ringing-live-at-hultsfred-festival-sweden-1994-yellow-vinyl-edition.webp
+downloaded_images:
+  Oasis_-_That_Sound_Ringing_-_Live_At_Hultsfred_Festival_Sweden_1994_Yellow_Vinyl_Edition_01.jpeg
+  Oasis_-_That_Sound_Ringing_-_Live_At_Hultsfred_Festival_Sweden_1994_Yellow_Vinyl_Edition_02.jpeg
+  Oasis_-_That_Sound_Ringing_-_Live_At_Hultsfred_Festival_Sweden_1994_Yellow_Vinyl_Edition_03.jpeg
+
+description:
+Like a meteor before the world noticed it was burning, Oasis stormed Hultsfred Festival in 1994 with raw swagger. It was the sound of Britpop still sharpening its teeth, loud, hungry, and unstoppable.
+tracklist:
+1. Columbia
+2. Shakermaker
+3. Fade Away
+4. Digsy's Dinner
+5. Live Forever
+6. Bring It On Down
+7. Up In The Sky
+8. Slide Away
+9. Cigarettes & Alcohol
+10. Supersonic
+11. I Am The Walrus

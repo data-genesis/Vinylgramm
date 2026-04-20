@@ -1,0 +1,26 @@
+Source URL: https://www.hhv.de/en/records/item/carcass-heartwork-rsd-essentials-edition-1383488
+Site: HHV
+artist: Carcass
+title: Heartwork RSD Essentials Edition
+label: Earache
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: 17.04.2026
+price: 29,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01309/1309544/1-carcass-symphonies-of-sickness-phd-exclusive-white-vinyl-edition.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/01309/1309540/1-carcass-reek-of-putrefaction-phd-exclusive-white-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01226/1226706/2-carcass-necroticism-descanting-the-insalubrious-record-store-day-2025-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00787/787566/1-carcass-reek-of-putrefaction-fdr-remaster.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00775/775626/1-carcass-swansong-fdr-remaster.webp
+downloaded_images:
+  Carcass_-_Heartwork_RSD_Essentials_Edition_01.jpeg
+  Carcass_-_Heartwork_RSD_Essentials_Edition_02.jpeg
+  Carcass_-_Heartwork_RSD_Essentials_Edition_03.jpeg
+  Carcass_-_Heartwork_RSD_Essentials_Edition_04.jpeg
+  Carcass_-_Heartwork_RSD_Essentials_Edition_05.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

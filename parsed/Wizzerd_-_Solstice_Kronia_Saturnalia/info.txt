@@ -1,0 +1,25 @@
+Source URL: https://www.hhv.de/en/records/item/wizzerd-solstice-kronia-saturnalia-1377319
+Site: HHV
+artist: Wizzerd
+title: Solstice Kronia Saturnalia
+label: Fuzzorama
+format: Vinyl LP
+genre: Rock & Indie, Indierock | Alternative
+release_date: Уже в продаже
+price: 26,99 €
+image_urls:
+  https://a3.cdn.hhv.de/items/images/generated/970x970/01377/1377319/1-wizzerd-solstice-kronia-saturnalia.webp
+downloaded_images:
+  Wizzerd_-_Solstice_Kronia_Saturnalia.jpeg
+
+description:
+Although the members were good friends and musical allies for years beforehand, Wizzerd was officially formed in October 2014. Forged from countless hours of jamming in a northwestern Montana basement was a sound that Wizzerd could latch onto as their own. They soon penned and recorded their first album, 'Doomchild', and since then have been challenging themselves to grow in every way possible while remaining independently managed and produced. Since the release of 'Doomchild', they have written mounds of material and released some of it in the form of their self titled LP on Cursed Tongue Records, and some in the form of a split in the 'Turned to Stone' series on Ripple Music. In 2021, Wizzerd signed to Fuzzorama Records to put out the third in this musical trilogy: Space?: Issue No.001, released September 30th 2022. However, perhaps the way the band has grown most is on the road. Since 2017, Wizzerd has toured extensively across the US and Europe, covering as much ground as possible and even touring alongside such bands as Truckfighters, 1000mods, Stöner, and Kal-El. All of this time in the van and on the stage has led to a tightness that is not often harnessed by many young acts. This tightness combined with the ideals of never staying stagnant is showcased in two records, Kronia and Saturnalia, released on Fuzzorama Records in 2024.
+tracklist:
+1. VERA MONTE
+2. RIDE THE LIE
+3. DIRE WOLF
+4. DIONYSIA
+5. SISTERE
+6. DIRT NAP
+7. HEL
+8. SOCIAL BUTTERFLY EFFECT

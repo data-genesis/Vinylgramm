@@ -1,0 +1,28 @@
+Source URL: https://www.hhv.de/en/records/item/janne-schra-work-out-1379312
+Site: HHV
+artist: Janne Schra
+title: Work Out
+label: At Ease
+format: Vinyl LP
+genre: Pop
+release_date: Уже в продаже
+price: 26,99 €
+image_urls:
+  https://a0.cdn.hhv.de/items/images/generated/970x970/01379/1379312/1-janne-schra-work-out.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00562/562890/1-solid-space-space-museum.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00358/358588/1-london-grammar-if-you-wait.webp
+  https://a1.cdn.hhv.de/items/images/generated/235x235/00773/773297/2-aaron-frazer-introducing-black-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/00663/663182/1-gorillaz-the-fall.webp
+  https://a0.cdn.hhv.de/items/images/generated/235x235/00235/235764/1-the-b-52-s-b-52-s-numbered-limited-edition.webp
+downloaded_images:
+  Janne_Schra_-_Work_Out_01.jpeg
+  Janne_Schra_-_Work_Out_02.jpeg
+  Janne_Schra_-_Work_Out_03.jpeg
+  Janne_Schra_-_Work_Out_04.jpeg
+  Janne_Schra_-_Work_Out_05.jpeg
+  Janne_Schra_-_Work_Out_06.jpeg
+
+description:
+Work Out by Janne Schra, released 13 March 2026. This version of Work Out comes as a 1xLP.
+tracklist:
+Нет треклиста

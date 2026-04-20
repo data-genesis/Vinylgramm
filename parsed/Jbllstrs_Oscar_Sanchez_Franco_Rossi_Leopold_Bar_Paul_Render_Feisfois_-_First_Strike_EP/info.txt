@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/jbllstrs-oscar-sanchez-franco-rossi-leopold-bar-paul-render-feisfois-first-strike-ep-1380421
+Site: HHV
+artist: Jbllstrs / Oscar Sanchez / Franco Rossi / Leopold Bar / Paul Render / Feisfois
+title: First Strike EP
+label: Dzb Advance
+format: Vinyl 12"
+genre: Electronic & Dance
+release_date: 10.04.2026
+price: 16,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01380/1380421/1-jbllstrs-oscar-sanchez-franco-rossi-leopold-bar-paul-render-feisfois-first-strike-ep.webp
+downloaded_images:
+  Jbllstrs_Oscar_Sanchez_Franco_Rossi_Leopold_Bar_Paul_Render_Feisfois_-_First_Strike_EP.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Past Dancing
+2. Connessione
+3. Faraute
+4. The Green Lemons
+5. Invasion

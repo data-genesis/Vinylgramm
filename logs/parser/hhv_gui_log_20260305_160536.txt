@@ -1,0 +1,10 @@
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 282 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...

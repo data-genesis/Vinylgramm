@@ -1,0 +1,22 @@
+Source URL: https://www.hhv.de/en/records/item/black-label-society-engines-of-demolition-orange-vinyl-edition-1357654
+Site: HHV
+artist: Black Label Society
+title: Engines Of Demolition Orange Vinyl Edition
+label: Spinefarm
+format: Vinyl 2LP
+genre: Rock & Indie, Metal
+release_date: 27.03.2026
+price: 35,99 €
+image_urls:
+  https://a2.cdn.hhv.de/items/images/generated/970x970/01357/1357654/1-black-label-society-engines-of-demolition-orange-vinyl-edition.webp
+  https://a2.cdn.hhv.de/items/images/generated/235x235/01357/1357658/2-black-label-society-engines-of-demolition-marbled-vinyl-edition.webp
+  https://a3.cdn.hhv.de/items/images/generated/235x235/01364/1364483/1-dimmu-borgir-death-cult-armageddon-seaglass-bw-splatter-vinyl-edition.webp
+downloaded_images:
+  Black_Label_Society_-_Engines_Of_Demolition_Orange_Vinyl_Edition_01.jpeg
+  Black_Label_Society_-_Engines_Of_Demolition_Orange_Vinyl_Edition_02.jpeg
+  Black_Label_Society_-_Engines_Of_Demolition_Orange_Vinyl_Edition_03.jpeg
+
+description:
+Нет описания
+tracklist:
+Нет треклиста

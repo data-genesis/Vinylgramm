@@ -1,0 +1,25 @@
+Source URL: https://www.hhv.de/en/records/item/hellshock-xxv-1311869
+Site: HHV
+artist: Hellshock
+title: Xxv
+label: Agipunk
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: Уже в продаже
+price: 16,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01311/1311869/1-hellshock-xxv.webp
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01311/1311869/2-hellshock-xxv.webp
+downloaded_images:
+  Hellshock_-_Xxv_01.jpeg
+  Hellshock_-_Xxv_02.jpeg
+
+description:
+5 years in and Hellshock still have a lot to say and their sound is getting darker and heavier than ever. XXV dives deep into bleak, metallic stenchcore territory, blending their trademark crust foundation with Bolt Thrower-style riffing, somber melodies,
+tracklist:
+1. Breathe
+2. Automaton
+3. Dead Hands
+4. The Hero Returns
+5. Oblivion
+6. Complete Outsider

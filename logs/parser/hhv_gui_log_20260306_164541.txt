@@ -1,0 +1,228 @@
+
+============================================================
+🚀 НАЧИНАЕМ ПАРСИТЬ...
+============================================================
+
+
+📋 Found 8 URLs to parse
+Setting up browser driver for HHV...
+  🔇 Headless mode: ON (фоновый режим)
+⚠️ Local ChromeDriver not found. Using webdriver-manager...
+✅ РАБОТАЕМ С HHV.
+
+============================================================
+Processing [1/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-limited-zoetrope-vinyl-edition-1358639?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 14 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary Limited Zoetrope Vinyl Edition
+  ✅ Price: 27,99 €
+  📅 Preorder date: shipping from 2026-05-08
+  ✅ Release date: 08.05.2026
+  📄 Description: 1057 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01358/1358639/1-castle-rat-the-bestiary-limited-zoetrope-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary Limited Zoetrope Vinyl Edition
+   Price: 27,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary_Limited_Zoetrope_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_Limited_Zoetrope_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Bestiary Limited Zoetrope Vinyl Edition
+
+============================================================
+Processing [2/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition-1353139?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 15 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary Phoenix II Red Black White Merged Vinyl Edition
+  ✅ Price: 25,99 €
+  📅 No preorder - available now
+  📄 Description: 260 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/2-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/3-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01353/1353139/4-castle-rat-the-bestiary-phoenix-ii-red-black-white-merged-vinyl-edition.webp
+
+📊 Total images found: 3
+🖼 3 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary Phoenix II Red Black White Merged Vinyl Edition
+   Price: 25,99 €
+📥 Downloading 3 image(s)...
+  ✅ [1/3] Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_01.jpeg
+  ✅ [2/3] Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_02.jpeg
+  ✅ [3/3] Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition_03.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_Phoenix_II_Red_Black_White_Merged_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Bestiary Phoenix II Red Black White Merged Vinyl Edition
+
+============================================================
+Processing [3/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-picture-disc-edition-1371721?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 13 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary Picture Disc Edition
+  ✅ Price: 35,99 €
+  📅 Preorder date: shipping from 2026-04-17
+  ✅ Release date: 17.04.2026
+  📄 Description: 1789 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371721/1-castle-rat-the-bestiary-picture-disc-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary Picture Disc Edition
+   Price: 35,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary_Picture_Disc_Edition.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_Picture_Disc_Edition/info.txt
+🎉 Successfully parsed: The Bestiary Picture Disc Edition
+
+============================================================
+Processing [4/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-indie-exclusive-vinyl-edition-1371789?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 14 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary Indie Exclusive Vinyl Edition
+  ✅ Price: 32,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 554 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371789/1-castle-rat-the-bestiary-indie-exclusive-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary Indie Exclusive Vinyl Edition
+   Price: 32,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary_Indie_Exclusive_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_Indie_Exclusive_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Bestiary Indie Exclusive Vinyl Edition
+
+============================================================
+Processing [5/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-white-vinyl-edition-1358428?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 13 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary White Vinyl Edition
+  ✅ Price: 33,99 €
+  📅 Preorder date: shipping from 2026-03-06
+  ✅ Release date: 06.03.2026
+  📄 Description: 280 chars
+  🖼 Extra image: https://a0.cdn.hhv.de/items/images/generated/970x970/01358/1358428/1-castle-rat-the-bestiary-white-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary White Vinyl Edition
+   Price: 33,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary_White_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary_White_Vinyl_Edition/info.txt
+🎉 Successfully parsed: The Bestiary White Vinyl Edition
+
+============================================================
+Processing [6/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-bestiary-colored-vinyl-edition-1371745?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 13 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: Bestiary Colored Vinyl Edition
+  ✅ Price: 30,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 340 chars
+  🖼 Extra image: https://a1.cdn.hhv.de/items/images/generated/970x970/01371/1371745/1-castle-rat-bestiary-colored-vinyl-edition.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: Bestiary Colored Vinyl Edition
+   Price: 30,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_Bestiary_Colored_Vinyl_Edition.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_Bestiary_Colored_Vinyl_Edition/info.txt
+🎉 Successfully parsed: Bestiary Colored Vinyl Edition
+
+============================================================
+Processing [7/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-1371787?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 14 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary
+  ✅ Price: 18,99 €
+  📅 Preorder date: shipping from 2026-04-10
+  ✅ Release date: 10.04.2026
+  📄 Description: 492 chars
+  🖼 Extra image: https://a3.cdn.hhv.de/items/images/generated/970x970/01371/1371787/1-castle-rat-the-bestiary.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary
+   Price: 18,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary/info.txt
+🎉 Successfully parsed: The Bestiary
+
+============================================================
+Processing [8/8]
+
+🔍 Parsing: https://www.hhv.de/en/records/item/castle-rat-the-bestiary-1276846?pquid=a-77220eb3536da2d6210cb30af6ebedff
+📊 Found 15 rows
+  ✅ Artist: Castle Rat
+  ✅ Title: The Bestiary
+  ✅ Price: 14,99 €
+  📅 No preorder - available now
+  🖼 Extra image: https://a2.cdn.hhv.de/items/images/generated/970x970/01276/1276846/1-castle-rat-the-bestiary.webp
+
+📊 Total images found: 1
+🖼 1 image(s)
+🎵 Tracklist: 13 tracks
+
+📦 Result:
+   Artist: Castle Rat
+   Title: The Bestiary
+   Price: 14,99 €
+📥 Downloading 1 image(s)...
+  ✅ [1/1] Castle_Rat_-_The_Bestiary.jpeg
+✅ info.txt saved: parsed/Castle_Rat_-_The_Bestiary/info.txt
+🎉 Successfully parsed: The Bestiary
+
+🔚 Browser closed
+
+============================================================
+✅ Parsing complete: 8/8 successful
+
+============================================================
+✅ ПАРСИНГ ГОТОВ
+============================================================
+

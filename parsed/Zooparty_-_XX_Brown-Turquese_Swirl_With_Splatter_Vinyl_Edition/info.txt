@@ -1,0 +1,30 @@
+Source URL: https://www.hhv.de/en/records/item/zooparty-xx-brown-turquese-swirl-with-splatter-vinyl-edition-1363557
+Site: HHV
+artist: Zooparty
+title: XX Brown-Turquese Swirl With Splatter Vinyl Edition
+label: Sunny Bastards
+format: Vinyl LP
+genre: Rock & Indie, Punk | Hardcore
+release_date: Уже в продаже
+price: 24,99 €
+image_urls:
+  https://a1.cdn.hhv.de/items/images/generated/970x970/01363/1363557/1-zooparty-xx-brown-turquese-swirl-with-splatter-vinyl-edition.webp
+downloaded_images:
+  Zooparty_-_XX_Brown-Turquese_Swirl_With_Splatter_Vinyl_Edition.jpeg
+
+description:
+Нет описания
+tracklist:
+1. Total Tantrum
+2. An Eye For An Eye
+3. Under My Skin
+4. I Miss Me
+5. Power Play
+6. Bulls Eye
+7. Kir
+8. Stop It Now
+9. Never Say Die
+10. Frontline
+11. Devils Twin
+12. Up To You
+13. Busy Making Difference
