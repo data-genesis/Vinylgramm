@@ -9,7 +9,7 @@ from typing import Dict, List
 from datetime import datetime
 from bs4 import BeautifulSoup
 from pathlib import Path
-from playwright.sync_api import Page
+from playwright.sync_api import Page, TimeoutError as PlaywrightTimeoutError
 from .base_parser import BaseParser
 
 class HHVParser(BaseParser):
@@ -41,12 +41,13 @@ class HHVParser(BaseParser):
         
         product_urls = []
         try:
-            page.goto(category_url)
+            page.goto(category_url, wait_until="domcontentloaded", timeout=30000)
             self.handle_cookies(page)
             
             self.logger.info("Waiting for initial page load...")
             print("⏳ Waiting for initial page load...")
-            time.sleep(3)
+            page.wait_for_load_state("networkidle", timeout=30000)
+            time.sleep(2)
             
             current_page = 1
             max_pages = 20
@@ -54,7 +55,7 @@ class HHVParser(BaseParser):
             while len(product_urls) < max_products and current_page <= max_pages:
                 print(f"\n📄 Страница {current_page}")
                 
-                # === ПОСТЕПЕННАЯ ПРОКРУТКА (как в bsr.py, но с проверкой новых элементов) ===
+                # === ПОСТЕПЕННАЯ ПРОКРУТКА (с проверкой новых элементов) ===
                 scroll_step = 400  # Маленький шаг для плавной загрузки
                 pause = 0.8  # Пауза после каждого скролла
                 max_stagnant = 3  # Сколько раз подряд нет новых элементов before stop
@@ -64,12 +65,12 @@ class HHVParser(BaseParser):
                 while len(product_urls) < max_products:
                     previous_count = len(product_urls)
                     
-                    # 1. Делаем небольшой скролл вниз
-                    driver.execute_script(f"window.scrollBy(0, {scroll_step});")
+                    # 1. Делаем небольшой скролл вниз через Playwright
+                    page.evaluate(f"window.scrollBy(0, {scroll_step});")
                     time.sleep(pause)
                     
                     # 2. Проверяем позицию скролла
-                    y = driver.execute_script("return window.pageYOffset || document.documentElement.scrollTop;")
+                    y = page.evaluate("return window.pageYOffset || document.documentElement.scrollTop;")
                     if y == last_y:
                         stagnant_count += 1
                     else:
@@ -77,12 +78,12 @@ class HHVParser(BaseParser):
                         last_y = y
                     
                     # 3. Проверяем, достигли ли низа страницы
-                    at_bottom = driver.execute_script(
+                    at_bottom = page.evaluate(
                         "return (window.innerHeight + window.pageYOffset) >= (document.body.scrollHeight - 5);"
                     )
                     
                     # 4. Парсим ссылки после каждого скролла
-                    soup = BeautifulSoup(driver.page_source, 'html.parser')
+                    soup = BeautifulSoup(page.content(), 'html.parser')
                     links = soup.select('a[href*="/records/item/"], a[href*="/records/artikel/"]')
                     
                     for link in links:
@@ -106,14 +107,18 @@ class HHVParser(BaseParser):
                     # 6. Пробуем нажать 'Load More' если есть
                     if new_links == 0:
                         try:
-                            load_more = driver.find_elements(By.CSS_SELECTOR, "button.load-more, a.load-more")
-                            if load_more and load_more[0].is_displayed():
-                                load_more[0].click()
-                                print("  🖱️ Clicked Load More")
-                                time.sleep(1)
-                                stagnant_count = 0
-                                continue
-                        except:
+                            load_more = page.query_selector_all("button.load-more, a.load-more")
+                            if load_more and len(load_more) > 0:
+                                # Проверяем видимость элемента
+                                is_visible = page.evaluate("el => el.checkVisibility()", load_more[0])
+                                if is_visible:
+                                    load_more[0].click()
+                                    print("  🖱️ Clicked Load More")
+                                    time.sleep(1)
+                                    stagnant_count = 0
+                                    continue
+                        except Exception as e:
+                            self.logger.debug(f"Load More button error: {e}")
                             pass
                     
                     # 7. Условия выхода из цикла скролла
@@ -133,20 +138,22 @@ class HHVParser(BaseParser):
                 if len(product_urls) < max_products and current_page < max_pages:
                     print("🔎 Ищем кнопку следующей страницы...")
                     try:
-                        next_btn = driver.find_elements(By.CSS_SELECTOR, "a[rel='next'], a[class*='next'], a[class*='Next']")
+                        next_btn = page.query_selector_all("a[rel='next'], a[class*='next'], a[class*='Next']")
                         if not next_btn:
-                            next_btn = driver.find_elements(By.CSS_SELECTOR, f"a[href*='p:{current_page + 1}'], a[href*='page={current_page + 1}']")
+                            next_btn = page.query_selector_all(f"a[href*='p:{current_page + 1}'], a[href*='page={current_page + 1}']")
                         
-                        if next_btn:
+                        if next_btn and len(next_btn) > 0:
                             next_url = next_btn[0].get_attribute('href')
                             print(f"➡️ Переход на следующую страницу: {next_url}")
-                            driver.get(next_url)
-                            time.sleep(4)
+                            page.goto(next_url, wait_until="domcontentloaded", timeout=30000)
+                            page.wait_for_load_state("networkidle", timeout=30000)
+                            time.sleep(2)
                             current_page += 1
                         else:
                             print(f"🏁 Следующая страница не найдена. Парсинг завершен.")
                             break
                     except Exception as e:
+                        self.logger.warning(f"Error transitioning to next page: {e}")
                         print(f"⚠️ Ошибка перехода: {e}")
                         break
                 else:
@@ -157,37 +164,40 @@ class HHVParser(BaseParser):
             for i, url in enumerate(product_urls[:5], 1):
                 print(f"  [{i}] {url}")
         
+        except PlaywrightTimeoutError as e:
+            self.critical_logger.error(f"Playwright timeout while collecting URLs: {e}", exc_info=True)
+            print(f"❌ Timeout error collecting URLs: {e}")
         except Exception as e:
+            self.critical_logger.error(f"Unexpected error collecting URLs: {e}", exc_info=True)
             print(f"❌ Error collecting URLs: {e}")
             import traceback
             traceback.print_exc()
         
         finally:
             try:
-                driver.quit()
-            except:
-                pass
+                self.close_browser()
+            except Exception as e:
+                self.logger.warning(f"Error closing browser: {e}")
         
         result = product_urls[:max_products]
         print(f"\n✅ Total collected: {len(result)} product URLs")
         return result
 
-    def parse_product_page(self, driver, url: str) -> Dict:
+    def parse_product_page(self, page: Page, url: str) -> Dict:
         """Парсинг страницы товара HHV.de"""
         print(f"\n🔍 Parsing: {url}")
-        driver.get(url)
+        page.goto(url, wait_until="domcontentloaded", timeout=30000)
         # Убран вызов обработки cookies
         
         try:
-            WebDriverWait(driver, 20).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-highlight-name="Items::Detail::Flap::Table"] table'))
-            )
+            page.wait_for_selector('div[data-highlight-name="Items::Detail::Flap::Table"] table', timeout=20000)
             time.sleep(1)
         except Exception as e:
+            self.logger.warning(f"Failed to load product page: {e}")
             print(f"❌ Failed to load product page: {e}")
             return {}
         
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        soup = BeautifulSoup(page.content(), 'html.parser')
         product_data = {}
         
         # Словарь перевода немецких полей → английские
@@ -471,9 +481,9 @@ class HHVParser(BaseParser):
         print(f"\n📋 Found {len(urls)} URLs to parse")
         results = []
         
-        self.driver = self.setup_driver(headless=self.headless)
-        if not self.driver:
-            print("❌ Failed to setup driver")
+        page = self.setup_browser(headless=self.headless)
+        if not page:
+            self.logger.error("Failed to setup browser"); print("❌ Failed to setup browser")
             return []
         
         try:
@@ -481,7 +491,7 @@ class HHVParser(BaseParser):
                 print(f"\n{'='*60}")
                 print(f"Processing [{i}/{len(urls)}]")
                 try:
-                    product_data = self.parse_product_page(self.driver, url)
+                    product_data = self.parse_product_page(page,  url)
                     if product_data:
                         artist = product_data.get('artist', 'Unknown')
                         title = product_data.get('title', 'Untitled')
@@ -503,8 +513,8 @@ class HHVParser(BaseParser):
                                 # Имя файла изображения
                                 img_name = f"{safe_title}" if len(image_urls) == 1 else f"{safe_title}_{idx:02d}"
                                 # Скачиваем в папку товара
-                                success = self.download_image_with_selenium(
-                                    self.driver, img_url, str(product_folder), img_name
+                                success = self.download_image(
+                                    page,  img_url, str(product_folder), img_name
                                 )
                                 if success:
                                     downloaded.append(f"{img_name}.jpeg")
@@ -527,12 +537,11 @@ class HHVParser(BaseParser):
                 # Задержка между запросами
                 time.sleep(1)
         finally:
-            if self.driver:
-                try:
-                    self.driver.quit()
-                    print("\n🔚 Browser closed")
-                except:
-                    pass
+            try:
+                self.close_browser()
+                print("\n🔚 Browser closed")
+            except Exception as e:
+                self.logger.warning(f"Error closing browser: {e}")
         
         print(f"\n{'='*60}")
         print(f"✅ Parsing complete: {len(results)}/{len(urls)} successful")
@@ -547,15 +556,17 @@ class HHVParser(BaseParser):
         import datetime
         
         if not os.path.exists(csv_file):
+            self.logger.error(f"CSV file not found: {csv_file}")
             print(f"❌ CSV файл не найден: {csv_file}")
             return ""
         
         output_file = f"sold_out_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
         sold_out_items = []
         
-        driver = self.setup_driver(headless=self.headless)
-        if not driver:
-            print("❌ Failed to setup driver")
+        page = self.setup_browser(headless=self.headless)
+        if not page:
+            self.logger.error("Failed to setup browser")
+            print("❌ Failed to setup browser")
             return ""
         
         print("\n" + "="*60)
@@ -586,11 +597,11 @@ class HHVParser(BaseParser):
                 
                 print(f"[{idx}/{len(rows)}] Проверяю: {product_name[:50]}...")
                 try:
-                    driver.get(source_url)
+                    page.goto(source_url, wait_until="domcontentloaded", timeout=30000)
                     # Убран вызов обработки cookies
                     
                     time.sleep(1)
-                    soup = BeautifulSoup(driver.page_source, 'html.parser')
+                    soup = BeautifulSoup(page.content(), 'html.parser')
                     
                     # Ищем селектор Sold Out
                     sold_out_div = soup.select_one('div[data-highlight-name="Items::Detail::Availability"].sold_out')
@@ -636,13 +647,14 @@ class HHVParser(BaseParser):
                     f.write("Все товары в наличии!\n")
         
         except Exception as e:
+            self.critical_logger.error(f"Error processing CSV: {e}", exc_info=True)
             print(f"❌ Ошибка обработки CSV: {e}")
             import traceback
             traceback.print_exc()
         finally:
             try:
-                driver.quit()
-            except:
-                pass
+                self.close_browser()
+            except Exception as e:
+                self.logger.warning(f"Error closing browser: {e}")
         
         return output_file

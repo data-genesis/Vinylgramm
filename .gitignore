@@ -1,43 +1,40 @@
 ```
-# Python
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Dependencies
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
-env/
 venv/
 .venv/
-.ENV
-.ENV.local
-.env
-.env.local
-.env.*
-.python-version
-
-# Build artifacts
-build/
-dist/
-*.egg-info/
+.env/
+pip-log.txt
+pip-selfcheck.json
 
 # Testing
 .coverage
 coverage/
 htmlcov/
 .pytest_cache/
-.mypy_cache/
+.hypothesis/
 
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Editors
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *.tmp
+
+# OS
+.DS_Store
+Thumbs.db
 ```
