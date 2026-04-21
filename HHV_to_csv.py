@@ -4,6 +4,16 @@ import json
 import re
 from pathlib import Path
 import math
+import logging
+
+# Настройка логгера для HHV_to_csv.py
+logger = logging.getLogger("HHV_to_csv")
+if not logger.handlers:
+    logger.setLevel(logging.INFO)
+    handler = logging.StreamHandler()
+    formatter = logging.Formatter('%(asctime)s | %(levelname)-8s | %(message)s')
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
 
 CONFIG_FILE = "config_price.json"
 PARSED_FOLDER = "parsed"
@@ -50,6 +60,11 @@ def calculate_price(price_eur: float):
     5. Округление до round_to_last
     """
     if price_eur is None:
+        return None
+    
+    # Логирование нулевой или отрицательной цены
+    if price_eur <= 0:
+        logger.warning(f"У товара нет цены (price_eur={price_eur})")
         return None
     
     import random
@@ -200,8 +215,19 @@ def process_genres(genre_str: str, genre_map: dict):
     return ", ".join(result_parts)
 
 
-def generate_csv():
-    """Генерация CSV файла"""
+def generate_csv(products=None, output_file=None):
+    """Генерация CSV файла
+    
+    Args:
+        products: Список словарей с данными товаров (опционально)
+        output_file: Путь к выходному файлу (опционально)
+    
+    Если продукты не переданы, читает из папки parsed/
+    """
+    # Если продукты переданы напрямую - используем их
+    if products is not None:
+        return _generate_csv_from_products(products, output_file or OUTPUT_CSV)
+    
     # Загрузка маппинга жанров
     try:
         genre_map = load_genre_mapping(GENRE_MAPPING_FILE)
@@ -369,13 +395,168 @@ def generate_csv():
         print(f"✅ {product_name} → {final_price} RUB")
     
     # Запись в CSV
-    with open(OUTPUT_CSV, 'w', encoding='utf-8-sig', newline='') as f:
+    output_path = output_file or OUTPUT_CSV
+    with open(output_path, 'w', encoding='utf-8-sig', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=headers)
         writer.writeheader()
         writer.writerows(rows)
     
-    print(f"\n🎉 CSV создан: {OUTPUT_CSV}")
+    print(f"\n🎉 CSV создан: {output_path}")
     print(f"📊 Товаров: {len(rows)}")
+    return output_path
+
+
+def _generate_csv_from_products(products, output_file):
+    """Внутренняя функция для генерации CSV из списка продуктов"""
+    if not products:
+        logger.warning("Пустой список продуктов для CSV")
+        return None
+    
+    # Загрузка маппинга жанров
+    try:
+        genre_map = load_genre_mapping(GENRE_MAPPING_FILE)
+    except Exception as e:
+        logger.warning(f"Ошибка загрузки {GENRE_MAPPING_FILE}: {e}")
+        genre_map = {}
+    
+    # Заголовки CSV
+    headers = [
+    "ID", "Тип", "Артикул", "GTIN, UPC, EAN или ISBN", "Имя", "Опубликован",
+    "Рекомендуемый?", "Видимость в каталоге", "Краткое описание", "Описание",
+    "Дата начала действия скидки", "Дата окончания действия скидки",
+    "Статус налога", "Налоговый класс", "Наличие", "Запасы", "Величина малых запасов",
+    "Возможен ли предзаказ?", "Продано индивидуально?", "Вес (г)", "Длина (см)",
+    "Ширина (см)", "Высота (см)", "Разрешить отзывы от клиентов?",
+    "Примечание к покупке", "Акционная цена", "Базовая цена", "Категории",
+    "Метки", "Класс доставки", "Изображения", "Лимит скачивания",
+    "Дней срока скачивания", "Родительский", "Сгруппированные товары",
+    "Апсэлы", "Кросселы", "Внешний URL", "Текст кнопки", "Позиция", "Бренды",
+    "Название атрибута 1", "Значения атрибутов 1", "Видимость атрибута 1",
+    "Глобальный атрибут 1", "Название атрибута 2", "Значения атрибутов 2",
+    "Видимость атрибута 2", "Глобальный атрибут 2", "Название атрибута 3",
+    "Значения атрибутов 3", "Видимость атрибута 3", "Глобальный атрибут 3",
+    "Название атрибута 4", "Значения атрибутов 4", "Видимость атрибута 4",
+    "Глобальный атрибут 4", "Название атрибута 5", "Значения атрибутов 5",
+    "Видимость атрибута 5", "Глобальный атрибут 5", "Название атрибута 6",
+    "Значения атрибутов 6", "Видимость атрибута 6", "Глобальный атрибут 6",
+    "Название атрибута 7", "Значения атрибутов 7", "Видимость атрибута 7",
+    "Глобальный атрибут 7", "Название атрибута 8", "Значения атрибутов 8",
+    "Видимость атрибута 8", "Глобальный атрибут 8",
+    ]
+    
+    rows = []
+    
+    for product in products:
+        artist = product.get('artist', 'Unknown')
+        title = product.get('title', 'Untitled')
+        price_str = product.get('price', '')
+        label = product.get('label', '')
+        format_info = product.get('format', '')
+        release_date = product.get('release_date', 'Уже в продаже')
+        genre = product.get('genre', '')
+        description = product.get('description', '')
+        tracklist = product.get('tracklist', '')
+        image_urls = product.get('image_urls', [])
+        
+        product_name = f"{artist} - {title}"
+        
+        # Расчет цены
+        price_eur = parse_price_eur(price_str)
+        final_price = calculate_price(price_eur) if price_eur else ""
+        
+        # Обработка категорий
+        categories = process_genres(genre, genre_map)
+        
+        # Изображения
+        images_csv = ", ".join(image_urls) if isinstance(image_urls, list) else str(image_urls)
+        
+        row = {
+            "ID": "",
+            "Тип": "simple",
+            "Артикул": "",
+            "GTIN, UPC, EAN или ISBN": "",
+            "Имя": product_name,
+            "Опубликован": "1",
+            "Рекомендуемый?": "0",
+            "Видимость в каталоге": "visible",
+            "Краткое описание": "",
+            "Описание": description,
+            "Дата начала действия скидки": "",
+            "Дата окончания действия скидки": "",
+            "Статус налога": "taxable",
+            "Налоговый класс": "",
+            "Наличие": "backorder",
+            "Запасы": "",
+            "Величина малых запасов": "",
+            "Возможен ли предзаказ?": "0",
+            "Продано индивидуально?": "0",
+            "Вес (г)": "",
+            "Длина (см)": "",
+            "Ширина (см)": "",
+            "Высота (см)": "",
+            "Разрешить отзывы от клиентов?": "0",
+            "Примечание к покупке": "",
+            "Акционная цена": "",
+            "Базовая цена": final_price,
+            "Категории": categories,
+            "Метки": "",
+            "Класс доставки": "",
+            "Изображения": images_csv,
+            "Лимит скачивания": "",
+            "Дней срока скачивания": "",
+            "Родительский": "",
+            "Сгруппированные товары": "",
+            "Апсэлы": "",
+            "Кросселы": "",
+            "Внешний URL": "",
+            "Текст кнопки": "",
+            "Позиция": "0",
+            "Бренды": label,
+            "Название атрибута 1": "Формат",
+            "Значения атрибутов 1": format_info,
+            "Видимость атрибута 1": "1",
+            "Глобальный атрибут 1": "0",
+            "Название атрибута 2": "Лейбл",
+            "Значения атрибутов 2": label,
+            "Видимость атрибута 2": "1",
+            "Глобальный атрибут 2": "0",
+            "Название атрибута 3": "Дата релиза",
+            "Значения атрибутов 3": release_date,
+            "Видимость атрибута 3": "1",
+            "Глобальный атрибут 3": "0",
+            "Название атрибута 4": "Жанр",
+            "Значения атрибутов 4": genre,
+            "Видимость атрибута 4": "1",
+            "Глобальный атрибут 4": "0",
+            "Название атрибута 5": "Описание",
+            "Значения атрибутов 5": description.replace('\n', '<br>'),
+            "Видимость атрибута 5": "0",
+            "Глобальный атрибут 5": "0",
+            "Название атрибута 6": "Треклист",
+            "Значения атрибутов 6": tracklist.replace('\n', '<br>') if tracklist else "Нет треклиста",
+            "Видимость атрибута 6": "0",
+            "Глобальный атрибут 6": "0",
+            "Название атрибута 7": "Ссылка на товар",
+            "Значения атрибутов 7": product.get('source_url', ''),
+            "Видимость атрибута 7": "0",
+            "Глобальный атрибут 7": "0",
+            "Название атрибута 8": "Цена на сайте",
+            "Значения атрибутов 8": price_str,
+            "Видимость атрибута 8": "0",
+            "Глобальный атрибут 8": "0",
+        }
+        
+        rows.append(row)
+        logger.info(f"{product_name} → {final_price} RUB")
+    
+    # Запись в CSV
+    with open(output_file, 'w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=headers)
+        writer.writeheader()
+        writer.writerows(rows)
+    
+    logger.info(f"CSV создан: {output_file}, товаров: {len(rows)}")
+    return output_file
 
 
 if __name__ == "__main__":

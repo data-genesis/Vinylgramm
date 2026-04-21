@@ -32,7 +32,7 @@ class TestPriceCalculation:
         """Базовый расчёт финальной цены"""
         # Цена 33.99 EUR с наценкой
         result = calculate_price(33.99)
-        assert isinstance(result, float)
+        assert isinstance(result, int)  # Теперь возвращаем int
         assert result > 33.99  # Цена должна быть выше из-за наценки
     
     def test_calculate_price_edge_cases(self):
@@ -40,9 +40,9 @@ class TestPriceCalculation:
         # None цена
         assert calculate_price(None) is None
         
-        # Нулевая цена
+        # Нулевая цена - должна возвращать None и логировать предупреждение
         result_zero = calculate_price(0)
-        assert result_zero is None or result_zero == 0
+        assert result_zero is None
         
         # Отрицательная цена (должна возвращать None)
         assert calculate_price(-10) is None
@@ -64,36 +64,36 @@ class TestGenreMapping:
     
     def test_load_genre_mapping(self):
         """Загрузка файла маппинга жанров"""
-        parser = HHVParser()
+        from HHV_to_csv import load_genre_mapping
         
-        mapping = parser.load_genre_mapping()
+        mapping = load_genre_mapping('genre.md')
         assert isinstance(mapping, dict)
         assert len(mapping) > 0
     
     def test_find_genre_match(self):
         """Поиск соответствия жанра"""
-        parser = HHVParser()
+        from HHV_to_csv import find_genre_match
         
         # Точное совпадение
-        result = parser.find_genre_match('Techno', {'techno': ['Electronic']})
+        result = find_genre_match('Techno', {'techno': ['Electronic']})
         assert result == ['Electronic']
         
         # Совпадение без учёта регистра
-        result = parser.find_genre_match('TECHNO', {'techno': ['Electronic']})
+        result = find_genre_match('TECHNO', {'techno': ['Electronic']})
         assert result == ['Electronic']
         
         # Отсутствие совпадения
-        result = parser.find_genre_match('Unknown', {'techno': ['Electronic']})
+        result = find_genre_match('Unknown', {'techno': ['Electronic']})
         assert result is None
     
     def test_process_genres(self):
         """Обработка строки жанров"""
-        parser = HHVParser()
+        from HHV_to_csv import process_genres
         
         # Простая обработка
-        result = parser.process_genres('Techno, House')
+        result = process_genres('Techno, House', {})
         assert isinstance(result, str)
         
         # Пустая строка
-        result = parser.process_genres('')
+        result = process_genres('', {})
         assert result == '' or result is None

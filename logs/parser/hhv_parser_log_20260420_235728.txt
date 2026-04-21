@@ -1,0 +1,16 @@
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-20 23:57:28 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260420_235728.txt

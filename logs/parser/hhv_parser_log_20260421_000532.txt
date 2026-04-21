@@ -1,0 +1,6 @@
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260421_000532.txt
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260421_000532.txt
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:66 | === HHV parser session started ===
+2026-04-21 00:05:32 | INFO     | HHV.parser | setup_logging:67 | Log file: logs/parser/hhv_parser_log_20260421_000532.txt
