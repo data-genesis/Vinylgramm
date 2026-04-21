@@ -5,15 +5,15 @@ FROM ubuntu:24.04
 # Избегаем интерактивных запросов
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Обновляем систему и устанавливаем зависимости
+# Обновляем систему и устанавливаем зависимости для Playwright и Python
 RUN apt-get update && apt-get install -y \
-    python3.12 \
-    python3.12-venv \
+    python3 \
+    python3-venv \
     python3-pip \
     wget \
     ca-certificates \
     fonts-liberation \
-    libasound2 \
+    libasound2t64 \
     libatk-bridge2.0-0 \
     libdrm2 \
     libgbm1 \
